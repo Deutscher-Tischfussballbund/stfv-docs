@@ -1,4 +1,4 @@
-![STFV Logo](images/STFV-LOGO.png)
+![STFV Logo](images/STFV-LOGO.png){ width=300px }
 
 Awareness-Konzept
 
