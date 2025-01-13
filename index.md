@@ -22,5 +22,4 @@ Hier kannst du Inhalte aus deinen Markdown-Dateien anzeigen lassen.
 <!-- Zurück nach oben Button -->
 <a href="#top" id="back-to-top">Nach oben</a>
 
-<!-- Zurück zum Hauptmenü Button -->
-<a href="hauptmenue.html" id="back-to-menu">Zurück zum Hauptmenü</a>
+<script src="script.js"></script>
