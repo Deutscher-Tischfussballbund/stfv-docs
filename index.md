@@ -1,5 +1,7 @@
 # Verbandsdokumente
 
+<!-- Inhaltsverzeichnis (TOC) -->
+## Inhaltsverzeichnis
 - [Awareness Konzept](docs/STFV Awareness-Konzept.md)
 - [Datenschutzordnung](docs/STFV Datenschutzordnung (Stand 18.01.2015).md)
 - [Gebührenordnung](docs/STFV Gebührenordnung (Stand 01.12.2023).md)
@@ -13,3 +15,12 @@
 - [Spielordnung Classic](docs/STFV Spielordnung Classic (SPO Classic).md)
 - [Spielordnung Pro](docs/STFV Spielordnung Pro (SPO Pro).md)
 - [Turnierregularien](docs/STFV Turnierregularien (Stand 11.07.2023).md)
+
+<!-- Markdown-Inhalt -->
+Hier kannst du Inhalte aus deinen Markdown-Dateien anzeigen lassen.
+
+<!-- Zurück nach oben Button -->
+<a href="#top" id="back-to-top">Nach oben</a>
+
+<!-- Zurück zum Hauptmenü Button -->
+<a href="hauptmenue.html" id="back-to-menu">Zurück zum Hauptmenü</a>
