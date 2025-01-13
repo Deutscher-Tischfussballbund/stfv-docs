@@ -1,7 +1,5 @@
 ![STFV LOGO](images/STFV-LOGO.png)
 
-
-
 Awareness-Konzept
 
 **Achtsamkeit im saarländischen Tischfußball**
