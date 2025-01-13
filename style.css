@@ -1,6 +1,12 @@
 /* Globale Initialisierung des Zählers */
 body {
     counter-reset: section; /* Initialisiert den section-Zähler auf der gesamten Seite */
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
 }
 
 /* Titel des Dokuments */
@@ -50,16 +56,6 @@ h4::before {
 }
 
 /* Grundlegendes Styling für eine moderne Optik */
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
-}
-
-/* Wrapper für den Inhalt */
 .wrapper {
     max-width: 800px;
     margin: 20px auto;
@@ -184,42 +180,40 @@ li {
     margin-bottom: 10px;
 }
 
-/* Button für zurück zum Hauptmenü */
-#back-to-menu {
+/* Styling für die Buttons */
+#back-to-menu, #back-to-top {
     position: fixed;
-    bottom: 80px; /* Position etwas höher als der „Zurück nach oben“-Button */
-    left: 20px;
-    background-color: #3498db;
-    color: white;
-    padding: 10px 15px;
-    border-radius: 5px;
-    text-decoration: none;
-    font-size: 14px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    display: block;
-    transition: background-color 0.3s ease;
-}
-
-#back-to-menu:hover {
-    background-color: #2980b9;
-}
-
-/* Styling für den „Zurück nach oben“-Button */
-#back-to-top {
-    position: fixed;
-    bottom: 20px;
     right: 20px;
-    background-color: #3498db;
-    color: white;
     padding: 10px 15px;
     border-radius: 5px;
     text-decoration: none;
     font-size: 14px;
+    color: white;
+    background-color: #3498db;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    display: block; /* Immer sichtbar */
     transition: background-color 0.3s ease;
 }
 
-#back-to-top:hover {
+#back-to-menu {
+    bottom: 70px; /* Button "Zurück zum Hauptmenü" über dem "Zurück nach oben"-Button */
+}
+
+#back-to-top {
+    bottom: 20px; /* Position des "Zurück nach oben"-Buttons */
+    display: none; /* Wird nur bei Scrollen sichtbar */
+}
+
+#back-to-menu:hover, #back-to-top:hover {
     background-color: #2980b9;
+}
+
+/* JavaScript-Steuerung für das Anzeigen des "Zurück nach oben"-Buttons */
+#back-to-top {
+    display: block;
+}
+
+/* Style für das "Zurück nach oben"-Button, wenn sichtbar */
+#back-to-top {
+    display: none;
+    transition: display 0.5s ease-in-out;
 }
