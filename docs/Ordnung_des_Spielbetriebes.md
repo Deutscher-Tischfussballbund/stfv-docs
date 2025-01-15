@@ -1,4 +1,17 @@
-![STFV Logo](images/STFV-LOGO.png)
+<div class="html-only" style="text-align: center;">
+    <div class="title" style="text-align: center;">
+        <img src="images/STFV-LOGO.png" alt="STFV Logo" style="display: block; margin: 0 auto;" />
+        
+    </div>
+
+    <p style="text-align: center;">
+       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
+    </p>
+    <p>
+        <a href="./../assets/pdf/Awareness_Konzept.pdf" target="_blank">Download als PDF</a><br />
+        <a href="https://github.com/Deutscher-Tischfussballbund/dtfb-docs/blob/main/docs/DTFB-Satzung_20201010.md" target="_blank">GitHub Repository</a>
+    </p>
+</div>
 
 # Ordnung des Spielbetriebes
 
