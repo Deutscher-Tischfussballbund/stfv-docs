@@ -1,4 +1,3 @@
-![STFV LOGO](images/STFV-LOGO.png)
 
 <div class="html-only" style="text-align: center;">
     <div class="title" style="text-align: center;">
