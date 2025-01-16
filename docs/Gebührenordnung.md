@@ -21,7 +21,7 @@
 
 ## Inhaltsverzeichnis
 
-1. [Grundsatz](#grundsatz)
+1. [Grundsatz](##-§-grundsatz)
 2. [Haushaltsplan](#haushaltsplan)
 3. [Jahresabschluss](#jahresabschluss)
 4. [Hauptkassierer](#hauptkassierer)
