@@ -8,7 +8,7 @@
        Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
     </p>
     <p>
-        <a href="./../assets/pdf/Regelwerk_STFV.pdf="_blank">Download als PDF</a><br />
+        <a href="./../assets/pdf/Regelwerk_STFV.pdf" target="_blank">Download als PDF</a><br />
         <a href="https://deutscher-tischfussballbund.github.io/stfv-docs/" target="_blank">Back</a>
     </p>
 </div>
