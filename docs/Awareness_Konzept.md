@@ -13,7 +13,7 @@
     </p>
 </div>
 
-Awareness-Konzept
+# Awareness-Konzept
 
 **Achtsamkeit im saarländischen Tischfußball**
 
