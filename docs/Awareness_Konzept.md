@@ -9,7 +9,7 @@
     </p>
     <p>
         <a href="./../assets/pdf/Awareness_Konzept.pdf" target="_blank">Download als PDF</a><br />
-        <a href="https://github.com/Deutscher-Tischfussballbund/dtfb-docs/blob/main/docs/DTFB-Satzung_20201010.md" target="_blank">GitHub Repository</a>
+        <a href="https://deutscher-tischfussballbund.github.io/stfv-docs/" target="_blank">Back</a>
     </p>
 </div>
 
