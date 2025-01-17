@@ -48,7 +48,7 @@ Der Schriftführer führt Protokolle von Versammlungen, Vorstands- und Schiedsge
 
 ---
 
-# 4 Tätigkeitsbereich - Spielbetriebskommission
+# Tätigkeitsbereich - Spielbetriebskommission
 
 Die Spielbetriebskommission ist für den reibungslosen Ablauf des Spielbetriebs verantwortlich, einschließlich Verbandsspielen, Nachholspielen, Pokalspielen und Relegationsspielen. Sie führt Tabellenlisten und spricht Ordnungsstrafen gemäß § 11 Abs. 1-8 der GO aus.
 
