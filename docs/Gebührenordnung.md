@@ -13,67 +13,49 @@
     </p>
 </div>
 
-# Gebührenordnung des STFV e.V.
-
-**Stand: 01.12.2023**
-
 ---
 
-## Inhaltsverzeichnis
-
-1. [Grundsatz](#-§-grundsatz)
-2. [Haushaltsplan](#haushaltsplan)
-3. [Jahresabschluss](#jahresabschluss)
-4. [Hauptkassierer](#hauptkassierer)
-5. [Zahlungsanweisungen](#zahlungsanweisungen)
-6. [Zahlungsverkehr](#zahlungsverkehr)
-7. [Rechtsverbindlichkeiten](#rechtsverbindlichkeiten)
-8. [Kostenerstattung](#kostenerstattung)
-9. [Zahlungstermine und -verpflichtungen](#zahlungstermine-und--verpflichtungen)
-10. [Gebühren und Beiträge](#gebühren-und-beiträge)
-11. [Ordnungsstrafen](#ordnungsstrafen)
-12. [Aufwandsentschädigungen](#aufwandsentschädigungen)
-13. [Tätigkeitsbereich: STFV-Geschäftsstelle – Klassenleiter](#tätigkeitsbereich-stfv-geschäftsstelle--klassenleiter)
-
+* TOC
+{:toc}
 ---
 
-## § 1 Grundsatz
+# Grundsatz
 
 Die Finanzwirtschaft des Verbandes ist sparsam zu führen.
 
 ---
 
-## § 2 Haushaltsplan
+# Haushaltsplan
 
 Der vom geschäftsführenden Vorstand aufgestellte und vom Gesamtvorstand gebilligte Haushaltsplan wird der Mitgliederversammlung zur Genehmigung vorgelegt. Er ist genehmigt, wenn er mit einfacher Mehrheit angenommen wird.
 
 ---
 
-## § 3 Jahresabschluss
+# Jahresabschluss
 
 Im Jahresabschluss sind die Einnahmen und Ausgaben des Haushaltsplanes nachzuweisen sowie die Schulden und das Vermögen aufzuführen. Er hat außerdem eine Vermögensübersicht zu enthalten. Nach Prüfung durch die gewählten Kassenprüfer erstattet der Hauptkassierer dem Vorstand Bericht. Nach Genehmigung durch den Vorstand erfolgt die Veröffentlichung in der Mitgliederversammlung.
 
 ---
 
-## § 4 Hauptkassierer
+# Hauptkassierer
 
 Der Hauptkassierer verwaltet die zentrale Kassen- und Buchungsstelle. Zahlungen werden von ihm nur geleistet, wenn sie ordnungsgemäß angewiesen sind. Der Hauptkassierer überwacht die sich aus der Erhebung von Sonderbeiträgen ergebende selbständige Kassenführung der Abteilungen.
 
 ---
 
-## § 5 Zahlungsanweisungen
+# Zahlungsanweisungen
 
 Die Zahlungsanweisungen bedürfen der Linksunterschrift des Vorstandes (§ 26 BGB). Die zweite Unterschrift leistet der Verbandsvorsitzende oder bei Verhinderung bzw. Abwesenheit ein vom Vorstand Beauftragter.
 
 ---
 
-## § 6 Zahlungsverkehr
+# Zahlungsverkehr
 
 Der Zahlungsverkehr ist möglichst bargeldlos über das Verbandskonto bei der Kreissparkasse St. Wendel (IBAN: DE18592510200000004143, BIC: SALADE51WND) abzuwickeln. Über jede Einnahme und Ausgabe muss ein Kassenbeleg vorhanden sein.
 
 ---
 
-## § 7 Rechtsverbindlichkeiten
+# Rechtsverbindlichkeiten
 
 Das Eingehen von Rechtsverbindlichkeiten im Rahmen des Haushaltsplanes ist im Einzelfall vorbehalten:
 
@@ -84,13 +66,13 @@ Der Vorstand ist von solchen Verbindlichkeiten zu unterrichten.
 
 ---
 
-## § 8 Kostenerstattung
+# Kostenerstattung
 
 Den ehrenamtlichen Mitarbeitern des Verbandes sind entstehende Kosten nach den jeweils gültigen Vergütungssätzen zu erstatten.
 
 ---
 
-## § 9 Zahlungstermine und -verpflichtungen
+# Zahlungstermine und -verpflichtungen
 
 1. Die Aufnahmegebühr (Kaution) ist bei Aufnahme in den Verband innerhalb von 4 Wochen nach schriftlicher Beitrittserklärung fällig.
 2. Der Jahresbeitrag für die 1. und jede weitere Mannschaft eines Vereins ist bis 31. März jeden Jahres fällig.
@@ -102,9 +84,9 @@ Den ehrenamtlichen Mitarbeitern des Verbandes sind entstehende Kosten nach den j
 
 ---
 
-## § 10 Gebühren und Beiträge
+# Gebühren und Beiträge
 
-### Gültig für Classic- und Pro-Ligen
+## Gültig für Classic- und Pro-Ligen
 
 1. **Aufnahmegebühr:** € 60,--
 2. **Kaution (auf Sparkonto):** € 100,--
@@ -126,9 +108,9 @@ Den ehrenamtlichen Mitarbeitern des Verbandes sind entstehende Kosten nach den j
 
 ---
 
-## § 11 Ordnungsstrafen
+# Ordnungsstrafen
 
-### Gültig für Classic- und Pro-Ligen
+## Gültig für Classic- und Pro-Ligen
 
 1. **Nichtantreten einer Mannschaft:**
    - Landesliga: € 80,--
@@ -140,7 +122,7 @@ Den ehrenamtlichen Mitarbeitern des Verbandes sind entstehende Kosten nach den j
 
 ---
 
-## § 12 Aufwandsentschädigungen
+# Aufwandsentschädigungen
 
 1. **Schiedsrichterspesen:** € 50,-- je Einsatz
 2. **KM-Pauschale:** € 0,35 je KM für:
@@ -151,7 +133,7 @@ Den ehrenamtlichen Mitarbeitern des Verbandes sind entstehende Kosten nach den j
 
 ---
 
-## § 13 Tätigkeitsbereich: STFV-Geschäftsstelle – Klassenleiter
+# Tätigkeitsbereich: STFV-Geschäftsstelle – Klassenleiter
 
 1. Gegen Maßnahmen können betroffene Vereine binnen 14 Tagen Einspruch einlegen.
 2. Der Einspruch ist nur gültig, wenn die Gebühr vorab entrichtet wurde.
