@@ -13,19 +13,16 @@
     </p>
 </div>
 
-# Leitfaden des Schiedsgerichts
-
-**des STFV e.V.**
 
 ---
 
-## Zweck
+# Zweck
 
 Der folgende Leitfaden soll der Tischfußballgemeinschaft die Entscheidungen und Urteile der STFV-Gremien transparenter und nachvollziehbarer machen. In künftigen Verhandlungen des Schiedsgerichts stellt dieses das Vergehen fest und orientiert sich bei der Strafbemessung an den Vorgaben dieses Leitfadens. Selbstverständlich muss es in besonderen Fällen dem Schiedsgericht vorbehalten bleiben, von den nachstehenden Grundsätzen abzuweichen.
 
 ---
 
-## Unsportlichkeit nach §11.4 SPO
+# Unsportlichkeit nach §11.4 SPO
 
 (Unfaires Trennen vom Ball, Zeitspiel, Anheben usw.)
 
@@ -34,7 +31,7 @@ Der folgende Leitfaden soll der Tischfußballgemeinschaft die Entscheidungen und
 
 ---
 
-## Beleidigungen nach §11.10 SPO
+# Beleidigungen nach §11.10 SPO
 
 (Gegen Spieler, Schiedsrichter, Zuschauer)
 
@@ -46,7 +43,7 @@ Der folgende Leitfaden soll der Tischfußballgemeinschaft die Entscheidungen und
 
 ---
 
-## Drohung §11.10 SPO
+# Drohung §11.10 SPO
 
 (Gegen Spieler, Schiedsrichter, Zuschauer)
 
@@ -57,7 +54,7 @@ Der folgende Leitfaden soll der Tischfußballgemeinschaft die Entscheidungen und
 
 ---
 
-## Tätlichkeit §11.10 SPO
+# Tätlichkeit §11.10 SPO
 
 (Gegen Spieler, Schiedsrichter, Zuschauer)
 
@@ -69,7 +66,7 @@ Der folgende Leitfaden soll der Tischfußballgemeinschaft die Entscheidungen und
 
 ---
 
-## Manipulation §9.4 SPO
+# Manipulation §9.4 SPO
 
 (Verschieben von Spielen)
 
@@ -78,11 +75,11 @@ Der folgende Leitfaden soll der Tischfußballgemeinschaft die Entscheidungen und
 
 ---
 
-## Weitere Bestimmungen
+# Weitere Bestimmungen
 
 - Bei Vergehen, die eine Spielsperre beinhalten, kann der Betroffene zusätzlich von den Verbandsaktivitäten, wie Ranglistenturnieren und Saarlandmeisterschaft, ausgeschlossen werden.
 - In besonders schweren Fällen wird das Verfahren „Ausschluss aus dem Verband“ nach §9 Abs. 2 der Satzung eingeleitet.
 
 ---
 
-**Stand:** 01. Februar 2019
+

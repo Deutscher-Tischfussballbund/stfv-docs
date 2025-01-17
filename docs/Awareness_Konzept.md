@@ -13,13 +13,12 @@
     </p>
 </div>
 
-# Awareness-Konzept
 
-**Achtsamkeit im saarländischen Tischfußball**
+
 
 ---
 
-## Einleitung
+# Einleitung
 
 In der saarländischen Tischfußballiga und bei verschiedenen Turnieren treffen jede Woche zahlreiche Spielerinnen und Spieler sowie Teams aufeinander. Wo viele Menschen zusammenkommen, ist es besonders wichtig, für ein achtsames Miteinander zu sorgen, damit sich niemand unwohl oder ausgeschlossen fühlt. Dieses Awareness-Konzept soll dazu beitragen, ein sicheres und respektvolles Umfeld zu schaffen sowie Hilfsmöglichkeiten für Betroffene von Diskriminierung, Belästigung oder anderweitigem grenzüberschreitendem Verhalten zu bieten.
 
@@ -27,11 +26,11 @@ In der saarländischen Tischfußballiga und bei verschiedenen Turnieren treffen 
 
 ---
 
-## Verhaltenskodex
+# Verhaltenskodex
 
 Der Verhaltenskodex bildet die Grundlage für ein respektvolles und sicheres Miteinander. Er gilt bei Turnieren, Ligaspielen und anderen Veranstaltungen und richtet sich an alle Beteiligten: Spieler*innen, Zuschauer*innen und Organisatoren.
 
-### Grundsätze des Verhaltenskodex:
+## Grundsätze des Verhaltenskodex:
 
 1. **Respekt und Wertschätzung:**
    - Alle Anwesenden begegnen sich mit gegenseitiger Wertschätzung und unterlassen herabwürdigende und beleidigende Äußerungen.
@@ -45,17 +44,17 @@ Der Verhaltenskodex bildet die Grundlage für ein respektvolles und sicheres Mit
 
 ---
 
-## Unterstützung von Betroffenen
+# Unterstützung von Betroffenen
 
 Betroffene können sich jederzeit an das Awareness-Team des STFV wenden. 
 
-### Kontakt:
+## Kontakt:
 
 - **E-Mail:** [awareness@stfv.de](mailto:awareness@stfv.de)
 
 Betroffene können bei Bedarf ein persönliches Gespräch vereinbaren. Der Fokus liegt auf den Bedürfnissen der betroffenen Person; ihre Wahrnehmung wird nicht in Frage gestellt. 
 
-### Ansprechpartnerinnen:
+## Ansprechpartnerinnen:
 
 - Daniela Gerhardt  
 
@@ -63,13 +62,13 @@ Alle Anfragen und Gespräche werden vertraulich behandelt. Informationen werden 
 
 ---
 
-## Spielorte mit Awareness-Konzepten
+# Spielorte mit Awareness-Konzepten
 
 Einige Veranstalter, wie das **Bundesleistungszentrum am Sportcampus Saar**, haben ein eigenes Awareness-Konzept entwickelt.
 
 ---
 
-## Weitere Hilfsangebote
+# Weitere Hilfsangebote
 
 - **Frauennotruf Saarland:** 0681 36767 ([frauennotruf-saarland.de](https://frauennotruf-saarland.de))
 - **Hilfetelefon Gewalt gegen Frauen:** 0800 0116016 ([hilfetelefon.de](https://hilfetelefon.de))
@@ -79,7 +78,7 @@ Einige Veranstalter, wie das **Bundesleistungszentrum am Sportcampus Saar**, hab
 
 ---
 
-## Weiterführende Literatur
+# Weiterführende Literatur
 
 - **Wiesental, A.** (2024). *Antisexistische Awareness: Ein Handbuch* (3. Aufl.). Unrast.
 - **Antwort.** (2021). *Was tun bei sexualisierter Gewalt?: Handbuch für die transformative Arbeit mit gewaltausübenden Personen* (2. Aufl.). Unrast.

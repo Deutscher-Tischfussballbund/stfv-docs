@@ -13,35 +13,23 @@
     </p>
 </div>
 
-# Turnierregularien
-
-**Stand: 11.07.2023**
+**Turnierregularien**
 
 ---
 
-## Inhaltsverzeichnis
-
-1. [Allgemeines](#allgemeines)
-2. [Teilnahmebedingungen](#teilnahmebedingungen)
-3. [Turnierformate](#turnierformate)
-4. [Setzsystem](#setzsystem)
-5. [Spielablauf](#spielablauf)
-6. [Zeitlimits](#zeitlimits)
-7. [Punktesystem](#punktesystem)
-8. [Schiedsrichterwesen](#schiedsrichterwesen)
-9. [Strafen und Ordnungsmaßnahmen](#strafen-und-ordnungsmaßnahmen)
-10. [Sonderregelungen](#sonderregelungen)
+* TOC
+{:toc}
 
 ---
 
-## §1 Allgemeines
+# Allgemeines
 
 1. Diese Turnierregularien regeln den Ablauf von Ranglistenturnieren und Meisterschaften im STFV.
 2. Sie sind für alle Teilnehmer verbindlich und ergänzen die geltenden Spielordnungen.
 
 ---
 
-## §2 Teilnahmebedingungen
+# Teilnahmebedingungen
 
 1. Teilnahmeberechtigt sind alle Spieler mit gültiger Spiellizenz des STFV oder eines anerkannten Partnerverbands.
 2. Spieler müssen sich rechtzeitig anmelden. Die Anmeldefrist endet 48 Stunden vor Turnierbeginn.
@@ -49,7 +37,7 @@
 
 ---
 
-## §3 Turnierformate
+# Turnierformate
 
 1. **Einzel:**
    - Jeder Spieler tritt alleine an.
@@ -64,14 +52,14 @@
 
 ---
 
-## §4 Setzsystem
+# Setzsystem
 
 1. Spieler/Teams werden nach ihrer aktuellen Ranglistenplatzierung gesetzt.
 2. Ungesetzte Spieler/Teams werden zufällig in das Turnier integriert.
 
 ---
 
-## §5 Spielablauf
+# Spielablauf
 
 1. **Anwesenheit:**
    - Spieler müssen spätestens 15 Minuten vor Spielbeginn anwesend sein.
@@ -84,7 +72,7 @@
 
 ---
 
-## §6 Zeitlimits
+# Zeitlimits
 
 1. **Ballführung:**
    - 15 Sekunden auf der Mittelreihe.
@@ -96,7 +84,7 @@
 
 ---
 
-## §7 Punktesystem
+# Punktesystem
 
 1. **Ranglistenturniere:**
    - Sieger erhalten 100 Punkte.
@@ -108,7 +96,7 @@
 
 ---
 
-## §8 Schiedsrichterwesen
+# Schiedsrichterwesen
 
 1. Jedes Spiel kann von einem offiziellen Schiedsrichter des STFV geleitet werden.
 2. Spieler können während eines Spiels einen Schiedsrichter anfordern.
@@ -116,7 +104,7 @@
 
 ---
 
-## §9 Strafen und Ordnungsmaßnahmen
+# Strafen und Ordnungsmaßnahmen
 
 1. **Nichtantreten:**
    - Ordnungsgeld von 20 €.
@@ -127,7 +115,7 @@
 
 ---
 
-## §10 Sonderregelungen
+# Sonderregelungen
 
 1. Turnierveranstalter können bei Bedarf Sonderregelungen erlassen, die in der Turnierausschreibung bekannt gegeben werden.
 2. Änderungen während des Turniers bedürfen der Zustimmung aller betroffenen Spieler/Teams.

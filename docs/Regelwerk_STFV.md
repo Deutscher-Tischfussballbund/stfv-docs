@@ -13,28 +13,18 @@
     </p>
 </div>
 
-# Regelwerk STFV
+**Regelwerk STFV**
 
 **Stand: 03.05.2023**
 
 ---
 
-## Inhaltsverzeichnis
-
-1. [Spielbeginn](#spielbeginn)
-2. [Spielunterbrechungen](#spielunterbrechungen)
-3. [Ball im Aus](#ball-im-aus)
-4. [Toter Ball](#toter-ball)
-5. [Erzieltes Tor](#erzieltes-tor)
-6. [Foulspiel](#foulspiel)
-7. [Rundschlagen der Stange](#rundschlagen-der-stange)
-8. [Zeitlimits](#zeitlimits)
-9. [Time Out](#time-out)
-10. [Ergänzungen für Turniere](#ergänzungen-für-turniere)
+* TOC
+{:toc}
 
 ---
 
-## Spielbeginn
+# Spielbeginn
 
 - Das Spiel beginnt vor einem Satz oder nach einem Seitenwechsel auf der Mittelreihe.
 - Vor jeder Spielaufnahme und nach jeder Spielunterbrechung müssen die jeweiligen Gegenspieler ihre Spielbereitschaft durch ein deutlich vernehmbares „Fertig“ bekunden:
@@ -45,7 +35,7 @@
 
 ---
 
-## Spielunterbrechungen
+# Spielunterbrechungen
 
 Das Spiel gilt als unterbrochen, wenn:
 
@@ -57,35 +47,35 @@ Das Spiel gilt als unterbrochen, wenn:
 
 ---
 
-## Ball im Aus
+# Ball im Aus
 
 - Als Spielfeld zählt alles, was zum Original-Spielgerät gehört.
 - Verlässt der Ball den Spieltisch (z. B. durch Berührung von Körperteilen oder Zusatzbeleuchtung), wird er im Abwehrbereich des Teams neu aufgelegt, das zu Spielbeginn Anstoß hatte (gegenüber dem Münzautomaten).
 
 ---
 
-## Toter Ball
+# Toter Ball
 
 - Bleibt der Ball unerreichbar zwischen Mittelreihe und Torwand liegen, wird er im Abwehrbereich der betroffenen Spielhälfte neu aufgelegt.
 - Liegt der Ball unerreichbar zwischen den Mittelreihen, wird auf der spielbeginnenden Mittelreihe neu aufgelegt.
 
 ---
 
-## Erzieltes Tor
+# Erzieltes Tor
 
 - Wird ein Tor erzielt, geht es mit Neuauflage im Abwehrbereich weiter.
 - Ein Ball, der aus dem Tor herausspringt, gilt nicht als Tor.
 
 ---
 
-## Foulspiel
+# Foulspiel
 
 - Regelwidrige Aktionen (z. B. Rucken, Anschlagen gegen den Spieltisch, Anheben des Spieltischs, Blasen), die den Gegner beeinträchtigen, sind untersagt und ziehen eine Bestrafung nach sich.
 - Verliert ein Spieler infolge eines unsportlichen Verhaltens des Gegners den Ball, erhält er ihn zurück. Der Ball wird unter derselben Figur platziert, unter der er sich beim Foul befand.
 
 ---
 
-## Rundschlagen der Stange
+# Rundschlagen der Stange
 
 - Das Rundschlagen der Stange zum Zweck des Ballabschusses ist nicht erlaubt. In diesem Fall erhält die gegnerische Mannschaft den Ball auf die Zweierreihe.
 - Kommt der Gegner nach dem Rundschlagen in Ballbesitz, geht das Spiel nach „Fertig“ auf der Spielfigur weiter, die den Ball kontrolliert.
@@ -93,7 +83,7 @@ Das Spiel gilt als unterbrochen, wenn:
 
 ---
 
-## Zeitlimits
+# Zeitlimits
 
 - **Ballführende Stange:** 20 Sekunden.
 - Überschreitet ein Spieler das Zeitlimit:
@@ -102,7 +92,7 @@ Das Spiel gilt als unterbrochen, wenn:
 
 ---
 
-## Time Out
+# Time Out
 
 - Pro Satz darf jedes Team während des Ballbesitzes zwei Time-outs von maximal 60 Sekunden nehmen.
 - Spielunterbrechungen wegen technischer Probleme werden nicht als Time-out gewertet, wenn das Spiel sofort nach Behebung des Problems fortgesetzt wird.
@@ -112,7 +102,7 @@ Das Spiel gilt als unterbrochen, wenn:
 
 ---
 
-## Ergänzungen für Turniere
+# Ergänzungen für Turniere
 
 1. **Satz bis 11 Tore:** Jedes Team hat ein Time-out pro Seite.
 2. **Vorrunde (Spiel bis 7 Tore):** Jedes Team hat ein Time-out pro Spiel.

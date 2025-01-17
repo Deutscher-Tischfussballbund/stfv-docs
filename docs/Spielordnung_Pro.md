@@ -13,33 +13,22 @@
     </p>
 </div>
 
-# Spielordnung Pro (SPO Pro)
-
-**Stand: 13. September 2023**
+**Spielordnung Pro (SPO Pro)**
 
 ---
 
-## Inhaltsverzeichnis
-
-1. [Geltungsbereich](#geltungsbereich)
-2. [Spielregeln](#spielregeln)
-3. [Ausrüstung und Spielfeld](#ausrüstung-und-spielfeld)
-4. [Spielablauf](#spielablauf)
-5. [Zeitlimits und Pausen](#zeitlimits-und-pausen)
-6. [Schiedsrichter und Regelverstöße](#schiedsrichter-und-regelverstöße)
-7. [Punktesystem und Spielwertung](#punktesystem-und-spielwertung)
-8. [Ligastruktur und Aufstieg/Abstieg](#ligastruktur-und-aufstiegabstieg)
-9. [Strafen und Sanktionen](#strafen-und-sanktionen)
+* TOC
+{:toc}
 
 ---
 
-## §1 Geltungsbereich
+# Geltungsbereich
 
 Die Spielordnung Pro (SPO Pro) regelt den Ablauf und die Organisation des professionellen Tischfußballspielbetriebs im STFV. Sie gilt verbindlich für alle Vereine, Spieler und Funktionäre, die an Pro-Ligen und Turnieren teilnehmen.
 
 ---
 
-## §2 Spielregeln
+# Spielregeln
 
 1. **Zulassung:**
    - Es gelten ausschließlich die von der ITSF anerkannten Tischmodelle und Spielbälle.
@@ -50,7 +39,7 @@ Die Spielordnung Pro (SPO Pro) regelt den Ablauf und die Organisation des profes
 
 ---
 
-## §3 Ausrüstung und Spielfeld
+# Ausrüstung und Spielfeld
 
 1. **Tischmodelle:**
    - Nur durch die SpoRKom genehmigte Tische dürfen genutzt werden.
@@ -61,7 +50,7 @@ Die Spielordnung Pro (SPO Pro) regelt den Ablauf und die Organisation des profes
 
 ---
 
-## §4 Spielablauf
+# Spielablauf
 
 1. **Anstoß:**
    - Der Anstoß erfolgt auf der Mittelreihe nach Münzwurf oder Losentscheid.
@@ -73,7 +62,7 @@ Die Spielordnung Pro (SPO Pro) regelt den Ablauf und die Organisation des profes
 
 ---
 
-## §5 Zeitlimits und Pausen
+# Zeitlimits und Pausen
 
 1. **Zeitlimits:**
    - Pro Ballführung: 15 Sekunden auf der Mittelreihe, 20 Sekunden auf allen anderen Stangen.
@@ -84,7 +73,7 @@ Die Spielordnung Pro (SPO Pro) regelt den Ablauf und die Organisation des profes
 
 ---
 
-## §6 Schiedsrichter und Regelverstöße
+# Schiedsrichter und Regelverstöße
 
 1. **Schiedsrichterpflicht:**
    - Jedes Turnier und jede Liga muss durch ausgebildete Schiedsrichter begleitet werden.
@@ -95,7 +84,7 @@ Die Spielordnung Pro (SPO Pro) regelt den Ablauf und die Organisation des profes
 
 ---
 
-## §7 Punktesystem und Spielwertung
+# Punktesystem und Spielwertung
 
 1. **Punktevergabe:**
    - Sieg: 3 Punkte
@@ -106,7 +95,7 @@ Die Spielordnung Pro (SPO Pro) regelt den Ablauf und die Organisation des profes
 
 ---
 
-## §8 Ligastruktur und Aufstieg/Abstieg
+# Ligastruktur und Aufstieg/Abstieg
 
 1. **Ligen:**
    - Die Pro-Ligen bestehen aus Landesliga, Verbandsliga und Bezirksliga.
@@ -117,7 +106,7 @@ Die Spielordnung Pro (SPO Pro) regelt den Ablauf und die Organisation des profes
 
 ---
 
-## §9 Strafen und Sanktionen
+# Strafen und Sanktionen
 
 1. **Ordnungsstrafen:**
    - Unsportlichkeit: 20 €
