@@ -14,13 +14,11 @@
 </div>
 
 
-# Präventionskonzept sexualisierte Gewalt im Verein
-
-**Stand: 15.01.2023**
+**Präventionskonzept sexualisierte Gewalt im Verein**
 
 ---
 
-## Einführung
+# Einführung
 
 Der Saarländische Tischfußballverband e.V. (STFV) trägt Verantwortung für die ihm anvertrauten Kinder, Jugendlichen und jungen Erwachsenen sowie die aktiven Funktionsträger. Mit dem vorliegenden Präventionskonzept, beschlossen am 02.11.2021 in Eppelborn, zielt der STFV darauf ab, die Prävention von sexualisierter Gewalt innerhalb des Verbandes zu verbessern. 
 
@@ -28,7 +26,7 @@ Der STFV setzt sich für das Wohlergehen aller Beteiligten ein und schafft Struk
 
 ---
 
-## Ansprechpartner
+# Ansprechpartner
 
 Aktueller Ansprechpartner:  
 **Daniela Gerhardt** (Leiterin der Jugendförderung beim STFV)  
@@ -40,7 +38,7 @@ Die Ansprechperson koordiniert die Umsetzung der Maßnahmen und stimmt ihre Arbe
 
 ---
 
-## Feststellung der Eignung
+# Feststellung der Eignung
 
 1. Alle Mitarbeitenden des STFV (haupt-, nebenberuflich, ehrenamtlich) müssen eine **Selbstverpflichtungserklärung (Ehrenkodex)** unterzeichnen.
 2. Personen, die Kinder und Jugendliche betreuen, müssen gemäß §72a SGB VIII ein **erweitertes Führungszeugnis (eFZ)** vorlegen.
@@ -48,14 +46,14 @@ Die Ansprechperson koordiniert die Umsetzung der Maßnahmen und stimmt ihre Arbe
 
 ---
 
-## Qualifizierung von Mitarbeitenden
+# Qualifizierung von Mitarbeitenden
 
 1. Mitarbeitende, die Kinder und Jugendliche betreuen, werden im Themenfeld sexualisierte Gewalt qualifiziert.
 2. Die Qualifizierung erfolgt bei Tätigkeitsbeginn und in regelmäßigen Abständen von **3 Jahren**.
 
 ---
 
-## Verankerung in Satzungen und Ordnungen
+# Verankerung in Satzungen und Ordnungen
 
 Der STFV schreibt die Prävention sexualisierter Gewalt in seiner Satzung fest, um:
 
@@ -65,7 +63,7 @@ Der STFV schreibt die Prävention sexualisierter Gewalt in seiner Satzung fest, 
 
 ---
 
-## Interventionsleitfaden
+# Interventionsleitfaden
 
 Der STFV übernimmt Verantwortung für ein Krisenmanagement, das:
 
@@ -74,7 +72,7 @@ Der STFV übernimmt Verantwortung für ein Krisenmanagement, das:
 
 ---
 
-## Beschwerdemanagement und Evaluation
+# Beschwerdemanagement und Evaluation
 
 1. **Informationsrunden:**
    - Spieler/innen und Eltern werden über Verhaltenskodex und -regeln informiert.
