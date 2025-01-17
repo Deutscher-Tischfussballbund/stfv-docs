@@ -1,10 +1,10 @@
-    <div class="html-only" style="text-align: center;">
-    <div class="title" style="text-align: center;">
-    <img src="images/STFV-LOGO.png" alt="STFV Logo" style="display: block; margin: 0 auto;" />
-</div>
+<img src="images/STFV-LOGO.png" alt="STFV Logo" style="display: block; margin: 0 auto;" />
+
+---
 
 # Verbandsdokumente
 
+---
 
 ## Inhaltsverzeichnis
 - [Awareness Konzept](docs/Awareness_Konzept.md)
@@ -23,11 +23,5 @@
 
 ---
 
-    </div>
-    <p style="text-align: center;">
-       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
-    </p>
-    <p>
-        <a href="https://github.com/Deutscher-Tischfussballbund/stfv-docs/tree/main/docs" target="_blank">GitHub Repository</a>
-    </p>
-</div>
+ <a href="https://github.com/Deutscher-Tischfussballbund/stfv-docs/tree/main/docs" target="_blank">GitHub Repository</a>
+ 
