@@ -29,13 +29,13 @@ Die Ordnung der Sport- und Regelkommission kann durch die Delegiertenversammlung
 
 ---
 
-# 1 Name/Begriff
+# Name/Begriff
 
 Der Name „Sport- und Regelkommission“ wird im weiteren Text mit **SpoRKom** abgekürzt.
 
 ---
 
-# 2 Zweck
+# Zweck
 
 Die SpoRKom ist zuständig für alle Änderungen und Ergänzungen der:
 
@@ -46,20 +46,20 @@ Die SpoRKom ist zuständig für alle Änderungen und Ergänzungen der:
 
 ---
 
-# 3 Ziele
+# Ziele
 
 Die SpoRKom hat das Ziel, zukunftsweisende und effektive Änderungen sowie Ergänzungen aller Spielordnungen zeitnah umzusetzen.
 
 ---
 
-# 4 Organe der SpoRKom
+# Organe der SpoRKom
 
 - Leiter der SpoRKom
 - Delegiertenversammlung der SpoRKom
 
 ---
 
-# 5 Zusammensetzung
+# Zusammensetzung
 
 Die SpoRKom setzt sich zusammen aus:
 
@@ -71,7 +71,7 @@ Die SpoRKom setzt sich zusammen aus:
 
 ---
 
-# 6 Wahlen
+# Wahlen
 
 1. Der Vorsitzende der SpoRKom wird von der Mitgliederversammlung des Saarländischen Tischfußballverbands (STFV) für zwei Jahre gewählt und ist Mitglied des Vorstandes.
 2. Die SpoRKom wählt aus ihrer Mitte einen stellvertretenden Leiter.
@@ -87,7 +87,7 @@ Bei Rücktritt oder Ausfall des Leiters übernimmt der stellvertretende Leiter k
 
 ---
 
-# 7 Antragstellung und Bearbeitung
+# Antragstellung und Bearbeitung
 
 1. Antragsberechtigt sind alle Mitglieder des STFV.
 2. Anträge sind mit dem aktuellen Formblatt „Antrag zur Sport- und Regelkommission“ zu stellen und an den Leiter der SpoRKom zu senden.
@@ -98,7 +98,7 @@ Bei Rücktritt oder Ausfall des Leiters übernimmt der stellvertretende Leiter k
 
 ---
 
-# 8 Delegiertenversammlung der SpoRKom
+# Delegiertenversammlung der SpoRKom
 
 1. Die SpoRKom wird einberufen, wenn mindestens ein Antrag vorliegt. Sie tagt maximal viermal jährlich (einmal pro Quartal).
 2. Liegen keine Anträge vor, entfällt die Quartalstagung.
