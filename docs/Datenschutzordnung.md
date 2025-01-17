@@ -16,7 +16,7 @@
 
 ---
 
-# 1. Erfassung von Daten
+# Erfassung von Daten
 
 Der Verband erfasst Daten seiner Mitglieder, der Verbandsangehörigen, von Funktionsträgern, Schiedsrichtern und Übungsleitern. Dabei handelt es sich um folgende Angaben:
 
@@ -34,7 +34,7 @@ Zur Überwachung der Datenschutzbestimmungen wird vom STFV-Vorstand ein Datensch
 
 ---
 
-# 2. Interne Weitergabe von Daten
+# Interne Weitergabe von Daten
 
 Die in der Informationsverarbeitung der Geschäftsstelle gespeicherten Daten werden zur Erfüllung der satzungsmäßigen Zwecke des Verbandes mit der ausdrücklichen Maßgabe, dass die Daten nicht für andere Zwecke verwendet werden, den zuständigen Funktionsträgern im STFV zur Verfügung gestellt.
 
@@ -42,7 +42,7 @@ Als Mitglied des DTFB e.V. und des saarländischen Betriebssportverbandes stellt
 
 ---
 
-# 3. Externe Weitergabe von Daten
+# Externe Weitergabe von Daten
 
 Der Verband übermittelt seinen Kooperationspartnern auf Anforderung Listen bestimmter Personen- oder Vereinsgruppen, auf denen lediglich die Daten Name, Vorname und Adresse vermerkt sind.
 
@@ -50,7 +50,7 @@ Mitglieder und Einzelpersonen können der externen Weitergabe ihrer Daten schrif
 
 ---
 
-# 4. Veröffentlichung von Daten
+# Veröffentlichung von Daten
 
 Mit der Mitgliedschaft im STFV willigt das Mitglied ein, dass:
 
@@ -64,7 +64,7 @@ Mit der Teilnahme am Spielbetrieb willigen Vereine und Spieler ein, dass ihre Da
 
 ---
 
-# 5. Dauer der Datenspeicherung
+# Dauer der Datenspeicherung
 
 Die gespeicherten personenbezogenen Daten werden unverzüglich gelöscht, wenn sie zur Wahrung der berechtigten Interessen des STFV nicht mehr erforderlich sind.
 
