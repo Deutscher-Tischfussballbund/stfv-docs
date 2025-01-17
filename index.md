@@ -16,4 +16,13 @@
 - [Spielordnung Pro](docs/Spielordnung_Pro.md)
 - [Turnierregularien](docs/Turnierregularien.md)
 
+---
 
+</div>
+    <p style="text-align: center;">
+       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
+    </p>
+    <p>
+        <a href="https://github.com/Deutscher-Tischfussballbund/stfv-docs/tree/main/docs" target="_blank">GitHub Repository</a>
+    </p>
+</div>
