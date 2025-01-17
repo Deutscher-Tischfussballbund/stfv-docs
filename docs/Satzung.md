@@ -36,7 +36,7 @@
 
 ---
 
-## § 1 Name und Sitz
+##  Name und Sitz
 
 1. Der Verband führt den Namen **Saarländischer Tischfußballverband e. V. (STFV e. V.)**.
 2. Sitz des Verbandes ist **66564 Ottweiler**.
@@ -44,7 +44,7 @@
 
 ---
 
-## § 2 Zweck, Ziele und Aufgaben
+##  Zweck, Ziele und Aufgaben
 
 1. Der STFV e.V. verfolgt ausschließlich und unmittelbar **gemeinnützige Zwecke** im Sinne des Abschnitts „steuerbegünstigte Zwecke“ der Abgabenordnung.
 2. Der STFV ist parteipolitisch neutral und vertritt den Grundsatz religiöser und weltanschaulicher Toleranz sowie der Gleichberechtigung der Geschlechter, auch bei der Besetzung von Ämtern. Der STFV verurteilt jegliche Form von Gewalt und Machtmissbrauch unabhängig davon, ob sie körperlicher, seelischer oder sexualisierter Art ist.
@@ -57,7 +57,7 @@
 
 ---
 
-## § 3 Mitgliedschaft
+##  Mitgliedschaft
 
 1. Mitglied werden können:
    - Tischfußballvereine im Wirkungsbereich des STFV,
@@ -72,7 +72,7 @@
 
 ---
 
-## § 4 Wirtschaftsführung
+##  Wirtschaftsführung
 
 1. Geschäftsjahr ist das Kalenderjahr.
 2. Der Vorstand erstellt jährlich einen Haushaltsplan und legt eine Jahresabrechnung vor.
@@ -80,7 +80,7 @@
 
 ---
 
-## § 5 Organe des Verbandes
+##  Organe des Verbandes
 
 1. Mitgliederversammlung
 2. Vorstand
@@ -93,7 +93,7 @@
 
 ---
 
-## § 6 Mitgliederversammlung
+##  Mitgliederversammlung
 
 1. Die Mitgliederversammlung ist das oberste Organ des Verbandes.
 2. Sie findet einmal jährlich statt.
@@ -107,7 +107,7 @@
 
 ---
 
-## § 7 Vorstand
+##  Vorstand
 
 1. Der Vorstand besteht aus:
    - geschäftsführendem Vorstand (1. Vorsitzender, 2. Vorsitzender, Schriftführer, Hauptkassierer),
@@ -119,7 +119,7 @@
 
 ---
 
-## § 8 Schiedsgericht
+##  Schiedsgericht
 
 1. Zusammensetzung: Vorsitzender, Stellvertreter, Beisitzer und Schiedsrichterobmann.
 2. Zuständigkeit:
@@ -128,14 +128,14 @@
 
 ---
 
-## § 9 Protokollierung von Beschlüssen
+##  Protokollierung von Beschlüssen
 
 1. Über Beschlüsse ist ein Protokoll zu erstellen und von Versammlungsleiter und Schriftführer zu unterzeichnen.
 2. Protokoll der Mitgliederversammlung wird innerhalb von 4 Wochen auf der STFV-Homepage veröffentlicht.
 
 ---
 
-## § 10 Rechnungs- und Kassenprüfer
+##  Rechnungs- und Kassenprüfer
 
 1. Zwei Prüfer werden von der Mitgliederversammlung gewählt.
 2. Einmalige Wiederwahl ist zulässig, jedoch scheidet bei jeder Wahl ein Prüfer aus.
@@ -143,7 +143,7 @@
 
 ---
 
-## § 11 Abstimmungen und Wahlen
+##  Abstimmungen und Wahlen
 
 1. Beschlüsse:
    - Gefasst mit einfacher Stimmenmehrheit (Stimmenthaltungen zählen nicht).
@@ -154,7 +154,7 @@
 
 ---
 
-## § 12 Auflösung des Verbandes
+##  Auflösung des Verbandes
 
 1. Auflösung nur durch Mitgliederversammlung mit 3/4-Mehrheit.
 2. Bei Auflösung fällt das Vermögen an den Deutschen Tischfußballbund e.V. zur Verwendung für gemeinnützige Jugendpflege.
