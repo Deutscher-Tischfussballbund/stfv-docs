@@ -13,26 +13,18 @@
     </p>
 </div>
 
-# Spielordnung Classic (SPO Classic)
+**Spielordnung Classic (SPO Classic)**
 
 **Stand: 03. Mai 2023**
 
 ---
 
-## Inhaltsverzeichnis
-
-1. [Allgemeines](#allgemeines)
-2. [Spielregeln](#spielregeln)
-3. [Organisation und Durchführung des Spielbetriebs](#organisation-und-durchführung-des-spielbetriebs)
-4. [Pflichten der Mannschaften](#pflichten-der-mannschaften)
-5. [Spielwertung und Punktevergabe](#spielwertung-und-punktevergabe)
-6. [Schiedsrichterwesen](#schiedsrichterwesen)
-7. [Strafen und Ordnungsmaßnahmen](#strafen-und-ordnungsmaßnahmen)
-8. [Änderung der Spielordnung](#änderung-der-spielordnung)
+* TOC
+{:toc}
 
 ---
 
-## §1 Allgemeines
+# Allgemeines
 
 1. Die Spielordnung Classic regelt den sportlichen Ablauf des Tischfußballspielbetriebs im STFV.
 2. Sie ist bindend für alle Vereine, Spieler und Funktionäre, die am Spielbetrieb teilnehmen.
@@ -40,7 +32,7 @@
 
 ---
 
-## §2 Spielregeln
+# Spielregeln
 
 1. **Spielfeld:**
    - Es wird ausschließlich auf von der SpoRKom zugelassenen Tischmodellen gespielt.
@@ -58,7 +50,7 @@
 
 ---
 
-## §3 Organisation und Durchführung des Spielbetriebs
+# Organisation und Durchführung des Spielbetriebs
 
 1. **Saison:**
    - Der Spielbetrieb erstreckt sich vom 1. Januar bis 31. Dezember eines Jahres.
@@ -71,7 +63,7 @@
 
 ---
 
-## §4 Pflichten der Mannschaften
+# Pflichten der Mannschaften
 
 1. Jede Mannschaft ist verpflichtet:
    - Spielerpässe aller teilnehmenden Spieler vorzulegen.
@@ -81,7 +73,7 @@
 
 ---
 
-## §5 Spielwertung und Punktevergabe
+# Spielwertung und Punktevergabe
 
 1. Sieg: 2 Punkte  
 2. Unentschieden: 1 Punkt  
@@ -92,7 +84,7 @@
 
 ---
 
-## §6 Schiedsrichterwesen
+# Schiedsrichterwesen
 
 1. Schiedsrichter werden von der Spielbetriebskommission eingeteilt.
 2. Jeder Verein ist verpflichtet, mindestens einen ausgebildeten Schiedsrichter zu stellen.
@@ -100,7 +92,7 @@
 
 ---
 
-## §7 Strafen und Ordnungsmaßnahmen
+# Strafen und Ordnungsmaßnahmen
 
 1. **Nichtantreten:**
    - Ordnungsgeld in Höhe von 50 € für die nicht antretende Mannschaft.
@@ -111,7 +103,7 @@
 
 ---
 
-## §8 Änderung der Spielordnung
+# Änderung der Spielordnung
 
 1. Änderungen der Spielordnung können durch die Mitgliederversammlung oder die SpoRKom beschlossen werden.
 2. Änderungsanträge müssen mindestens 30 Tage vor der jeweiligen Sitzung eingereicht werden.
