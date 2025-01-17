@@ -1,4 +1,7 @@
-
+    <div class="html-only" style="text-align: center;">
+    <div class="title" style="text-align: center;">
+    <img src="images/STFV-LOGO.png" alt="STFV Logo" style="display: block; margin: 0 auto;" />
+</div>
 
 # Verbandsdokumente
 
