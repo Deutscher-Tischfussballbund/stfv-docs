@@ -23,9 +23,12 @@
 
 **Einleitung**
 
-Aus Gründen der besseren Lesbarkeit wird auf die gleichzeitige Verwendung der Sprachformen männlich, weiblich und divers (m/w/d) verzichtet. Sämtliche Personenbezeichnungen gelten gleichermaßen für alle Geschlechter.
+Aus Gründen der besseren Lesbarkeit wird auf die gleichzeitige Verwendung der Sprachformen männlich, weiblich und divers (m/w/d) verzichtet. 
 
-Die Ordnung der Sport- und Regelkommission kann durch die Delegiertenversammlung der SpoRKom kontinuierlich ergänzt bzw. geändert werden.
+Sämtliche Personenbezeichnungen gelten gleichermaßen für alle Geschlechter. 
+
+Die Ordnung der Sport- und Regelkommission kann durch die Delegiertenversammlung der
+SpoRKom kontinuierlich ergänzt bzw. geändert werden. 
 
 ---
 
@@ -37,83 +40,67 @@ Der Name „Sport- und Regelkommission“ wird im weiteren Text mit **SpoRKom** 
 
 # Zweck
 
-Die SpoRKom ist zuständig für alle Änderungen und Ergänzungen der:
-
-- Spielordnung classic (SPO classic),
-- Spielordnung pro (SPO pro),
-- Regelwerke des STFV,
-- Ordnung der SpoRKom des Saarländischen Tischfußballverbands e. V. (STFV).
+Die SpoRKom ist zuständig für alle Änderungen und Ergänzungen der Spielordnung classic (SPO classic), der Spielordnung pro (SPO pro), des Regelwerks STFV sowie der Ordnung der SpoRKom des Saarländischen Tischfußballverbandes e. V. (STFV). 
 
 ---
 
 # Ziele
 
-Die SpoRKom hat das Ziel, zukunftsweisende und effektive Änderungen sowie Ergänzungen aller Spielordnungen zeitnah umzusetzen.
+Die SpoRKom hat das Ziel, zukunftsweisende und effektive Änderungen sowie Ergänzungen aller Spielordnungen zeitnah umzusetzen. 
 
 ---
 
 # Organe der SpoRKom
 
-- Leiter der SpoRKom
-- Delegiertenversammlung der SpoRKom
+a. Leiter der SpoRKom 
+b. Delegiertenversammlung der SpoRKom 
 
 ---
 
 # Zusammensetzung
 
-Die SpoRKom setzt sich zusammen aus:
-
-- dem Leiter der SpoRKom,
-- seinem Stellvertreter,
-- dem STFV-Vorsitzenden oder einem Stellvertreter,
-- dem Schiedsgerichtsvorsitzenden oder einem Stellvertreter,
-- je einem Vertreter aller Mitgliedsvereine.
+a) Die SpoRKom setzt sich zusammen aus dem Leiter der SpoRKom, seinem Stellvertreter, dem STFV-Vorsitzenden oder einem Stellvertreter, dem Schiedsgerichtsvorsitzenden oder einem Stellvertreter sowie je einem Vertreter aller Mitgliedsvereine.
 
 ---
 
 # Wahlen
 
-1. Der Vorsitzende der SpoRKom wird von der Mitgliederversammlung des Saarländischen Tischfußballverbands (STFV) für zwei Jahre gewählt und ist Mitglied des Vorstandes.
-2. Die SpoRKom wählt aus ihrer Mitte einen stellvertretenden Leiter.
-3. Ein Schriftführer (Protokollführer) wird bei Bedarf vom Leiter der SpoRKom berufen.
+Der Vorsitzende der SpoRKom wird von der Mitgliederversammlung des Saarländischen Tischfußball Verbandes (STFV) für zwei Jahre gewählt. Dieser ist Mitglied des Vorstandes des STFV. Die SpoRKom wählt aus ihrer Mitte einen stellvertretenden Leiter. Ein Schriftführer (Protokollführer) wird bei Bedarf von dem Leiter der SpoRKom berufen.
 
 ## Legislaturperioden:
 
-- Leiter: Gleiche Dauer wie die des STFV-Vorstandes.
-- Stellvertretender Leiter: 3 Jahre.
-- Schriftführer: Unbefristet.
+bei dem/der Leiter die gleiche Dauer wie beim Vorstand des STFV 
+bei dem stellvertretenden Leiter = 3 Jahre
+bei dem nicht stimmberechtigten Schriftführer = unbestimmt.
 
-Bei Rücktritt oder Ausfall des Leiters übernimmt der stellvertretende Leiter kommissarisch die Geschäfte.
+Bei Rücktritt oder Ausfall des Leiters übernimmt der stellvertretende Leiter kommissarisch die Geschäfte des Leiters.
 
 ---
 
 # Antragstellung und Bearbeitung
 
-1. Antragsberechtigt sind alle Mitglieder des STFV.
-2. Anträge sind mit dem aktuellen Formblatt „Antrag zur Sport- und Regelkommission“ zu stellen und an den Leiter der SpoRKom zu senden.
-3. Jeder Antrag erhält eine Antragsnummer (Jahr, Monat, lfd. Nr.) und wird veröffentlicht.
-4. Anträge müssen mindestens zwei Wochen vor dem Sitzungstermin der Delegiertenversammlung der SpoRKom eingereicht werden.
-5. Inhaltliche Änderungen können während der Behandlung gemeinsam vorgenommen werden.
-6. Angenommene Anträge werden entsprechend neu formuliert in die SPO oder Ordnung der SpoRKom aufgenommen.
+Antragsberechtigt sind alle Mitglieder des STFV. Der Antrag wird mit dem jeweils aktuellen Formblatt „Antrag zur Sport- u. Regelkommission“ gestellt. Der Antrag ist an den Leiter/in der SpoRKom zu senden. Der Leiter teilt dem Antrag eine Antragsnummer zu (Jahr, Monat, lfd. Nr.) und veröffentlicht diesen.
+
+Anträge an die SpoRKom müssen mindestens 2 Wochen vor dem Sitzungstermin der nächsten Delegiertenversammlung der SpoRKom eingereicht werden.
+
+Inhaltliche Änderungen können während der Behandlung des Antrages von den anwesenden Delegierten gemeinsam vorgenommen werden. Angenommene Anträge werden dann entsprechend neu formuliert in die SPO bzw. in die Ordnung der SpoRKom aufgenommen.
 
 ---
 
 # Delegiertenversammlung der SpoRKom
 
-1. Die SpoRKom wird einberufen, wenn mindestens ein Antrag vorliegt. Sie tagt maximal viermal jährlich (einmal pro Quartal).
-2. Liegen keine Anträge vor, entfällt die Quartalstagung.
-3. Einladungen erfolgen über die STFV-Website; Vereinsverantwortliche werden zusätzlich per E-Mail mindestens sieben Tage vor dem Termin erinnert.
+Die SpoRKom wird einberufen, wenn mindestens ein Antrag vorliegt. Sie tagt maximal 4 x im Jahr (1 x pro Quartal). Liegen keine Anträge vor, entfällt die Quartalstagung. Grundsätzlich gelten die auf der Internetseite des STFV veröffentlichten Einladungen als zugestellt. Zusätzlich werden möglichst alle Vereinsverantwortlichen per E-Mail über den Verteiler des STFV mindestens 7 Tage vor dem Sitzungstermin erinnert.
 
-## Beschlussfähigkeit
+Die Beschlussfähigkeit der SpoRKom besteht bei Anwesenheit von mindestens 1/3 aller möglichen Delegierten. In der Einladung zur Delegiertenversammlung kann für den Fall der Beschlussunfähigkeit bereits zu einer zweiten Delegiertenversammlung, die am gleichen Tage unmittelbar und am gleichen Ort wie die erste stattfindet, geladen werden. Diese zweite Delegiertenversammlung findet mit derselben Tagesordnung, wie sie zur ersten vorgesehen war, statt und ist ohne Rücksicht auf die Zahl der erschienenen Delegierten beschlussfähig. Darauf ist ausdrücklich in der Einladung hinzuweisen.
 
-1. Die SpoRKom ist beschlussfähig bei Anwesenheit von mindestens einem Drittel aller möglichen Delegierten.
-2. Im Fall der Beschlussunfähigkeit kann eine zweite Versammlung am selben Tag und Ort mit derselben Tagesordnung einberufen werden, die unabhängig von der Anzahl der Delegierten beschlussfähig ist. Dies muss in der Einladung angekündigt werden.
+Die ordnungsgemäße Anwesenheit wird mittels einer Anwesenheitsliste festgestellt. Dabei ist zu beachten, dass nur stimmberechtigte Delegierte abstimmen dürfen. Nicht stimmberechtigte Gastdelegierte dürfen an der Versammlung teilnehmen.
 
-## Teilnahme und Abstimmung
+Für die Dauer der Versammlung wurde eine maximale Länge von 4 Stunden beschlossen. Bis dahin nicht behandelte Anträge werden auf der nächsten Sitzung wieder zur Abstimmung vorgelegt.
 
-1. Nur stimmberechtigte Delegierte können abstimmen; nicht stimmberechtigte Gastdelegierte dürfen teilnehmen.
-2. Für die Dauer der Versammlung wurde eine maximale Länge von vier Stunden festgelegt. Nicht behandelte Anträge werden auf der nächsten Sitzung behandelt.
-3. Antragssteller dürfen ihren Antrag vortragen und an der Diskussion teilnehmen, sind jedoch von der Abstimmung ausgeschlossen, sofern sie nicht gleichzeitig Delegierte sind.
-4. Abgestimmt wird mit einfacher Mehrheit der anwesenden Delegierten. Bei Pattsituationen entscheidet die Stimme des Vorsitzenden.
+Antragssteller haben das Recht ihren Antrag vorzutragen und an der Diskussion teilzunehmen. Die Abstimmung erfolgt dann allerdings ohne den Antragsteller, sofern er nicht gleichzeitig ordentlicher Delegierter ist.
+
+Es können jeweils nur Vereinsvertreter abstimmen, die auch in den entsprechenden Disziplinen (Liga pro bzw. Liga classic) mindestens eine Mannschaft gemeldet haben
+
+Abgestimmt wird mit einfacher Mehrheit der jeweils zum Zeitpunkt der Abstimmung anwesenden Delegierten. Bei Pattsituationen entscheidet die Stimme des Vorsitzenden.
 
 ---
