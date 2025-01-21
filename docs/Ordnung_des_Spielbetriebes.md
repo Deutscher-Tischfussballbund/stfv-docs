@@ -55,18 +55,18 @@ Die OdS hat das Ziel, einen effektiven Ablauf des Spielbetriebes zu gewährleist
 
 # Zusammensetzung der Spielbetriebskommission
 
-Die Spielbetriebskommission setzt sich zusammen aus:
-
-- dem/der Leiter/in der Spielbetriebskommission
-- den Klassenleitern/innen der verschiedenen Ligen
+Die Spielbetriebskommission setzt sich zusammen aus dem/der Leiter/in der Spielbetriebskommission und den/ Klassenleitern/innen der verschiedenen Ligen. 
 
 ---
 
 # Wahlen
 
-1. Der/die Leiter/in der Spielbetriebskommission wird von der Mitgliederversammlung des Saarländischen Tischfußballverbandes (STFV) für **zwei Jahre** gewählt.
-2. Der/die Leiter/in schlägt dem Vorstand des STFV die Klassenleiter/innen der verschiedenen Ligen vor. Diese werden vom Vorstand für **ein Jahr** in die Spielbetriebskommission berufen.
-3. Der/die stellvertretende Leiter/in der Spielbetriebskommission wird aus der Mitte der Spielbetriebskommission vorgeschlagen und ebenfalls für **ein Jahr** berufen.
+Der/die Leiter/in der Spielbetriebskommission wird von der Mitgliederversammlung des Saarländischen Tischfußball Verbandes STFV für zwei Jahre gewählt. 
+
+Er ist Mitglied des Vorstandes des STFV. Der/die Leiter/in der Spielbetriebskommission schlägt dem Vorstand des STFV die Klassenleiter/innen der verschiedenen Ligen vor. Diese werden vom Vorstand für 1 Jahr in die Spielbetriebskommission berufen. 
+
+Der/die stellvertretende Leiter/in der Spielbetriebskommission wird aus der Mitte der 
+Spielbetriebskommission vorgeschlagen und ebenfalls für 1 Jahr berufen.
 
 ---
 
@@ -81,22 +81,26 @@ Die Spielbetriebskommission setzt sich zusammen aus:
 
 # Aufgaben der Spielbetriebskommission
 
-1. Terminierung der Meisterschafts-, Pokal-, Aufstiegs-, Abstiegs- und Entscheidungsspiele sowie optionaler Wettbewerbe (z. B. Kreisligapokal)
-2. Einteilung der Mannschaften in die Spielklassen des Ligabetriebes
-3. Festlegen der Auf- und Abstiegsregelungen
-4. Schriftliches Festlegen der Modalitäten der Meisterschafts-, Pokal-, Aufstiegs-, Abstiegs- und Entscheidungsspiele vor Saisonbeginn, mit Änderungsvorbehalt bei besonderen Anlässen (z. B. Abmeldungen oder Ablehnung von Aufstiegen)
-5. Erstellung der Spielpläne der Spielklassen
-6. Abstimmung und Terminierung der Spielverlegungen
-7. Anfordern von Schiedsrichtern bei kritischen Spielen
+1. Terminierung der Meisterschafts-, Pokal-, Aufstiegs-, Abstiegs- und Entscheidungsspiele, sowie optionaler Wettbewerbe (z.B.: Kreisligapokal) 
+
+2. Einteilung der Mannschaften in die Spielklassen des Ligabetriebes 
+
+3. Festlegen der Auf- und Abstiegsregelungen 
+
+4. Schriftliches Festlegen der Modalitäten der Meisterschafts-, Pokal-, Aufstiegs- , Abstiegs- und Entscheidungsspiele vor Saisonbeginn, mit Änderungsvorbehalt bei besonderen Anlässen (z.B.: Mehrere Mannschaften melden für die kommende Saison ab oder mehrere Mannschaften wollen nicht aufsteigen) 
+
+5. Erstellung der Spielpläne der Spielklassen 
+
+6. Abstimmung und Terminierung der Spielverlegungen 
+
+7. Anfordern von Schiedsrichter bei kritischen Spielen 
 
 ---
 
 # Änderung der Ordnung des Spielbetriebes
 
-1. Änderungen der OdS können von der Mitgliederversammlung oder der Sport- und Regelkommission (SpoRKom) beschlossen werden.
-2. **Anträge auf Änderung durch die Mitgliederversammlung**:
-   - Müssen schriftlich bis zum **01.12.** bei der STFV-Geschäftsstelle eingereicht werden.
-3. **Anträge auf Änderung durch die SpoRKom**:
-   - Werden gemäß der Ordnung der SpoRKom über die Antragskommission eingereicht und von der Delegiertenversammlung der SpoRKom entschieden.
+Eine Änderung der OdS kann von der Mitgliederversammlung oder der Sport- und Regelkommission (SpoRKom) beschlossen werden. 
+
+Anträge auf Änderung der OdS durch die Mitgliederversammlung sind schriftlich bis zum 01.12. bei der STFV-Geschäftsstelle einzureichen oder Anträge auf Änderung der OdS durch die SpoRKom werden gemäß Ordnung der SpoRKom über die Antragskommission eingereicht und der Delegiertenversammlung der SpoRKom entschieden.
 
 ---
