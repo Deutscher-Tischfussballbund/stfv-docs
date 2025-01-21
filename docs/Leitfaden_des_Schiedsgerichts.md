@@ -22,63 +22,37 @@ Der folgende Leitfaden soll der Tischfußballgemeinschaft die Entscheidungen und
 
 ---
 
-# Unsportlichkeit nach §11.4 SPO
+# Unsportlichkeit nach §11.4 SPO (trennen vom Ball, Zeitspiel, anheben usw.) 
 
-(Unfaires Trennen vom Ball, Zeitspiel, Anheben usw.)
-
-- Ordnungsstrafe in Höhe von **mindestens 10 €** und **maximal 52 €** für den Spieler, von dem die Unsportlichkeit ausging.
-- Bei erfolgreichem Protest trägt der verursachende Verein die Protestgebühr in Höhe von **52 €**.
+Ordnungsstrafe in Höhe von mindestens 10 € - maximal 52 € für den Spieler von dem die Unsportlichkeit ausging. Bei erfolgreichem Protest trägt der verursachende Verein die Protestgebühr in Höhe von 52 €.
 
 ---
 
-# Beleidigungen nach §11.10 SPO
+# Beleidigungen nach §11.10 SPO (Gegen Spieler, Schiedsrichter, Zuschauer)
 
-(Gegen Spieler, Schiedsrichter, Zuschauer)
-
-- Ordnungsstrafe in Höhe von **mindestens 20 €**.
-- Im Einzelfall, abhängig von der Schwere der Beleidigung, zusätzlich bis zu **3 Spiele Sperre**.
-- Im Wiederholungsfall (innerhalb von 5 Jahren): Ordnungsgeld und Verdopplung der letzten verhängten Spielsperre, jedoch mindestens **2 Spiele Sperre**.
-- Beleidigungen gegen den Schiedsrichter: **52 € Ordnungsgeld** und mindestens **2 Spiele Sperre**.
-  - Wiederholungsfall (innerhalb von 5 Jahren): Mindestens Verdopplung der zuletzt verhängten Spielsperre.
+Ordnungsstrafe in Höhe von mindestens 20 €. Im Einzelfall, abhängig von der schwere der Beleidigung, zusätzlich bis zu 3 Spiele Sperre. Im Wiederholungsfall (innerhalb von 5 Jahren) Ordnungsgeld und Verdopplung der letzten verhängten Spielsperre jedoch mindestens 2 Spiele Sperre. Beleidigungen gegen den Schiedsrichter werden mit 52 € Ordnungsgeld und mindestens 2 Spiele Sperre belegt. Im Wiederholungsfall (innerhalb von 5 Jahren) mindestens Verdopplung der zuletzt verhängten Spielsperre.
 
 ---
 
-# Drohung §11.10 SPO
+# Drohung §11.10 SPO (Gegen Spieler, Schiedsrichter, Zuschauer)
 
-(Gegen Spieler, Schiedsrichter, Zuschauer)
-
-- Ordnungsstrafe in Höhe von **52 €** und zusätzlich mindestens **2 Spiele Sperre**.
-- Im Wiederholungsfall (innerhalb von 5 Jahren): Mindestens **52 € Ordnungsgeld** und Verdopplung der zuletzt verhängten Spielsperre.
-- Drohungen gegen den Schiedsrichter: **52 € Ordnungsgeld** und mindestens **10 Spiele Sperre**.
-  - Wiederholungsfall (innerhalb von 5 Jahren): Verdopplung der Spielsperre.
+Ordnungsstrafe in Höhe von 52 € und zusätzlich mindestens 2 Spiele Sperre. Im Wiederholungsfall (innerhalb von 5 Jahren) mindestens 52 € Ordnungsgeld und Verdopplung der zuletzt verhängten Spielsperre. Drohungen gegen den Schiedsrichter werden mit 52 € Ordnungsgeld und mindestens 10 Spielen Sperre belegt. Im Wiederholungsfall (innerhalb von 5 Jahren) verdoppelt sich die Spielsperre.
 
 ---
 
-# Tätlichkeit §11.10 SPO
+# Tätlichkeit §11.10 SPO (Gegen Spieler, Schiedsrichter, Zuschauer)
 
-(Gegen Spieler, Schiedsrichter, Zuschauer)
-
-- Ordnungsstrafe bis **150 €** und zusätzlich mindestens **3 Spiele Sperre**.
-- Im Wiederholungsfall (innerhalb von 5 Jahren): Maximal **150 € Ordnungsgeld** und mindestens Verdopplung der zuletzt verhängten Spielsperre.
-- Besonders schwere Fälle: Einleitung des Verfahrens zum Ausschluss aus dem Verband.
-- Tätlichkeit gegen den Schiedsrichter: **150 € Ordnungsgeld** und mindestens **1 Jahr Spielsperre**.
-  - Wiederholungsfall: Einleitung des Verfahrens „Ausschluss aus dem Verband“.
+Ordnungsstrafe bis 150 € und zusätzlich mindestens 3 Spiele Sperre. Im Wiederholungsfall (innerhalb von 5 Jahren) maximal 150 € Ordnungsgeld und mindestens Verdopplung der zuletzt verhängten Spielsperre. Bei besonders schweren Fällen - Einleitung des Verfahrens zum Ausschluss aus dem Verband. Tätlichkeit gegen den Schiedsrichter werden mit 150 € Ordnungsgeld und mindestens 1Jahr Spielsperre belegt. Im Wiederholungsfall, Einleitung des Verfahrens „Ausschluss aus dem Verband“.
 
 ---
 
-# Manipulation §9.4 SPO
+# Manipulation §9.4 SPO (Verschieben von Spielen)
 
-(Verschieben von Spielen)
-
-- Ordnungsstrafe in Höhe von **52 €** und **4 Punkte Punktabzug** (entweder für die laufende Saison oder die folgende) für die betroffenen Vereine.
-- In schweren Fällen: Zusätzlich Zwangsabstieg.
+Ordnungsstrafe in Höhe von 52 € und 4 Punkte Punktabzug (entweder für die laufende Saison oder die folgende) für die betroffenen Vereine. In schweren Fällen, zusätzlich Zwangsabstieg.
 
 ---
 
-# Weitere Bestimmungen
-
-- Bei Vergehen, die eine Spielsperre beinhalten, kann der Betroffene zusätzlich von den Verbandsaktivitäten, wie Ranglistenturnieren und Saarlandmeisterschaft, ausgeschlossen werden.
-- In besonders schweren Fällen wird das Verfahren „Ausschluss aus dem Verband“ nach §9 Abs. 2 der Satzung eingeleitet.
+Bei Vergehen, die eine Spielsperre beinhalten, kann der Betroffene ferner von den Verbandsaktivitäten, wie Ranglistenturnieren und Saarlandmeisterschaft, ausgeschlossen werden. In besonders schweren Fällen, wird das Verfahren „Ausschluss aus dem Verband“ nach § 9 Abs. 2 der Satzung eingeleitet.
 
 ---
 
