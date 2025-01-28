@@ -24,23 +24,23 @@
 
 ---
 
-# NAME, SITZ, ZWECK, ZIELE UND AUFGABEN 
+**NAME, SITZ, ZWECK, ZIELE UND AUFGABEN**
 
 ---
 
-## Name
+# Name
 
 Der Verband führt den Namen Saarländischer Tischfußballverband e. V. (STFV e. V.). Er ist Rechtsnachfolger des am 24. Okt. 1967 gegründeten Saarländischen Tischfußballverbandes. 
 
 ---
 
-## Sitz
+# Sitz
 
 Der Verband hat seinen Sitz in 66564 Ottweiler. Er ist im Vereinsregister beim Amtsgericht Ottweiler eingetragen. 
 
 ---
 
-## Zweck 
+# Zweck 
 
 1. Der Saarländische Tischfußballverband e. V. verfolgt ausschließlich, unmittelbar und selbstlos gemeinnützige Zwecke im Sinne des Abschnitts „steuerbegünstigte Zwecke“ der Abgabenordnung. Der Verband ist uneigennützig tätig, er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Verbandes dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Verbandes. Es darf keine Person durch Ausgaben, die dem Zweck des Verbandes fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden. 
 
@@ -60,7 +60,7 @@ Der Verband hat seinen Sitz in 66564 Ottweiler. Er ist im Vereinsregister beim A
 
 ---
 
-## Ziele und Aufgaben 
+# Ziele und Aufgaben 
 
 
 Der Verband will seinen Mitgliedern sachgerechten Sport ermöglichen durch: 
@@ -72,7 +72,7 @@ Der Verband will seinen Mitgliedern sachgerechten Sport ermöglichen durch:
 
 ---
 
-## Mitgliedschaft 
+# Mitgliedschaft 
 
 1. Der Verband nimmt jeden Tischfußballverein zum Mitglied auf, der seinen Sitz im Wirkungsbereich des Verbandes hat, sofern dieser die Ziele und Aufgaben des Verbandes mitzutragen bereit ist. 
 
@@ -85,7 +85,7 @@ e) Fördernde Mitglieder. 3. Der Saarländische Tischfußballverband ist Mitglie
 
 ---
 
-## Aufnahmeverfahren
+# Aufnahmeverfahren
 
 1. Die Aufnahme als Mitglied erfolgt auf Antrag des Bewerbers an den 1. Vorsitzenden des 
 Verbandes. 
@@ -106,7 +106,7 @@ c) Mit Beginn der Mitgliedschaft erkennt der Verein die Satzung, Geschäfts-, Ge
 
 ---
 
-## Mitgliedschaftsrechte und Mitgliedschaftspflichten 
+# Mitgliedschaftsrechte und Mitgliedschaftspflichten 
 
 1. Jedes Mitglied hat das Recht, an Veranstaltungen, Wahlen und Abstimmungen des Verbandes im Rahmen der Gesetze und der satzungsrechtlichen Bestimmungen teilzunehmen. 
 
@@ -114,7 +114,7 @@ c) Mit Beginn der Mitgliedschaft erkennt der Verein die Satzung, Geschäfts-, Ge
 
 ---
 
-## Beitragspflicht und Zahlungsverzug 
+# Beitragspflicht und Zahlungsverzug 
 
 1. Jedes Mitglied hat Beiträge zu entrichten sowie die von der Mitgliederversammlung beschlossene Aufnahmegebühr und Kaution zu zahlen. 
 
@@ -128,7 +128,7 @@ c) Arten der Beiträge, sowie die Handhabung zur Entrichtung derselben sind in d
 
 ---
 
-## Verlust der Mitgliedschaft 
+# Verlust der Mitgliedschaft 
 
 Die Mitgliedschaft endet durch Austritt, Ausschluss oder Auflösung des Verbandes. 
 
@@ -152,7 +152,7 @@ d) Das ausgeschlossene Mitglied kann gegen den Beschluss des Gesamtvorstandes in
 
 ---
 
-## Wahl- und Stimmrecht 
+# Wahl- und Stimmrecht 
 
 1. Wahl- und stimmberechtigt in der Mitgliederversammlung sind die Vertreter der angeschlossenen Vereine. 
 
@@ -164,11 +164,11 @@ d) Das ausgeschlossene Mitglied kann gegen den Beschluss des Gesamtvorstandes in
 
 ---
 
-# WIRTSCHAFTSFÜHRUNG
+**WIRTSCHAFTSFÜHRUNG**
 
 ---
 
-## Wirtschaftsführung 
+# Wirtschaftsführung 
 
 1. Geschäftsjahr ist das Kalenderjahr. 
 
@@ -180,11 +180,11 @@ d) Das ausgeschlossene Mitglied kann gegen den Beschluss des Gesamtvorstandes in
 
 ---
 
-# ORGANE
+**ORGANE**
 
 ---
 
-## Organe des Verbandes
+# Organe des Verbandes
 
 Organe des Verbandes sind 
 1. die Mitgliederversammlung 
@@ -198,7 +198,7 @@ Organe des Verbandes sind
 
 ---
 
-## Mitgliederversammlung 
+# Mitgliederversammlung 
 
 1. Oberstes Organ des Verbandes ist die Mitgliederversammlung. 
 
@@ -216,7 +216,7 @@ Organe des Verbandes sind
 
 ---
 
-## Zuständigkeiten der Mitgliederversammlung 
+# Zuständigkeiten der Mitgliederversammlung 
 
 1. Die Mitgliederversammlung beschließt über alle den Verband betreffenden Angelegenheiten von grundsätzlicher Bedeutung. 
 2. Sie beschließt über die Satzung, Beiträge, Aufnahmeentgelte und Umlagen. 
@@ -228,7 +228,7 @@ Organe des Verbandes sind
 
 ---
 
-## Vorstand 
+# Vorstand 
 
 1. Der Verband wird von einem Gesamtvorstand geleitet und verwaltet. Ihm gehören an:
 
@@ -289,7 +289,7 @@ d) Der Hauptkassierer verwaltet die Kasse und stellt den Jahresabschluss und den
 
 ---
 
-## Geschäftsführender Vorstand 
+# Geschäftsführender Vorstand 
 
 1.Zur Erfüllung der laufenden Geschäfte wird ein geschäftsführender Vorstand gebildet. Ihm gehören an: 
 a) der Vorsitzende, 
@@ -303,7 +303,7 @@ d) der Hauptkassierer.
 
 ---
 
-## Schiedsgericht 
+# Schiedsgericht 
 
 1. Das Schiedsgericht setzt sich zusammen aus dem Schiedsgerichtsvorsitzenden, einem Stellvertreter, sowie 8 Schiedsgerichtbeisitzern und dem Schiedsrichterobmann. 
 
@@ -332,7 +332,7 @@ g) Ferner können Spielergebnisse annulliert und Spielpaarungen teilweise oder v
 
 ---
 
-## Protokollierung von Beschlüssen 
+# Protokollierung von Beschlüssen 
 
 Über die Beschlüsse der Mitgliederversammlung des Vorstandes, sowie der sonstigen Organe mit Ausnahme des Schiedsgerichtes ist jeweils ein Protokoll anzufertigen, das vom Versammlungsleiter und vom Schriftführer zu unterzeichnen ist. 
 
@@ -340,7 +340,7 @@ Das Protokoll der Mitgliederversammlung ist innerhalb einer Frist von vier Woche
 
 ---
 
-## Rechnungs- und Kassenprüfer 
+# Rechnungs- und Kassenprüfer 
 
 1.Die Mitgliederversammlung wählt zur Rechnungs- und Kassenprüfung zwei Prüfer, die nicht dem Vorstand des Verbandes angehören dürfen. 
 
@@ -350,7 +350,7 @@ Das Protokoll der Mitgliederversammlung ist innerhalb einer Frist von vier Woche
 
 ---
 
-## Abstimmungen und Wahlen 
+# Abstimmungen und Wahlen 
 
 1. Beschlüsse werden mit einfacher Stimmenmehrheit der abgegebenen Stimmen gefasst. Stimmenthaltungen werden nicht mitgezählt. Stimmengleichheit bedeutet grundsätzlich Ablehnung. 
 
@@ -362,11 +362,11 @@ Die Wahl des 1. Vorsitzenden findet unter der Leitung eines von der Versammlung 
 
 ---
 
-# AUFLÖSUNG DES VERBANDES 
+**AUFLÖSUNG DES VERBANDES** 
 
 ---
 
-## Auflösung des Verbandes 
+# Auflösung des Verbandes 
 
 1. Die Auflösung des Verbandes kann nur mit einer Frist von 14 Tagen einberufenen Mitgliederversammlung beschlossen werden. Auf der Tagesordnung dieser Versammlung darf nur der Punkt “Auflösung des Verbandes" stehen. 
 
