@@ -56,7 +56,7 @@ Der Verband hat seinen Sitz in 66564 Ottweiler. Er ist im Vereinsregister beim A
 
 ---
 
-# MITGLIEDSCHAFT
+**MITGLIEDSCHAFT**
 
 ---
 
