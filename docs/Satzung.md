@@ -230,7 +230,7 @@ Organe des Verbandes sind
 
 # Vorstand 
 
-1. Der Verband wird von einem Gesamtvorstand geleitet und verwaltet. Ihm gehören an:
+Der Verband wird von einem Gesamtvorstand geleitet und verwaltet. Ihm gehören an:
 
 a) Gesamtvorstand aa) geschäftsführender Vorstand,
 
