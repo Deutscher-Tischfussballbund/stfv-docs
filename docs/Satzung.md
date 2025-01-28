@@ -238,7 +238,7 @@ Organe des Verbandes sind
 
  ac) Schiedsrichter - Obmann, 
 
- ad) Leiter Spielbetriebskommission 
+ ad) Leiter Spielbetriebskommission,
 
  af) Leiter Leistungssportkommission, 
 
@@ -246,13 +246,13 @@ Organe des Verbandes sind
 
  ah) Leiter Jugendförderungskommission, 
 
- ai) Ehrenvorsitzender 
+ ai) Ehrenvorsitzender,
 
  b) Erweiterter Vorstand, 
 
  ba) Gesamtvorstand, 
 
- bb) Schiedsgerichtsbeisitzer. 
+ bb) Schiedsgerichtsbeisitzer,
 
  c) Geschäftsführender Vorstand,
 
