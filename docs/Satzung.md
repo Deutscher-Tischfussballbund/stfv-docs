@@ -233,25 +233,45 @@ Organe des Verbandes sind
 1. Der Verband wird von einem Gesamtvorstand geleitet und verwaltet. Ihm gehören an:
 
 a) Gesamtvorstand aa) geschäftsführender Vorstand,
+
 ab) Schiedsgerichtsvorsitzender, 
+
 ac) Schiedsrichter - Obmann, 
+
 ad) Leiter Spielbetriebskommission 
+
 ae) Leiter Sport- und Regelkommission, 
+
 af) Leiter Leistungssportkommission, 
+
 ag) Leiter Turnierkommission, Seite 9 (Stand 15.01.2023) 
+
 ah) Leiter Jugendförderungskommission, 
+
 ai) Ehrenvorsitzender 
+
 b) Erweiterter Vorstand, 
+
 ba) Gesamtvorstand, 
+
 bb) Schiedsgerichtsbeisitzer. 
+
 c) Geschäftsführender Vorstand,
+
 ca) 1. Vorsitzender, 
+
 cb) 2. Vorsitzender, 
+
 cc) Schriftführer, 
+
 cd) Hauptkassierer. 
+
 d) Schiedsgericht, 
+
 da) Vorsitzender, 
+
 db) Beisitzer, 
+
 dc) Schiedsrichter – Obmann. 
 
 2. Die Jahreshauptversammlung kann auf Vorschlag des Vorstandes Beisitzer zur Erfüllung von Sonderaufgaben berufen. 
