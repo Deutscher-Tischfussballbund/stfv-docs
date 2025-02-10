@@ -153,7 +153,7 @@ Bemerkung : Ordnungsstrafen können im Wiederholungsfall um 100% erhöht werden.
 
 # Aufwandsentschädigungen
 
-1. Spesen für den vom Verband eingesetzten Schiedsrichter je Einsatz € 50,-- 
+1. Spesen für den vom Verband eingesetzten Schiedsrichter je Einsatz € 60,-- 
 
 2. KM-Pauschale i.H.v. € 0,35 je KM für · Vorstandsmitgliedern bei offiziellen Terminen · Schiedsgerichtsbeisitzer bei offiziellen Terminen · Kommissionsmitgliedern bei offiziellen Terminen Eine Angleichung erfolgt jeweils nach dem Beschluss des Gesetzgebers. 
 
