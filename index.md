@@ -21,7 +21,7 @@
 
 ## Formulare des Verbandes
 
-Hier kannst du wichtigen Dokumente herunterladen:
+Hier kannst du wichtige Dokumente herunterladen:
 
 - [Antrag Zuschuss Jugend](./assets/pdf/Antrag_Zuschuss_Jugend.pdf)
 - [Antragsformblatt JHV](./assets/pdf/antragsformblatt_jhv.pdf)
@@ -37,6 +37,8 @@ Hier kannst du wichtigen Dokumente herunterladen:
 - [Spielberricht Classic](./assets/pdf/spielberricht_classic.pdf)
 - [Spielordnung DTFB](./assets/pdf/Spielordnung_Stand_29042023.pdf)
 - [Tuniere Spieleranmeldung](./assets/pdf/tuniere_spieleranmeldung.pdf)
+
+---
 
  <a href="https://github.com/Deutscher-Tischfussballbund/stfv-docs/tree/main/docs" target="_blank">GitHub Repository</a>
  
