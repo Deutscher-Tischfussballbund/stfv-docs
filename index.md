@@ -20,5 +20,10 @@
 ---
 
 ## Formulare des Verbandes
+
+Hier kannst du wichtigen Dokumente herunterladen:
+
+- [Spielordnung Classic](./dokumente/SPIELORDNUNG_CLASSIC.pdf)
+- []()
  <a href="https://github.com/Deutscher-Tischfussballbund/stfv-docs/tree/main/docs" target="_blank">GitHub Repository</a>
  
