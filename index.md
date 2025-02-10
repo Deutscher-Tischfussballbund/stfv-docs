@@ -23,7 +23,20 @@
 
 Hier kannst du wichtigen Dokumente herunterladen:
 
-- [Spielordnung Classic](./dokumente/SPIELORDNUNG_CLASSIC.pdf)
-- []()
+- [](./assets/pdf/Antrag_Zuschuss_Jugend.pdf)
+- [](./assets/pdf/antragsformblatt_jhv.pdf)
+- [](./assets/pdf/antragsformblatt_sporkom.pdf)
+- [](./assets/pdf/austrittserklaerung.pdf)
+- [](./assets/pdf/einverstaendniserklaerung_spieverlegung.pdf)
+- [](./assets/pdf/erstattungsantrag_kilometrgeld.pdf)
+- [](./assets/pdf/mannschaftsaufstellung.pdf)
+- [](./assets/pdf/passantrag.pdf)
+- [](./assets/pdf/schiedsrichterentschaedigung.pdf)
+- [](./assets/pdf/spielberricht_Pro_LL.pdf)
+- [](./assets/pdf/spielberricht_Pro_LVerbandsliga.pdf)
+- [](./assets/pdf/spielberricht_classic.pdf)
+- [](./assets/pdf/Spielordnung_Stand_29042023.pdf)
+- [](./assets/pdf/tuniere_spieleranmeldung.pdf)
+
  <a href="https://github.com/Deutscher-Tischfussballbund/stfv-docs/tree/main/docs" target="_blank">GitHub Repository</a>
  
