@@ -3,6 +3,7 @@
 ---
 
 ## Statuten des Verbandes
+
 - [Awareness Konzept](docs/Awareness_Konzept.md)
 - [Datenschutzordnung](docs/Datenschutzordnung.md)
 - [Gebührenordnung](docs/Gebührenordnung.md)
@@ -20,8 +21,6 @@
 ---
 
 ## Formulare des Verbandes
-
-Hier kannst du wichtige Dokumente herunterladen:
 
 - [Antrag Zuschuss Jugend](./assets/pdf/Antrag_Zuschuss_Jugend.pdf)
 - [Antragsformblatt JHV](./assets/pdf/antragsformblatt_jhv.pdf)
