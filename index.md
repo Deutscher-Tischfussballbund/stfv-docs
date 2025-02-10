@@ -2,7 +2,7 @@
 
 ---
 
-## Inhaltsverzeichnis
+## Statuten des Verbandes
 - [Awareness Konzept](docs/Awareness_Konzept.md)
 - [Datenschutzordnung](docs/Datenschutzordnung.md)
 - [Gebührenordnung](docs/Gebührenordnung.md)
@@ -19,5 +19,6 @@
 
 ---
 
+## Formulare des Verbandes
  <a href="https://github.com/Deutscher-Tischfussballbund/stfv-docs/tree/main/docs" target="_blank">GitHub Repository</a>
  
