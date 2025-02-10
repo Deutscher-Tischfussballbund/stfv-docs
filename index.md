@@ -23,20 +23,20 @@
 
 Hier kannst du wichtigen Dokumente herunterladen:
 
-- [](./assets/pdf/Antrag_Zuschuss_Jugend.pdf)
-- [](./assets/pdf/antragsformblatt_jhv.pdf)
-- [](./assets/pdf/antragsformblatt_sporkom.pdf)
-- [](./assets/pdf/austrittserklaerung.pdf)
-- [](./assets/pdf/einverstaendniserklaerung_spieverlegung.pdf)
-- [](./assets/pdf/erstattungsantrag_kilometrgeld.pdf)
-- [](./assets/pdf/mannschaftsaufstellung.pdf)
-- [](./assets/pdf/passantrag.pdf)
-- [](./assets/pdf/schiedsrichterentschaedigung.pdf)
-- [](./assets/pdf/spielberricht_Pro_LL.pdf)
-- [](./assets/pdf/spielberricht_Pro_LVerbandsliga.pdf)
-- [](./assets/pdf/spielberricht_classic.pdf)
-- [](./assets/pdf/Spielordnung_Stand_29042023.pdf)
-- [](./assets/pdf/tuniere_spieleranmeldung.pdf)
+- [Antrag Zuschuss Jugend](./assets/pdf/Antrag_Zuschuss_Jugend.pdf)
+- [Antragsformblatt JHV](./assets/pdf/antragsformblatt_jhv.pdf)
+- [Antragsformblatt sporkom](./assets/pdf/antragsformblatt_sporkom.pdf)
+- [Austrittserklärung](./assets/pdf/austrittserklaerung.pdf)
+- [Einverständniserklärung Spielverlegung](./assets/pdf/einverstaendniserklaerung_spieverlegung.pdf)
+- [Erstattungsantrag Kilomertergeld](./assets/pdf/erstattungsantrag_kilometrgeld.pdf)
+- [Mannschaftsaufstellung](./assets/pdf/mannschaftsaufstellung.pdf)
+- [Passantrag](./assets/pdf/passantrag.pdf)
+- [Schiedsrichterentschädigung](./assets/pdf/schiedsrichterentschaedigung.pdf)
+- [Spielberricht Pro LL](./assets/pdf/spielberricht_Pro_LL.pdf)
+- [Spielberricht Pro L Verbandsliga](./assets/pdf/spielberricht_Pro_LVerbandsliga.pdf)
+- [Spielberricht Classic](./assets/pdf/spielberricht_classic.pdf)
+- [Spielordnung DTFB](./assets/pdf/Spielordnung_Stand_29042023.pdf)
+- [Tuniere Spieleranmeldung](./assets/pdf/tuniere_spieleranmeldung.pdf)
 
  <a href="https://github.com/Deutscher-Tischfussballbund/stfv-docs/tree/main/docs" target="_blank">GitHub Repository</a>
  
