@@ -37,7 +37,4 @@
 - [Spielordnung DTFB](./assets/pdf/Spielordnung_Stand_29042023.pdf)
 - [Tuniere Spieleranmeldung](./assets/pdf/tuniere_spieleranmeldung.pdf)
 
----
-
- <a href="https://github.com/Deutscher-Tischfussballbund/stfv-docs/tree/main/docs" target="_blank">GitHub Repository</a>
  
