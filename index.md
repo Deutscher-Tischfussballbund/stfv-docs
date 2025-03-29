@@ -37,4 +37,6 @@
 - [Spielordnung DTFB](./assets/pdf/Spielordnung_Stand_29042023.pdf)
 - [Tuniere Spieleranmeldung](./assets/pdf/tuniere_spieleranmeldung.pdf)
 
- 
+
+
+- [Informationen zum Spielmodus und -ablauf Proliga 2025](assets/pdf/Informationen_Proliga_2025.pdf)
