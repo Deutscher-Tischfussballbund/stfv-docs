@@ -90,27 +90,27 @@ Grundregeln:
 
  
 
-A: Anzahl: 
+**A: Anzahl:**
 
  • Maximal 4 (maximale Kadergröße =10) Wechsel  
 
-B: Zeitpunkt: 
+**B: Zeitpunkt:** 
 
  • Sobald in einem Segment 3 Tore gefallen sind, egal wer diese erzielt hat 
 
 • Ein Wechsel kann zu Beginn eines neuen Segments erfolgen, jedoch nur, wenn der auszuwechselnde Spieler bereits in mindestens einem vorherigen Segment gespielt hat. 
 
- C: Anzahl pro Segment 
+ **C: Anzahl pro Segment**
 
  • Es darf pro Segment nur ein Wechsel vorgenommen werden 
 
  • Im Doppel dürfen beide Spieler im gleichen Timeout getauscht werden (kostet 2 Wechsel)  
 
-D: Form des Wechsels 
+**D: Form des Wechsels**
 
  • Positionsgetreu: Der Einwechselspieler ersetzt den ausgewechselten Spieler auch in späteren Segmenten  
 
-E: Spezialfall Verletzungsbedingte Wechsel  
+**E: Spezialfall Verletzungsbedingte Wechsel**
 
 ---
 
@@ -154,7 +154,7 @@ Nicht angetretene oder vorzeitig abgebrochene Segmente werden zu 0 für den Gegn
 
 # Vorrunde  
 
-Eine Begegnung in der Vorrunde wird immer komplett ausgetragen und kann unentschieden ausgehen. Spiele gegen ein Freilos werden mit 42:30 gewertet. 
+**Eine Begegnung in der Vorrunde wird immer komplett ausgetragen und kann unentschieden ausgehen. Spiele gegen ein Freilos werden mit 42:30 gewertet.**
 
 ---
 
@@ -176,7 +176,7 @@ Die vier bestplatzierten Mannschaften der Verbandsliga und Landesliga nach der V
 
 # Auf- und Abstiegsregelung 
 
- Aufstieg 
+1.     Aufstieg 
 
 Der Sieger des Final Four in der Verbandsliga steigt in die Landesliga auf. 
 
