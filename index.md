@@ -17,7 +17,7 @@
 - [Spielordnung Classic](docs/Spielordnung_Classic.md)
 - [Spielordnung Pro](docs/Spielordnung_Pro.md)
 - [Turnierregularien](docs/Turnierregularien.md)
-- [Informationen zum Spielmodus und -ablauf Proliga 2025]()
+- [Informationen zum Spielmodus und -ablauf Proliga 2025](docs/Informationen_Proliga.md)
 
 ---
 
