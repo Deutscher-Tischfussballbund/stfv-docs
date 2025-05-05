@@ -18,6 +18,7 @@
 - [Spielordnung Pro](docs/Spielordnung_Pro.md)
 - [Turnierordnung](docs/Tunierordnung.md)
 - [Informationen zum Spielmodus und -ablauf Proliga 2025](docs/Informationen_Proliga.md)
+- [Modalitäten des Spielbetriebes STFV Classic für die Saison 2025](docs/Modalitäten_Spielbetriebes_Classic.md)
 
 ---
 
