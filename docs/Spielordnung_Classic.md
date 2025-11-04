@@ -15,7 +15,7 @@
 
 **Spielordnung Classic (SPO Classic)**
 
-**Stand: 03. Mai 2023**
+**Stand: 19. Februar 2025**
 
 ---
 
