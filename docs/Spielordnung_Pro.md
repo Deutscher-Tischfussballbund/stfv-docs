@@ -104,15 +104,7 @@ Der Gewinner entscheidet sich zwischen Bonzini und Leo. Der Verlierer bestimmt a
 
 (3) Während einer Begegnung sind zwei Wechselmöglichkeiten gegeben. Die Einwechselungen können nur zu Beginn eines Doppels, nach einem Tor oder einem TimeOut erfolgen. Ein ausgewechselter Spieler darf nicht mehr eingewechselt werden. 
 
-(4) Gespielt werden Einzel- und Doppelspiele mit jeweils einem Satz bis 5 Tore.
-
-(5) Beim Spielstand von 4:4 gibt es eine Verlängerung auf 2 Tore vor bis max. 8 Tore. Nicht angetretene oder nicht zu Ende gespielte Spiele werden mit 0: 5 Toren und 0: 1 Spielpunkten gewertet. 
-
-(6) Gespielt wird in den einzelnen Begegnungen / Sätzen mit maximal 10 Bällen. Folgende Spielwertungen sind folglich möglich: 
-
-a. gewonnener Satzerfolg max. 8:7 Tore und 1 Spielpunkt. 
-b. Unentschieden nicht möglich 
-c. verlorener Satz max. 7:8 Tore 0:1 Spielpunkte
+(4) Der Spielmodus wird jährlich von der Leistungssportkommission festgelegt und rechtzeitig vor der neuen Saison bekannt gegeben.
 
 ---
 
