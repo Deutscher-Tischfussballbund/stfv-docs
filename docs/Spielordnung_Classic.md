@@ -322,13 +322,16 @@ Desgleichen gilt auch bei Ausschluss eines Vereins aus dem STFV.
 # Turniere
 Vereine, die dem Verband angehören und während des Spieljahres Turniere veranstalten, müssen diese bei der Turnierleitungskommission anmelden. 
 
-### Spielaufnahme 
+**Spielaufnahme**
+
 Nach Aufruf der Begegnung ist der Spielbetrieb unverzüglich aufzunehmen. Ein ausnahmsweise für kurze Zeit verhinderter Spieler hat dies der Turnierleitung mitzuteilen. Er hat sich wieder anzumelden, wenn er wieder zur Verfügung steht. Nimmt ein Spieler nach dem zweiten Aufruf den Spielbetrieb nicht unverzüglich auf, wird die Begegnung nach Ermessen der Turnierleitung zu Gunsten des Gegners gewertet. 
 
-### Time Out Regelung 
+**Time Out Regelung**
+
 Wird ein Spiel im "Best of" Modus gespielt hat jedes Team pro Satz 2 Time Out. Bei einem Satz bis 11 hat jedes Team 1 Time Out pro Seite. In der Vorrunde hat jedes Team 1 Time Out pro Spiel. 
 
-### Ergebnismitteilung 
+**Ergebnismitteilung**
+
 Der Sieger hat das Spielergebnis der Turnierleitung unverzüglich nach Beendigung des Spiels mitzuteilen. Fehler bei der Ergebnismitteilung gehen zu Lasten des Spieles, der für die Eintragung verantwortlich war. 
 
 
