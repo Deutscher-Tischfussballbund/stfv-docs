@@ -14,8 +14,8 @@ date: {{ site.time | date: "%d-%m-%Y" }}
     </p>
     <p>
         <a href="./../assets/pdf/Spielordnung_Classic.pdf" target="_blank">Download als PDF</a><br/>
-        <a href="https://deutscher-tischfussballbund.github.io/stfv-docs/" target="_blank">Back</a><br/>
-        <a href="https://github.com/Deutscher-Tischfussballbund/stfv-docs/blob/main/docs/Spielordnung_Classic.md" target="_blank">GitHub Repository</a>
+        <a href="https://github.com/Deutscher-Tischfussballbund/stfv-docs/blob/main/docs/Spielordnung_Classic.md" target="_blank">GitHub Repository</a><br/>
+        <a href="https://deutscher-tischfussballbund.github.io/stfv-docs/" target="_blank">Back</a>
     </p>
 </div>
 
@@ -58,15 +58,15 @@ Kommen Pflichtspiele durch tragische Ereignisse nicht zur Austragung, so ist der
 2.	Wechselt ein Spieler den Verein, so hat er sich grundsätzlich bei seinem Verein unter Verwendung der vorgeschriebenen Austrittserklärung abzumelden. Der Spieler ist verpflichtet, diese Austrittserklärung unverzüglich an die Geschäftsstelle zu senden. 
 3.	Der Verein ist verpflichtet, das Wechseln der Spieler schriftlich binnen 8 Tagen der Geschäftsstelle unter Einsendung des Spielerpasses zu melden. 
 4.	In der Zeit nach dem letzten Spieltag der Saison bis zum Ende der Wechselfrist am 31. Dezember können sich alle Spieler einem neuen Verein anschließen. Der Spielerwechsel wird durch Einsendung der unterschriebenen Austrittserklärung und des Spielerpassantrages für den neuen Verein bei der STFV- Geschäftsstelle wirksam. Ein Spieler, der bis zum 31.12. zwar seinen Austritt erklärt hat, sich aber keinem Verein angeschlossen hat, ist für die ersten drei Spieltage der Verbandsrunde gesperrt. Spieler, die im Vorjahr kein Pflichtspiel bestritten haben, sind von dieser Regel ausgenommen. Erklärt ein Spieler seinen Austritt nach dem 31.12. wird er mit einer Spielsperre belegt. Die Spielsperre beginnt ab dem auf der Austrittserklärung dokumentierten und vom Verein bestätigten Austrittsdatum. Die Spielsperre beträgt 4 Pflichtspieltage (ohne Pokalspiele). Mit Zustimmung des abgebenden Vereins können die bereits ausgesetzten Spieltage angerechnet werden. 
-5.	Wechselt ein Spieler den Verein, so muss er seinen Verpflichtungen gegenüber diesem nachgekommen sein und zwar: 
-a. den monatlichen Beitragszahlungen für maximal ein Jahr, nachweisbar durch das Mitgliedsbuch oder andere Quittungen. 
-b. sonstigen nachweisbaren Verpflichtungen gegenüber seinem Verein. 
-6.	Ist der Spieler diesen Verpflichtungen auch während der Sperre nicht nachgekommen, so entscheidet der STFV- Vorstand über die weitere Spielerlaubnis. 
-7.	Will ein Spieler zu seinem alten Verein zurück. d.h., er hat sich noch keinem neuen Verein angeschlossen, so bleibt diese Spielsperre von 4 Spieltagen trotzdem bestehen. 
-8.	Der Spielerpass wird dem Verein zugestellt. Für den Einsatz des Spielers gilt die im Pass dokumentierte Eintragung “Spielberechtigt ab: (Datum)“ 
-9.	Bei Auflösung eines Vereins während der laufenden Spielrunde unterliegen die jeweiligen Spieler ebenfalls einer Sperre von 4 Spieltagen. 
-10.	Ein Verein, der seine Verbindlichkeiten gegenüber dem STFV bis zum 31.12. jeden Jahres nicht erfüllt hat, erhält für das kommende Spieljahr keine Spielerlaubnis. 
-11.	Scheidet ein Verein aus dem Verband aus, der seine Verbindlichkeiten über den Kautionsbetrag hinaus nicht erfüllt hat, so werden alle Spieler des betreffenden Vereins mit einer Spielsperre von 8 Spieltagen belegt, sofern sie bis zum Austritt des Vereins aus dem Verband spielberechtigt waren.
+5.	Wechselt ein Spieler den Verein, so muss er seinen Verpflichtungen gegenüber diesem nachgekommen sein und zwar:
+* den monatlichen Beitragszahlungen für maximal ein Jahr, nachweisbar durch das Mitgliedsbuch oder andere Quittungen.
+* sonstigen nachweisbaren Verpflichtungen gegenüber seinem Verein. 
+7.	Ist der Spieler diesen Verpflichtungen auch während der Sperre nicht nachgekommen, so entscheidet der STFV- Vorstand über die weitere Spielerlaubnis. 
+8.	Will ein Spieler zu seinem alten Verein zurück. d.h., er hat sich noch keinem neuen Verein angeschlossen, so bleibt diese Spielsperre von 4 Spieltagen trotzdem bestehen. 
+9.	Der Spielerpass wird dem Verein zugestellt. Für den Einsatz des Spielers gilt die im Pass dokumentierte Eintragung “Spielberechtigt ab: (Datum)“ 
+10.	Bei Auflösung eines Vereins während der laufenden Spielrunde unterliegen die jeweiligen Spieler ebenfalls einer Sperre von 4 Spieltagen. 
+11.	Ein Verein, der seine Verbindlichkeiten gegenüber dem STFV bis zum 31.12. jeden Jahres nicht erfüllt hat, erhält für das kommende Spieljahr keine Spielerlaubnis. 
+12.	Scheidet ein Verein aus dem Verband aus, der seine Verbindlichkeiten über den Kautionsbetrag hinaus nicht erfüllt hat, so werden alle Spieler des betreffenden Vereins mit einer Spielsperre von 8 Spieltagen belegt, sofern sie bis zum Austritt des Vereins aus dem Verband spielberechtigt waren.
 
 
 # Spielberechtigung 
@@ -322,13 +322,13 @@ Desgleichen gilt auch bei Ausschluss eines Vereins aus dem STFV.
 # Turniere
 Vereine, die dem Verband angehören und während des Spieljahres Turniere veranstalten, müssen diese bei der Turnierleitungskommission anmelden. 
 
-## Spielaufnahme 
+### Spielaufnahme 
 Nach Aufruf der Begegnung ist der Spielbetrieb unverzüglich aufzunehmen. Ein ausnahmsweise für kurze Zeit verhinderter Spieler hat dies der Turnierleitung mitzuteilen. Er hat sich wieder anzumelden, wenn er wieder zur Verfügung steht. Nimmt ein Spieler nach dem zweiten Aufruf den Spielbetrieb nicht unverzüglich auf, wird die Begegnung nach Ermessen der Turnierleitung zu Gunsten des Gegners gewertet. 
 
-## Time Out Regelung 
+### Time Out Regelung 
 Wird ein Spiel im "Best of" Modus gespielt hat jedes Team pro Satz 2 Time Out. Bei einem Satz bis 11 hat jedes Team 1 Time Out pro Seite. In der Vorrunde hat jedes Team 1 Time Out pro Spiel. 
 
-## Ergebnismitteilung 
+### Ergebnismitteilung 
 Der Sieger hat das Spielergebnis der Turnierleitung unverzüglich nach Beendigung des Spiels mitzuteilen. Fehler bei der Ergebnismitteilung gehen zu Lasten des Spieles, der für die Eintragung verantwortlich war. 
 
 
