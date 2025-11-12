@@ -13,7 +13,7 @@
     </p>
 </div>
 
-**Turnierregularien**
+**Turnierordnung**
 
 ---
 
