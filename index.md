@@ -31,7 +31,7 @@
 - [Einverständniserklärung Spielverlegung](./assets/pdf/einverstaendniserklaerung_spieverlegung.pdf)
 - [Erstattungsantrag Kilomertergeld](./assets/pdf/erstattungsantrag_kilometrgeld.pdf)
 - [Mannschaftsaufstellung](./assets/pdf/mannschaftsaufstellung.pdf)
-- [Passantrag](./assets/pdf/passantrag.pdf)
+- [Passantrag](./assets/pdf/Antrag_auf_Spielerlaubnis.pdf)
 - [Schiedsrichterentschädigung](./assets/pdf/schiedsrichterentschaedigung.pdf)
 - [Spielberricht Pro LL](./assets/pdf/spielberricht_Pro_LL.pdf)
 - [Spielberricht Pro L Verbandsliga](./assets/pdf/spielberricht_Pro_LVerbandsliga.pdf)
