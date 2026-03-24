@@ -162,7 +162,13 @@ Ist in Ausnahmefällen für einen Spieler wegen Übergröße oder Modellwechsel 
 
 1. Gespielt werden jeweils 6 Doppel à 2 Sätze à maximal 10 Bälle. 
 
-2. Spielwertung: a. Gewonnenes Spiel = 2:0 Punkte b. Verlorenes Spiel = 0:2 Punkte c. Unentschieden = 1:1 Punkte 
+2. Spielwertung:
+
+   <ol type="a">
+     <li>Gewonnenes Spiel = 2:0 Punkte</li>
+     <li>Verlorenes Spiel = 0:2 Punkte</li>
+     <li>Unentschieden = 1:1 Punkte</li>
+   </ol>
 
 3. Ein verlorenes Pflichtspiel ergibt 0:2 Punkte. Bei einem Stand von 12:12 wird kein Entscheidungsspiel ausgetragen, sondern mit 1:1 Punkten gewertet. Das gewonnene Pflichtspiel ergibt 2:0 Punkte. 
 
