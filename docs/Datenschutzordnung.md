@@ -1,20 +1,13 @@
-<div class="html-only" style="text-align: center;">
-    <div class="title" style="text-align: center;">
-        <img src="images/STFV-LOGO.png" alt="STFV Logo" style="display: block; margin: 0 auto;" />
-        
-    </div>
-
-    <p style="text-align: center;">
-       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
-    </p>
-    <p>
-        <a href="./../assets/pdf/Datenschutzordnung.pdf" target="_blank">Download als PDF</a><br />
-        <a href="https://deutscher-tischfussballbund.github.io/stfv-docs/" target="_blank">Back</a>
-    </p>
-</div>
-
-
 ---
+title: "Datenschutzordnung"
+subtitle: "des STFV e.V."
+date: '{{ site.time | date: "%d.%m.%Y" }}'
+section_numbering: arabic
+pdf: /assets/pdf/Datenschutzordnung.pdf
+---
+* TOC
+{:toc}
+
 
 # Erfassung von Daten
 
@@ -32,7 +25,6 @@ Die vereins- und personenbezogenen Daten werden durch geeignete technische und o
 
 Zur Überwachung der Datenschutzbestimmungen wird vom STFV-Vorstand ein Datenschutzbeauftragter bestellt.
 
----
 
 # Interne Weitergabe von Daten
 
@@ -40,7 +32,6 @@ Die in der Informationsverarbeitung der Geschäftsstelle gespeicherten Daten wer
 
 Als Mitglied des DTFB e.V. und des saarländischen Betriebssportverbandes stellt der Verband die zur Sicherung der satzungsmäßigen Zwecke seiner Dachorganisationen notwendigen personen- und vereinsbezogenen Daten zur Verfügung.
 
----
 
 # Externe Weitergabe von Daten
 
@@ -48,7 +39,6 @@ Der Verband übermittelt seinen Kooperationspartnern auf Anforderung Listen best
 
 Mitglieder und Einzelpersonen können der externen Weitergabe ihrer Daten schriftlich widersprechen; im Falle eines Widerspruchs werden die vereins- bzw. personenbezogenen Daten auf der entsprechenden Liste geschwärzt.
 
----
 
 # Veröffentlichung von Daten
 
@@ -62,7 +52,6 @@ Im Rahmen der vom Satzungszweck gedeckten Öffentlichkeitsarbeit werden die in Z
 
 Mit der Teilnahme am Spielbetrieb willigen Vereine und Spieler ein, dass ihre Daten wie beispielsweise Name, Vorname, Geschlecht, Altersklasse und Vereinszugehörigkeit sowie ihre Erfolge und Fotos bzw. Filmaufnahmen veröffentlicht werden.
 
----
 
 # Dauer der Datenspeicherung
 
@@ -72,6 +61,5 @@ Die vom Verband gespeicherten Daten von Personen mit besonderem Interesse für d
 
 Die vom Verband gespeicherten Daten der Mitglieder werden bei Austritt aus dem Verband für statistische Zwecke über das Austrittsdatum hinaus gespeichert.
 
----
 
 Diese Datenschutzordnung trat gemäß Beschluss der STFV-Mitgliederversammlung am **31.01.2010** in Kraft und wurde zuletzt bei der STFV-Mitgliederversammlung am **18.01.2015** geändert.

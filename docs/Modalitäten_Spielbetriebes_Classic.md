@@ -1,25 +1,13 @@
-<div class="html-only" style="text-align: center;">
-    <div class="title" style="text-align: center;">
-        <img src="images/STFV-LOGO.png" alt="STFV Logo" style="display: block; margin: 0 auto;" />
-        
-    </div>
-
-    <p style="text-align: center;">
-       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
-    </p>
-    <p>
-        <a href="./../assets/pdf/Modalitäten_Spielbetriebes_Classic.pdf" target="_blank">Download als PDF</a><br />
-        <a href="https://deutscher-tischfussballbund.github.io/stfv-docs/" target="_blank">Back</a>
-    </p>
-</div>
-
 ---
+title: "Modalitäten des Spielbetriebes Classic"
+date: '{{ site.time | date: "%d.%m.%Y" }}'
+section_numbering: arabic
+pdf: /assets/pdf/Modalitäten_Spielbetriebes_Classic.pdf
+---
+
 
 * TOC
 {:toc}
----
-
-**Modalitäten des Spielbetriebes STFV Classic für die Saison 2026**
 
 # Zielsetzung
 
@@ -106,7 +94,7 @@ Der über mehrere Jahre verteilte Umstrukturierungsprozess im Ligabetrieb Classi
 
 # Anhang zu den Modalitäten des Spielbetriebes STFV
 
-**• Allgemeines**
+**Allgemeines**
 
 - Jeder Mannschaft eines Vereins, die ordnungsgemäß beim STFV gemeldet ist und deren Aufnahme durch denselben bestätigt wurde, steht die Möglichkeit zum Aufstieg in die nächsthöhere Spielklasse offen.
 - Die Zuteilung zu den mehrgleisigen Ligen erfolgt entsprechend regionalen Gesichtspunkten.
@@ -119,7 +107,7 @@ Der über mehrere Jahre verteilte Umstrukturierungsprozess im Ligabetrieb Classi
   - Bei mehrgleisigen Ligen ist gegebenenfalls ein Qualifikationsspiel oder eine Qualifikationsrunde notwendig. Findet sich auf diese Weise keine Mannschaft, die den frei gewordenen Startplatz in der Spielklasse einnimmt, so bleibt dieser in der Folgesaison entweder unbesetzt oder es erfolgt eine Sonderregelung.
   - Verzichtet eine Mannschaft auf ein mögliches Entscheidungs- oder Qualifikationsspiel, rückt keine Mannschaft nach und das Spiel wird für die gegnerische Mannschaft als gewonnen gewertet.
 
-**• Spielmodus**
+**Spielmodus**
 
 **Spielbeginn**
 
@@ -194,11 +182,11 @@ Der über mehrere Jahre verteilte Umstrukturierungsprozess im Ligabetrieb Classi
     - bei einem vorverlegten Pflichtspiel
     - bei einem späteren Termin eines verlegten Pflichtspieles
     - bei einem Wiederholungsspiel
- 
-- Spieler können an Relegationsspielen, Entscheidungsspielen und Pokalspielen (ab Viertelfinale) nur teilnehmen, wenn sie in laufender Saison mindestens 5 Pflichtspiele (nicht Pokalspiele) für den Verein bestritten haben oder sie die komplette Rückrunde für den Verein spielberechtigt waren.  
-- Spieler die laut Einsatzstatistik überwiegend (mehr als 50 % ihrer Pflichtspiele) ohne Pokalspiele in dieser oder einer untergeordneten Mannschaft eingesetzt waren, sind für ein Entscheidungs- und Relegationsspiel spielberechtigt. Hierbei sind unbedingt die Regelungen aus § 5 Abs. 2 - 4 zu beachten.  
-- Der Einsatz von Spielern die laut Einsatzstatistik nicht eindeutig dieser Mannschaft zugeordnet werden kann, ist auf maximal 4 Spieler begrenzt.  
-- Begriffserklärung: Der Begriff „untergeordnete Mannschaft" beziehungsweise „übergeordnete Mannschaft" ergibt sich aus der Klassenzugehörigkeit und der Klassifizierung (Beispiel: 3. Mannschaft ist der 2. Mannschaft und eine Bezirksligamannschaft ist der Verbandsligamannschaft untergeordnet).
+
+    - Spieler können an Relegationsspielen, Entscheidungsspielen und Pokalspielen (ab Viertelfinale) nur teilnehmen, wenn sie in laufender Saison mindestens 5 Pflichtspiele (nicht Pokalspiele) für den Verein bestritten haben oder sie die komplette Rückrunde für den Verein spielberechtigt waren.
+    - Spieler die laut Einsatzstatistik überwiegend (mehr als 50 % ihrer Pflichtspiele) ohne Pokalspiele in dieser oder einer untergeordneten Mannschaft eingesetzt waren, sind für ein Entscheidungs- und Relegationsspiel spielberechtigt. Hierbei sind unbedingt die Regelungen aus § 5 Abs. 2 - 4 zu beachten.
+    - Der Einsatz von Spielern die laut Einsatzstatistik nicht eindeutig dieser Mannschaft zugeordnet werden kann, ist auf maximal 4 Spieler begrenzt.
+    - Begriffserklärung: Der Begriff „untergeordnete Mannschaft" beziehungsweise „übergeordnete Mannschaft" ergibt sich aus der Klassenzugehörigkeit und der Klassifizierung (Beispiel: 3. Mannschaft ist der 2. Mannschaft und eine Bezirksligamannschaft ist der Verbandsligamannschaft untergeordnet).
 
 7. Die Spielberechtigung richtet sich immer nach dem ursprünglich im Spielplan festgelegten Termin.
 8. Bei Einsatz eines nicht spielberechtigten Spielers wird das Doppel als verloren gewertet (0:4 Punkte). Sind in einer Begegnung in beiden Mannschaften nicht spielberechtigte Spieler eingesetzt, so ist das Doppel mit 2:2 Punkten zu werten. Darüber hinaus erfolgt eine gebührenpflichtige Ahndung gem. § 11 Abs.11 der GO.

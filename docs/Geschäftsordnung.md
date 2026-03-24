@@ -1,45 +1,36 @@
-<div class="html-only" style="text-align: center;">
-    <div class="title" style="text-align: center;">
-        <img src="images/STFV-LOGO.png" alt="STFV Logo" style="display: block; margin: 0 auto;" />
-        
-    </div>
-
-    <p style="text-align: center;">
-       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
-    </p>
-    <p>
-        <a href="./../assets/pdf/Geschäftsordnung.pdf" target="_blank">Download als PDF</a><br />
-        <a href="https://deutscher-tischfussballbund.github.io/stfv-docs/" target="_blank">Back</a>
-    </p>
-</div>
-
-
 ---
+title: "Geschäftsordnung"
+subtitle: "des STFV e.V."
+date: '{{ site.time | date: "%d.%m.%Y" }}'
+section_numbering: arabic
+pdf: /assets/pdf/Geschäftsordnung.pdf
+---
+
 
 * TOC
 {:toc}
 
----
 
 # Tätigkeitsbereich - Gesamtvorstand und Vorstand
 
 1. Der Gesamtvorstand legt die allgemeinen Richtlinien für die Leitung des Verbandes fest. Ihm obliegen die Geschäftsführung und die Leitung des Verbandes nach innen und außen. Zur Zuständigkeit des Vorstandes gehören insbesondere 
 
-a) Aufstellung der Tagesordnung für Versammlungen 
-b) Entscheidung über die Aufnahme neuer Mitglieder 
-c) Durchführung der Beschlüsse der Mitgliederversammlung 
-d) Entscheidung über Verwendung der Mittel 
-e) Alle sonstigen, täglich anfallenden Arbeiten, die zu einer ordnungsgemäßen Führung des Verbandes notwendig sind. 
+<ol type="a">
+  <li>Aufstellung der Tagesordnung für Versammlungen</li>
+  <li>Entscheidung über die Aufnahme neuer Mitglieder</li>
+  <li>Durchführung der Beschlüsse der Mitgliederversammlung</li>
+  <li>Entscheidung über Verwendung der Mittel</li>
+  <li>Alle sonstigen, täglich anfallenden Arbeiten, die zu einer ordnungsgemäßen Führung des Verbandes notwendig sind.</li>
+</ol>
+
 
 2. Der 1. Vorsitzende erteilt die notwendigen Anweisungen an seine Vorstandskollegen und überwacht deren Tätigkeit. Er beruft die Vorstandssitzungen ein, leitet diese und stellt die Tagesordnung auf. Vorschläge von Vorstandsmitgliedern zur Tagesordnung müssen von ihm auf dieselbe gesetzt werden.
 
----
 
 # Tätigkeitsbereich - Schriftführer
 
 Dem Schriftführer obliegt die Protokollführung der Versammlungen, Vorstands- und Schiedsgerichtssitzungen. Die Versammlungs- und Sitzungsprotokolle des Vorstandes sind von ihm und dem 1. Vorsitzenden zu unterschreiben. Die Sitzungsprotokolle des Schiedsgerichtes sind von ihm und dem Schiedsgerichtsvorsitzenden zu unterschreiben. Ihm obliegt die Erledigung von schriftlichen Arbeiten nach Anweisung des 1. Vorsitzenden oder dessen Vertreter.
 
----
 
 # Tätigkeitsbereich - Kassenwart
 
@@ -47,7 +38,6 @@ Dem Schriftführer obliegt die Protokollführung der Versammlungen, Vorstands- u
 
 2. Über außerordentliche Ausgaben entscheidet der geschäftsführende Vorstand.
 
----
 
 # Tätigkeitsbereich - Spielbetriebskommission
 
@@ -55,7 +45,6 @@ Die Spielbetriebskommission besteht aus dem Vorsitzenden, seinem Stellvertreter,
 
 Sie ist in Verbindung mit dem geschäftsführenden Vorstand für den reibungslosen Ablauf des Spielbetriebes (Verbandsspiele, Nachholspiele, Wiederholungsspiele, Pokalspiele sowie der Relegations- bzw. Entscheidungsspiele) verantwortlich und führt gleichzeitig eine Liste über die Tabellenstände. In ihrer Rechtsprechung obliegt ihr das Aussprechen von Ordnungsstrafen gemäß § 11 Abs. 1 - 8 der GO.
 
----
 
 # Tätigkeitsbereich - Schiedsgerichtswesen
 
@@ -63,8 +52,6 @@ Sie ist in Verbindung mit dem geschäftsführenden Vorstand für den reibungslos
 
 2. Alle sonstigen Bestimmungen sind in § 17 der Satzung festgelegt.
 
-
----
 
 # Generalversammlung - Einberufung
 
@@ -79,8 +66,6 @@ Sie ist in Verbindung mit dem geschäftsführenden Vorstand für den reibungslos
 5. Die Generalversammlung beschließt über alle Angelegenheiten des STFV, soweit in diesen Satzungen nichts anderes bestimmt ist. Insbesondere beschließt die Generalversammlung über SatzungsÄnderungen sowie über Erhebungen von Sonderbeiträgen.
 
 
----
-
 # Versammlungsleitung
 
 1. Die Versammlung leitet der 1. Vorsitzende oder sein Vertreter. Der Versammlungsleiter eröffnet die Versammlung. Er stellt die ordnungsgemäße Einberufung und damit die Beschlussfähigkeit der Versammlung fest. Er gibt die Zahl der Stimmberechtigten und die Tagesordnung bekannt. 
@@ -89,7 +74,6 @@ Sie ist in Verbindung mit dem geschäftsführenden Vorstand für den reibungslos
 
 3. Dem Versammlungsleiter stehen alle zur Aufrechterhaltung der Ordnung erforderlichen Befugnisse zu. Ist die ordnungsgemäße Durchführung der Versammlung gefährdet, kann er insbesondere das Wort entziehen.
 
----
 
 # Worterteilung und Rednerfolge
 
@@ -101,7 +85,6 @@ Sie ist in Verbindung mit dem geschäftsführenden Vorstand für den reibungslos
 
 4. Spricht ein Redner nicht zur Sache, so hat ihn der Versammlungsleiter zur Sache zu rufen. Im Wiederholungsfall kann der Versammlungsleiter dem Redner das Wort entziehen.
 
----
 
 # Anträge
 
@@ -115,7 +98,6 @@ Sie ist in Verbindung mit dem geschäftsführenden Vorstand für den reibungslos
 
 5. Anträge, die sich aus der Beratung eines Antrages ergeben und diesen ändern, ergänzen oder fortführen, sind zugelassen.
 
----
 
 # Wahlen
 
@@ -137,7 +119,6 @@ Sie ist in Verbindung mit dem geschäftsführenden Vorstand für den reibungslos
 
 9. Im Falle eines Ausscheidens von Mitgliedern des Gesamtvorstandes während der Amtszeit beruft der Gesamtvorstand auf Vorschlag ein geeignetes Ersatzmitglied bis zur nächsten satzungsgemäß festgelegten Wahl.
 
----
 
 # Kassenprüfer
 
@@ -147,50 +128,51 @@ Sie ist in Verbindung mit dem geschäftsführenden Vorstand für den reibungslos
 
 3. Sie berichten darüber schriftlich oder mündlich der Mitgliederversammlung und stellen den Antrag auf Entlastung des Vorstandes bzw. des Kassierers.
 
----
 
 # Tätigkeitsbereich - Sport- und Regelkommission
 
 Die SpoRKom setzt sich zusammen aus dem Leiter der SpoRKom, seinem Stellvertreter, dem STFV-Vorsitzenden oder einem Stellvertreter, dem Schiedsgerichtsvorsitzenden oder einem Stellvertreter sowie je einem Vertreter aller Mitgliedsvereine. Die Sportund Regelkommission entscheidet über Änderungen und Ergänzungen der Spielordnungen bzw. des Regelwerkes STFV sowie der Ordnung der SpoRKom. Entscheidungen der SpoRKom können von der Mitgliederversammlung per Antrag ergänzt bzw. geändert oder auch revidiert werden. 
 
----
 
 # Tätigkeitsbereich - Leistungssportkommission
 
 Die Leistungssportkommission ist für die Belange des Leistungssportes innerhalb des Verbandes zuständig. Sie kümmert sich insbesondere um die Abwicklung und Bedingungen innerhalb der pro-Ligen. 
 
----
 
 # Tätigkeitsbereich - Turnierleitungskommission
 
 Die Turnierleitungskommission ist zuständig für alle Änderungen und Ergänzungen der Ranglistenturnierordnung sowie der Ablaufordnung für Turniere und dem Turnierbetrieb förderlichen Belange.
 
----
 
 # Tätigkeitsbereich - Jugendförderungskommission
 
 Die Jugendförderungskommission kümmert sich sowohl um die Belange der Junioren, welche bereits dem STFV angeschlossen sind, als auch um die Integration weiterer Kinder und Jugendliche in die Vereine des STFV. So werden u.a. Kontakte zu Jugendorganisationen und Schulen gesucht, um hier unsere Sportart vorzustellen und u.a. beim Durchführen von Jugendturnieren (z.B. Beistellung von Tischen) zu helfen. Damit soll Nachwuchs für den saarländischen Tischfußballsport generiert werden. 
 
----
 
 # Ehrenordnung
 
 1. Für seine Mitglieder beschließt der Verband folgende Ehrungen: 
 
-a) die Ehrennadel 
-b) den Ehrenbrief 
-c) die Ehrenmitgliedschaft 
-d) das Amt des Ehrenvorsitzenden 
+<ol type="a">
+  <li>die Ehrennadel</li>
+  <li>den Ehrenbrief</li>
+  <li>die Ehrenmitgliedschaft</li>
+  <li>das Amt des Ehrenvorsitzenden</li>
+</ol>
+
 
 2. Der geschäftsführende Vorstand kann in Anerkennung besonderer Verdienste um den Tischfußballsport die Ehrennadeln in 
 
-a) Bronze 
-b) Silber 
-c) Gold 
-d) Gold mit 1 Stern 
-e) Gold mit 2 Sternen
- f) Gold mit 3 Sternen 
-g) Ehrenbrief verleihen. Mit ihr werden Mitglieder geehrt, die sich durch langjährige Mitgliedschaft im STFV-Vorstand oder im Verein ausgezeichnet haben. 
+<ol type="a">
+  <li>Bronze</li>
+  <li>Silber</li>
+  <li>Gold</li>
+  <li>Gold mit 1 Stern</li>
+  <li>Gold mit 2 Sternen</li>
+  <li>Gold mit 3 Sternen</li>
+  <li>Ehrenbrief verleihen. Mit ihr werden Mitglieder geehrt, die sich durch langjährige Mitgliedschaft im STFV-Vorstand oder im Verein ausgezeichnet haben.</li>
+</ol>
+
 
 2.1 Die Verleihung der Ehrennadel in Bronze setzt eine 20-jährige ununterbrochene Tätigkeit voraus. 
 
@@ -208,15 +190,20 @@ g) Ehrenbrief verleihen. Mit ihr werden Mitglieder geehrt, die sich durch langj�
 
 2.8 Anträge von Vereinen auf Ehrung ihrer Mitglieder müssen spätestens bis zum 30. Juni eines jeden Jahres schriftlich bei der STFVGeschäftsstelle eingereicht werden. Folgende lückenlose Angaben sind dazu erforderlich: 
 
-a) Name und Vorname des Betreffenden (Personalien) 
-b) Welche Tätigkeit hat der Betreffende bisher im Verein oder im STFV-Vorstand ausgeübt (von wann bis wann) 
-c) In welchem Verein hat der Betreffende bisher gespielt (lückenlose Aufstellung) 
+<ol type="a">
+  <li>Name und Vorname des Betreffenden (Personalien)</li>
+  <li>Welche Tätigkeit hat der Betreffende bisher im Verein oder im STFV-Vorstand ausgeübt (von wann bis wann)</li>
+  <li>In welchem Verein hat der Betreffende bisher gespielt (lückenlose Aufstellung)</li>
+</ol>
+
 
 2.9 Nach eingehender Prüfung des Antrages entscheidet der geschäftsführende Vorstand über die Verleihung der Auszeichnung. 
 
 3. Auf Antrag des STFV-Vorstandes können Personen, die sich besondere Verdienste um den Tischfußball erworben haben, durch Beschluss der Mitgliederversammlung zu: 
 
-a) Ehrenmitgliedern 
-b) Ehrenvorsitzenden ernannt werden.
+<ol type="a">
+  <li>Ehrenmitgliedern</li>
+  <li>Ehrenvorsitzenden ernannt werden.</li>
+</ol>
 
----
+

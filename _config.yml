@@ -1,5 +1,22 @@
-title: "Spielordnung"
-description: "Spielordnung des BTFV"
-theme: jekyll-theme-minimal
+title: "STFV Dokumente"
+description: "Offizielle Verbandsdokumente des Saarländischen Tischfußballverbandes e.V."
+
 plugins:
   - jekyll-toc
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      template: stfv
+
+exclude:
+  - scripts/
+  - temp/
+  - README.md
+  - LICENSE

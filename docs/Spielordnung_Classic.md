@@ -1,28 +1,12 @@
 ---
 title: "Spielordnung Classic (SPO Classic)"
-author: "![STFV Logo](images/STFV-LOGO.png)"
-date: {{ site.time | date: "%d-%m-%Y" }}
+date: '{{ site.time | date: "%d.%m.%Y" }}'
+section_numbering: arabic
+pdf: /assets/pdf/Spielordnung_Classic.pdf
 ---
-<div class="html-only" style="text-align: center;">
-    <div class="title" style="text-align: center;">
-        <img src="images/STFV-LOGO.png" alt="STFV Logo" style="display: block; margin: 0 auto;" />
-        Spielordnung Classic (SPO Classic)
-    </div>
-
-    <p style="text-align: center;">
-       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
-    </p>
-    <p>
-        <a href="./../assets/pdf/Spielordnung_Classic.pdf" target="_blank">Download als PDF</a><br/>
-        <a href="https://deutscher-tischfussballbund.github.io/stfv-docs/" target="_blank">Back</a>
-    </p>
-</div>
-
-**Stand: 19. Februar 2025**
 
 * TOC
 {:toc}
-
 
 # Allgemeines 
 Seit der Einführung des STFV-Regelwerkes im Mai 2023 werden in der SPO-Classic lediglich noch die formalen Regelungen zum Spielablauf, Spieljahr, Spielberechtigungen, Ehrungen und Hinweisen zu Turnieren etc. abgebildet. Die Spielregeln selbst stehen nun im STFV-Regelwerk! Alle Tischfußballspiele von Mannschaften des STFV innerhalb der Classic-Ligen werden nach der nachfolgenden Spielordnung durchgeführt. Die Tischfußballspiele innerhalb der Classic-Ligen des STFV gliedern sich in 
@@ -30,10 +14,8 @@ Seit der Einführung des STFV-Regelwerkes im Mai 2023 werden in der SPO-Classic 
 1. Pflichtspiele (Meisterschafts-, Pokal-, Aufstiegs-, Abstiegs- und Entscheidungsspiele) 
 2. Auswahl- und Freundschaftsspiele
 
-
 # Spieljahr 
 Das Spieljahr beginnt am 1. Januar eines jeden Jahres und endet am 31. Dezember desselben Jahres. Der Vorstand ist berechtigt, aus besonderen Anlässen an einzelnen Tagen Spielverbot für alle Spiele im gesamten Verbandsgebiet auszusprechen. Dieses Spielverbot kann auch zeitlich begrenzt sein.
-
 
 # Spieltermine 
 1. Termineinhaltung 
@@ -50,23 +32,21 @@ Kommen Pflichtspiele infolge einer schlechten Wetterlage in den Wintermonaten ni
 
 Kommen Pflichtspiele durch tragische Ereignisse nicht zur Austragung, so ist der betreffende Verein verpflichtet, dies unverzüglich, spätestens jedoch eine Stunde nach dem ursprünglichen Spielbeginn dem/der Spielbetriebsleiter/in zu melden. Ein neuer Spieltermin wird von dem /der Spielbetriebsleiter/in festgesetzt.
 
-
 # Spielerlaubnis 
 
-1.	Nach Genehmigung des Spielerpasses ist jeder Spieler für seinen Verein bis zum Ende der Verbandsrunde spielberechtigt. 
-2.	Wechselt ein Spieler den Verein, so hat er sich grundsätzlich bei seinem Verein unter Verwendung der vorgeschriebenen Austrittserklärung abzumelden. Der Spieler ist verpflichtet, diese Austrittserklärung unverzüglich an die Geschäftsstelle zu senden. 
-3.	Der Verein ist verpflichtet, das Wechseln der Spieler schriftlich binnen 8 Tagen der Geschäftsstelle unter Einsendung des Spielerpasses zu melden. 
-4.	In der Zeit nach dem letzten Spieltag der Saison bis zum Ende der Wechselfrist am 31. Dezember können sich alle Spieler einem neuen Verein anschließen. Der Spielerwechsel wird durch Einsendung der unterschriebenen Austrittserklärung und des Spielerpassantrages für den neuen Verein bei der STFV- Geschäftsstelle wirksam. Ein Spieler, der bis zum 31.12. zwar seinen Austritt erklärt hat, sich aber keinem Verein angeschlossen hat, ist für die ersten drei Spieltage der Verbandsrunde gesperrt. Spieler, die im Vorjahr kein Pflichtspiel bestritten haben, sind von dieser Regel ausgenommen. Erklärt ein Spieler seinen Austritt nach dem 31.12. wird er mit einer Spielsperre belegt. Die Spielsperre beginnt ab dem auf der Austrittserklärung dokumentierten und vom Verein bestätigten Austrittsdatum. Die Spielsperre beträgt 4 Pflichtspieltage (ohne Pokalspiele). Mit Zustimmung des abgebenden Vereins können die bereits ausgesetzten Spieltage angerechnet werden. 
-5.	Wechselt ein Spieler den Verein, so muss er seinen Verpflichtungen gegenüber diesem nachgekommen sein und zwar:
+1.  Nach Genehmigung des Spielerpasses ist jeder Spieler für seinen Verein bis zum Ende der Verbandsrunde spielberechtigt. 
+2.  Wechselt ein Spieler den Verein, so hat er sich grundsätzlich bei seinem Verein unter Verwendung der vorgeschriebenen Austrittserklärung abzumelden. Der Spieler ist verpflichtet, diese Austrittserklärung unverzüglich an die Geschäftsstelle zu senden. 
+3.  Der Verein ist verpflichtet, das Wechseln der Spieler schriftlich binnen 8 Tagen der Geschäftsstelle unter Einsendung des Spielerpasses zu melden. 
+4.  In der Zeit nach dem letzten Spieltag der Saison bis zum Ende der Wechselfrist am 31. Dezember können sich alle Spieler einem neuen Verein anschließen. Der Spielerwechsel wird durch Einsendung der unterschriebenen Austrittserklärung und des Spielerpassantrages für den neuen Verein bei der STFV- Geschäftsstelle wirksam. Ein Spieler, der bis zum 31.12. zwar seinen Austritt erklärt hat, sich aber keinem Verein angeschlossen hat, ist für die ersten drei Spieltage der Verbandsrunde gesperrt. Spieler, die im Vorjahr kein Pflichtspiel bestritten haben, sind von dieser Regel ausgenommen. Erklärt ein Spieler seinen Austritt nach dem 31.12. wird er mit einer Spielsperre belegt. Die Spielsperre beginnt ab dem auf der Austrittserklärung dokumentierten und vom Verein bestätigten Austrittsdatum. Die Spielsperre beträgt 4 Pflichtspieltage (ohne Pokalspiele). Mit Zustimmung des abgebenden Vereins können die bereits ausgesetzten Spieltage angerechnet werden. 
+5.  Wechselt ein Spieler den Verein, so muss er seinen Verpflichtungen gegenüber diesem nachgekommen sein und zwar:
 * den monatlichen Beitragszahlungen für maximal ein Jahr, nachweisbar durch das Mitgliedsbuch oder andere Quittungen.
 * sonstigen nachweisbaren Verpflichtungen gegenüber seinem Verein. 
-7.	Ist der Spieler diesen Verpflichtungen auch während der Sperre nicht nachgekommen, so entscheidet der STFV- Vorstand über die weitere Spielerlaubnis. 
-8.	Will ein Spieler zu seinem alten Verein zurück. d.h., er hat sich noch keinem neuen Verein angeschlossen, so bleibt diese Spielsperre von 4 Spieltagen trotzdem bestehen. 
-9.	Der Spielerpass wird dem Verein zugestellt. Für den Einsatz des Spielers gilt die im Pass dokumentierte Eintragung “Spielberechtigt ab: (Datum)“ 
-10.	Bei Auflösung eines Vereins während der laufenden Spielrunde unterliegen die jeweiligen Spieler ebenfalls einer Sperre von 4 Spieltagen. 
-11.	Ein Verein, der seine Verbindlichkeiten gegenüber dem STFV bis zum 31.12. jeden Jahres nicht erfüllt hat, erhält für das kommende Spieljahr keine Spielerlaubnis. 
-12.	Scheidet ein Verein aus dem Verband aus, der seine Verbindlichkeiten über den Kautionsbetrag hinaus nicht erfüllt hat, so werden alle Spieler des betreffenden Vereins mit einer Spielsperre von 8 Spieltagen belegt, sofern sie bis zum Austritt des Vereins aus dem Verband spielberechtigt waren.
-
+7.  Ist der Spieler diesen Verpflichtungen auch während der Sperre nicht nachgekommen, so entscheidet der STFV- Vorstand über die weitere Spielerlaubnis. 
+8.  Will ein Spieler zu seinem alten Verein zurück. d.h., er hat sich noch keinem neuen Verein angeschlossen, so bleibt diese Spielsperre von 4 Spieltagen trotzdem bestehen. 
+9.  Der Spielerpass wird dem Verein zugestellt. Für den Einsatz des Spielers gilt die im Pass dokumentierte Eintragung “Spielberechtigt ab: (Datum)“ 
+10.  Bei Auflösung eines Vereins während der laufenden Spielrunde unterliegen die jeweiligen Spieler ebenfalls einer Sperre von 4 Spieltagen. 
+11.  Ein Verein, der seine Verbindlichkeiten gegenüber dem STFV bis zum 31.12. jeden Jahres nicht erfüllt hat, erhält für das kommende Spieljahr keine Spielerlaubnis. 
+12.  Scheidet ein Verein aus dem Verband aus, der seine Verbindlichkeiten über den Kautionsbetrag hinaus nicht erfüllt hat, so werden alle Spieler des betreffenden Vereins mit einer Spielsperre von 8 Spieltagen belegt, sofern sie bis zum Austritt des Vereins aus dem Verband spielberechtigt waren.
 
 # Spielberechtigung 
 1. Die Vereine sind verpflichtet, zu dem vom Verband festgesetzten Termin die Anzahl der Mannschaften und die Spieler ihres Vereins zu benennen. 
@@ -94,7 +74,6 @@ Der Begriff „untergeordnete Mannschaft“ beziehungsweise „übergeordnete Ma
 
 8. Bei Einsatz eines nicht spielberechtigten Spielers wird das Doppel als verloren gewertet (0:4 Punkte). Sind in einer Begegnung in beiden Mannschaften nicht spielberechtigte Spieler eingesetzt, so ist das Doppel mit 2:2 Punkten zu werten. Darüber hinaus erfolgt eine gebührenpflichtige Ahndung gem. § 11 Abs.10 der GO.
 
-
 # Spielerpass 
 1. Teilnahmeberechtigt an STFV- Pflichtspielen sind nur solche Spieler, die im Besitz einer Spielerlaubnis sind. 
 
@@ -102,12 +81,10 @@ Der Begriff „untergeordnete Mannschaft“ beziehungsweise „übergeordnete Ma
 
 3. Wenn bei einem Vereinswechsel noch offene Beiträge bei dem alten Verein oder noch Ordnungsstrafen beim Verband zu zahlen sind, wird dem neuen Verein eine Bearbeitungsgebühr berechnet (siehe § 10 Abs. 9 GO). 
 
-
 **Anmerkungen für die Ausstellung von Spielerpässen** 
 
 * Dem Antrag ist 1 Lichtbild, nicht älter als ein halbes Jahr, beizufügen. Die jeweiligen Vereinsvorsitzenden sind dafür verantwortlich, dass die Lichtbilder mit dem tatsächlichen Aussehen des Spielers übereinstimmen.
 * Sollte aus irgendwelchen Gründen eine Ausstellung eines Spielerpasses nicht möglich sein, die weder der beantragende Verein noch der Spieler zu verantworten haben, so ist eine befristete vorläufige Spielgenehmigung durch den Vorsitzenden oder dessen Vertreter auszustellen.
-
 
 # Spieltisch, Beleuchtung, Bälle, Spielhindernisse 
 1. Spieltisch, Beleuchtung, Bälle 
@@ -127,7 +104,6 @@ Dem STFV-Vorstand obliegt die Möglichkeit zu jedem Zeitpunkt die Spieltische zu
 * Muss ein Verbandsspiel durch irgendwelche entstandenen Schäden (defekter Spieltisch, defekte Beleuchtung oder sonstige Schäden) unterbrochen werden und der Schaden kann behoben werden, so muss das Spiel fortgesetzt werden. Ist der Schaden jedoch nicht reparabel, wird das Spiel zu einem anderen Zeitpunkt mit dem Spielstand vor der Unterbrechung und den gleichen Spielern fortgesetzt. 
 * Der Vereinsführung obliegt die Verpflichtung, bei Defekten (Münzprüfer, Balldurchlauf) jederzeit die Möglichkeit zur Öffnung des Spielgerätes und somit eine Schadensbehebung herbeizuführen. Im Zweifelsfalle ist die Heimmannschaft durch Ballentnahme aus dem Gerät verpflichtet, eine Fortführung des Spiels zu gewährleisten. Der Heimverein ist verpflichtet, alle am Spieltisch zu ersetzenden Teile wie z. Bsp. Stangen, Gummis, Unterlegscheiben, Griffe vor Ort zu haben und für ein zügiges Auswechseln der Teile zu sorgen.
 
-
 # Bereitstellung des Spieltisches für die Gastmannschaft 
 
 Damit der Spielführer einer Gastmannschaft den ordnungsgemäßen Zustand des Spieltisches überprüfen kann, muss der Platzverein dafür sorgen, dass der Spieltisch um 20.45 Uhr der Gastmannschaft zur Verfügung steht. 
@@ -136,7 +112,6 @@ Der Spielführer des Platzvereins ist dafür verantwortlich, dass der Spieltisch
 
 Zuwiderhandlungen des Spielführers der Platzmannschaft gegen die Anweisungen des STFV können von dem Spielführer der Gastmannschaft auf dem Spielbericht vermerkt werden. 
 Ein Vergehen des Spielführers hat aber mit der Austragung des folgenden Pflichtspieles nichts zu tun, d.h., das Spiel muss ausgetragen werden. Der Verein, der die Anweisungen des STFV nicht befolgt hat, wird mit einer Ordnungsstrafe belegt.
-
 
 # Mannschaftsaufstellung 
 
@@ -154,13 +129,11 @@ Bei begründeten Zweifeln hinsichtlich der Identität des Spielers mit der im Sp
 
 Bei Zwischenfällen, welche die Einschaltung des Schiedsgerichtes zur Folge haben, wird das Verhalten der Spielführer gesondert behandelt bzw. geahndet. Der Spielführer ist nicht berechtigt, unterbrechend bzw. hemmend in ein laufendes Spiel einzuwirken.
 
-
 # Spielbeginn 
 
 1. Der Spielbeginn ist auf 21.00 Uhr festgesetzt. Hinzu kommt eine Wartezeit von 15 Minuten. Für eine Mannschaft, die ihre Aufstellung bis 21.00 Uhr noch nicht abgegeben hat, besteht die Möglichkeit, dies in der Zeit bis 21.15 nachzuholen. Eine solche Nachmeldung ist jedoch mit einer Ordnungsstrafe verbunden. Der Spielbetrieb muss um 21.15 Uhr aufgenommen werden. 
 
 2. Bei späterer Abgabe der Mannschaftsmeldung muss die betroffene Mannschaft nachweisen (z.B. durch Uhrenvergleich mit einem verantwortlichen des STFV), dass eine zu späte Abgabe nach 21.15 Uhr erfolgte. Ist dieser Nachweis erbracht, ist das 1. Doppel für die verursachende Mannschaft mit 0:4 Punkten zu werten. Hat diese den Spielbetrieb des 2. Doppel bis 21.30 Uhr nicht aufgenommen, so ist die Begegnung als nicht angetreten zu werten und wird mit einer Ordnungsstrafe belegt. Im Wiederholungsfall erfolgt neben der Ordnungsstrafe ein Punktabzug von 2 Pluspunkten in der Tabelle nach Abschluss der Verbandsrunde (nur Landes- und Verbandsligen).
-
 
 # Regelungen zum Spielablauf 
 
@@ -169,14 +142,13 @@ Um einem eventuellen Zeitschinden vorzubeugen, darf eine begründete Spielunterb
 Bei längerer Unterbrechung ist das zurzeit andauernde Doppel für jeweils die Partei als verloren zu werten, welche die Spielunterbrechung verursacht hat. Befindet sich ein Spieler bis zum Ende seines vorhergehenden Doppels nicht am Spielort, so ist der Spielführer oder ein Vertreter seines Vereins dazu verpflichtet, dies unverzüglich, also innerhalb der ersten Minute nach Ende des vorhergehenden Doppels, zwecks Uhrenvergleich an den gegnerischen Spielführer oder dessen Vertreter zu melden. 
 Bei Zuwiderhandlungen wird das betreffende Doppel mit 0:4 Punkten und 0:6, 0:6 Toren gewertet. Kommt ein Doppel aus irgendwelchen Gründen nicht, oder teilweise nicht zur Austragung, so muss auf Antrag einer Mannschaft eine 15-minütige Pause eingelegt werden. 
 
-1.	Für die am Spieltisch stehenden Spieler und Zuschauer besteht für die Dauer des Pflichtspieles absolutes Rauchverbot. 
+1.  Für die am Spieltisch stehenden Spieler und Zuschauer besteht für die Dauer des Pflichtspieles absolutes Rauchverbot. 
 
-2.	Unsportliches Verhalten, Beleidigungen, Drohungen und Tätlichkeiten von Spielern oder Zuschauern werden mit Ordnungsstrafen und gegebenenfalls zusätzlich mit Spielsperren belegt. Ebenso liegt es im Ermessen des STFV- Vorstandes bzw. des Schiedsgerichtes, den Verein bei o.g. Vorkommnissen mit einer Heimspielsperre bzw. Ordnungsstrafe oder beidem zu belegen.
+2.  Unsportliches Verhalten, Beleidigungen, Drohungen und Tätlichkeiten von Spielern oder Zuschauern werden mit Ordnungsstrafen und gegebenenfalls zusätzlich mit Spielsperren belegt. Ebenso liegt es im Ermessen des STFV- Vorstandes bzw. des Schiedsgerichtes, den Verein bei o.g. Vorkommnissen mit einer Heimspielsperre bzw. Ordnungsstrafe oder beidem zu belegen.
 
-3.	Die Spieler einer Mannschaft sind verpflichtet an den Pflichtspielen für die Dauer des jeweiligen Spieleinsatzes in einem einheitlichen Vereinstrikot anzutreten. Die Einheitlichkeit muss nach Art, Farbe und grundsätzlichem optischen Eindruck gegeben sein. Als Trikots kommen Hemden, Poloshirts oder T-Shirts in Frage, die jedoch nur dann vermischt getragen werden dürfen, wenn der optische Gesamteindruck erhalten bleibt. Sie müssen als oberstes Kleidungsstück und zugeknöpft getragen werden. Auf den Trikots muss der Vereinsname deutlich sichtbar aufgebracht sein. Werbeaufdrucke, wie das Symbol oder der Name eines Sponsors sind mit Ausnahme der Werbung für Tabakwaren, alkoholische Getränke oder gesundheitsschädliche Drogen nur erlaubt, soweit dadurch der Gesamteindruck eines Sporttrikots nicht verloren geht. 
+3.  Die Spieler einer Mannschaft sind verpflichtet an den Pflichtspielen für die Dauer des jeweiligen Spieleinsatzes in einem einheitlichen Vereinstrikot anzutreten. Die Einheitlichkeit muss nach Art, Farbe und grundsätzlichem optischen Eindruck gegeben sein. Als Trikots kommen Hemden, Poloshirts oder T-Shirts in Frage, die jedoch nur dann vermischt getragen werden dürfen, wenn der optische Gesamteindruck erhalten bleibt. Sie müssen als oberstes Kleidungsstück und zugeknöpft getragen werden. Auf den Trikots muss der Vereinsname deutlich sichtbar aufgebracht sein. Werbeaufdrucke, wie das Symbol oder der Name eines Sponsors sind mit Ausnahme der Werbung für Tabakwaren, alkoholische Getränke oder gesundheitsschädliche Drogen nur erlaubt, soweit dadurch der Gesamteindruck eines Sporttrikots nicht verloren geht. 
 
 Ist in Ausnahmefällen für einen Spieler wegen Übergröße oder Modellwechsel der Kollektion ein exakt gleiches Trikot nicht lieferbar, ist ein Ersatztrikot zu beschaffen, das dem optischen Eindruck der übrigen Trikots so nah wie möglich kommt. Die STFV- Geschäftsstelle prüft auf Antrag die weitestgehende Übereinstimmung der Trikots und erteilt eine Ausnahmegenehmigung, die dem Spielerpass beizufügen ist. Spieler ohne Trikot sind nicht spielberechtigt. Das bedeutet, dass ein Doppel als verloren gewertet wird, wenn nicht beide Spieler dieses Doppels ein mannschaftseinheitliches Vereinstrikot tragen.
-
 
 # Wechsel des Spielers innerhalb eines Doppels, Ersatz- und Einwechselspieler 
 
@@ -186,12 +158,17 @@ Ist in Ausnahmefällen für einen Spieler wegen Übergröße oder Modellwechsel 
 
 3. Hat eine Mannschaft 13 Punkte erreicht und somit das Spiel bereits für sich entschieden, so ist es den Vereinen freigestellt, ab dem nächsten Doppelersatzspieler einzusetzen. Der Vorgang muss mit Namen und Pass- Nr. der jeweiligen Spieler unter "Besondere Vorkommnisse" vermerkt werden. Der Spieleinsatz, wie auch die erspielten Punkte werden dem ursprünglich auf der Mannschaftsaufstellung stehenden Spieler zugerechnet
 
-
 # Spielwertung 
 
 1. Gespielt werden jeweils 6 Doppel à 2 Sätze à maximal 10 Bälle. 
 
-2. Spielwertung: a. Gewonnenes Spiel = 2:0 Punkte b. Verlorenes Spiel = 0:2 Punkte c. Unentschieden = 1:1 Punkte 
+2. Spielwertung:
+
+   <ol type="a">
+     <li>Gewonnenes Spiel = 2:0 Punkte</li>
+     <li>Verlorenes Spiel = 0:2 Punkte</li>
+     <li>Unentschieden = 1:1 Punkte</li>
+   </ol>
 
 3. Ein verlorenes Pflichtspiel ergibt 0:2 Punkte. Bei einem Stand von 12:12 wird kein Entscheidungsspiel ausgetragen, sondern mit 1:1 Punkten gewertet. Das gewonnene Pflichtspiel ergibt 2:0 Punkte. 
 
@@ -202,7 +179,6 @@ Ist in Ausnahmefällen für einen Spieler wegen Übergröße oder Modellwechsel 
 6. Tritt eine übergeordnete Mannschaft zu einem Pflichtspiel nicht an, so werden (in der Regel) die Spiele aller untergeordneten Mannschaften mit 0:24 gewertet. 
 
 7. Muss ein Pflichtspiel abgebrochen werden, so wird die Begegnung, wenn die zuständigen Gremien des STFV die Schuldfrage eindeutig klären konnten, zu Ungunsten des Verursachers gewertet.
-
 
 # Mitteilung des Pflichtspielergebnisses und Einsendung des Spielberichtes 
 
@@ -219,7 +195,6 @@ Ist in Ausnahmefällen für einen Spieler wegen Übergröße oder Modellwechsel 
 6. Die Höhe der Ordnungsstrafe ist aus der Gebührenordnung zu entnehmen. Bei Wiederholungsfällen kann sich der Betrag um 100% erhöhen. 
 
 7. Die Klassenleiter sind verpflichtet, jeden verspätet eingehenden Spielbericht mit einem Eingangsdatum zu versehen und den Verein mit einer Ordnungsstrafe zu belegen.
-
 
 # Schiedsrichter 
 
@@ -252,7 +227,6 @@ Ist in Ausnahmefällen für einen Spieler wegen Übergröße oder Modellwechsel 
 
 13. Die Repräsentanten der Vereine (Vorsitzende und Spielführer) sind zu jedem Zeitpunkt des Spiels verpflichtet, den Schiedsrichter bei seiner Arbeit zu unterstützen und nicht gegen diesen zu wirken. Ein Zuwiderhandeln wird mit Strafe belegt und vom Schiedsgericht in der Höhe entschieden.
 
-
 # Protest und Einspruch 
 
 1. Proteste sind auf dem Spielberichtsbogen unter „Besondere Vorkommnisse“ zu vermerken. Der Protest muss die Uhrzeit der Eintragung, den genauen Spielstand und das besondere Vorkommnis in Kurzform beinhalten. 
@@ -276,13 +250,11 @@ Ist in Ausnahmefällen für einen Spieler wegen Übergröße oder Modellwechsel 
 * Spielführer 
 * Postempfänger 
 
-
 10. Die vom STFV- Vorstand und Schiedsgericht geladenen Zeugen sind verpflichtet, zu der betreffenden Sitzung zu Erscheinen. Berufs- oder krankheitsbedingte Verhinderungen sind schriftlich vor dem Verhandlungstermin der STFV- Geschäftsstelle unter Darlegung der Gründe mitzuteilen. Über den Verhinderungsgrund ist ein Nachweis zu erbringen. Im Fall der Verhinderung ist dem Schiedsgericht zur Sitzung eine schriftliche Aussage vorzulegen. Im Fall des Einspruchs gegen das Schiedsgerichtsurteil behält sich der Vorstand vor, nur die Zeugen anzuhören, die sich vor dem Schiedsgericht wenigstens schriftlich geäußert haben. Zeugen sind nicht zu Aussagen verpflichtet, durch die sie sich selbst belasten. Unentschuldigtes Fernbleiben der vom Vorstand bzw. Schiedsgericht geladenen Zeugen kann mit einer Ordnungsstrafe bis zu € 52,-und Spielsperre belegt werden. 
 
 11. Mitglieder des Vorstandes oder des Schiedsgerichts sind nicht stimmberechtigt, soweit Belange des eigenen Vereines verhandelt werden. Mitglieder des Schiedsgerichtes sind in einer Einspruchsverhandlung nicht teilnahmeberechtigt, sofern sie an der Schiedsgerichtssitzung teilgenommen haben. Sie dürfen in diesem Fall auch bei der Anhörung von Zeugen nicht anwesend sein, jedoch können sie als Zeuge zu einer solchen Sitzung geladen werden. 
 
 12. Wird einem Protest oder Einspruch stattgegeben, so trägt die verurteilte Partei die Protest- bzw. Einspruchsgebühren. Ferner trägt sie allein die Schiedsrichterkosten für ganz oder teilweise neu angesetzte Spiele.
-
 
 # Ausscheiden eines Vereins während der Pflichtspielrunde 
 
@@ -291,7 +263,6 @@ Ist in Ausnahmefällen für einen Spieler wegen Übergröße oder Modellwechsel 
 2. Scheidet ein Verein während der 1. Hälfte der Pflichtrunde aus dem Verband aus, so werden alle Plus- und Minuspunkte den anderen Vereinen in Abzug gebracht. Scheidet ein Verein während der 2. Hälfte aus der Pflichtspielrunde aus, so gelten alle Spiele der Rückrunde für den Gegner als gewonnen. 
 
 Desgleichen gilt auch bei Ausschluss eines Vereins aus dem STFV.
-
 
 # Ehrung der Landesmeister und Landespokalsieger 
 
@@ -307,7 +278,6 @@ Desgleichen gilt auch bei Ausschluss eines Vereins aus dem STFV.
 
 6. Alle sonstigen Einzelbestimmungen dieser o.g. Ehrungen legt der STFV-Vorstand fest. 
 
-
 # Haftung der Wanderpokale 
 
 1. Derjenige Verein, der aufgrund einer errungenen Landes- oder Pokalmeisterschaft für ein Jahr Besitzer des jeweiligen Wanderpokals ist, ist auch wie folgt dafür verantwortlich: 
@@ -316,7 +286,6 @@ Desgleichen gilt auch bei Ausschluss eines Vereins aus dem STFV.
 * Wird der Wanderpokal gestohlen, muss der betreffende Verein binnen 3 Tagen per Einschreiben den Verlust der STFV- Geschäftsstelle mitteilen. Ferner muss der Verein, einen neuen Pokal mit allen Gravierungen anschaffen. 
 
 2. Der zu ersetzende Pokal muss bis zu einem vom STFV- Vorstand festgesetzten Termin an den Landesverband zurückgegeben werden.
-
 
 # Turniere
 Vereine, die dem Verband angehören und während des Spieljahres Turniere veranstalten, müssen diese bei der Turnierleitungskommission anmelden. 
@@ -333,11 +302,9 @@ Wird ein Spiel im "Best of" Modus gespielt hat jedes Team pro Satz 2 Time Out. B
 
 Der Sieger hat das Spielergebnis der Turnierleitung unverzüglich nach Beendigung des Spiels mitzuteilen. Fehler bei der Ergebnismitteilung gehen zu Lasten des Spieles, der für die Eintragung verantwortlich war. 
 
-
 # Spiele außerhalb des STFV 
 
 STFV-Vereine können gegen jeden Verein bzw. Mannschaft außerhalb der Verbandstermine Spiele austragen.
-
 
 § 22 Angaben zu Vereinsvorstand - Vereinslokal 
 
@@ -352,7 +319,6 @@ STFV-Vereine können gegen jeden Verein bzw. Mannschaft außerhalb der Verbandst
 * Ferner muss der Verein binnen 7 Tagen allen Mannschaften seiner Spielklasse schriftlich den Lokalwechsel mit den vorgenannten Angaben mitteilen. 
 
 3. Kommen Verbands-, Pokal- oder Wiederholungsspiele durch Nichtbeachten der vorgenannten Anweisungen nicht zur Austragung, so kann der betreffende Verein durch sein schuldhaftes Verhalten mit einer Ordnungsstrafe belegt werden.
-
 
 # Änderung der Spielordnung 
 
