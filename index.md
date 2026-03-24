@@ -33,9 +33,9 @@
 - [Erstattungsantrag Kilomertergeld](./assets/pdf/erstattungsantrag_kilometrgeld.pdf)
 - [Mannschaftsaufstellung](./assets/pdf/mannschaftsaufstellung.pdf)
 - [Schiedsrichterentschädigung](./assets/pdf/schiedsrichterentschaedigung.pdf)
-- [Spielbericht Pro LL](./assets/pdf/spielberricht_Pro_LL.pdf)
-- [Spielbericht Pro L Verbandsliga](./assets/pdf/spielberricht_Pro_LVerbandsliga.pdf)
-- [Spielbericht Classic](./assets/pdf/spielberricht_classic.pdf)
+- [Spielbericht Pro Racemodus](./assets/pdf/spielbericht_Racemodus_42.pdf)
+- [Spielbericht Pro 5 Doppel 2 Einzel](./assets/pdf/spielbericht_5D_2E.pdf)
+- [Spielbericht Classic](./assets/pdf/spielbericht_classic.pdf)
 - [Spielordnung DTFB](./assets/pdf/Spielordnung_Stand_29042023.pdf)
 - [Tuniere Spieleranmeldung](./assets/pdf/tuniere_spieleranmeldung.pdf)
 
