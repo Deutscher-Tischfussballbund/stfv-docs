@@ -1,28 +1,16 @@
-<div class="html-only" style="text-align: center;">
-    <div class="title" style="text-align: center;">
-        <img src="images/STFV-LOGO.png" alt="STFV Logo" style="display: block; margin: 0 auto;" />
-        
-    </div>
-
-    <p style="text-align: center;">
-       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
-    </p>
-    <p>
-        <a href="./../assets/pdf/Ordnung_des_Spielbetriebes.pdf" target="_blank">Download als PDF</a><br />
-        <a href="https://deutscher-tischfussballbund.github.io/stfv-docs/" target="_blank">Back</a>
-    </p>
-</div>
-
-
-**Ordnung des Spielbetriebes**
+---
+title: "Ordnung des Spielbetriebes"
+subtitle: "des STFV e.V."
+date: "{{ site.time | date: '%d.%m.%Y' }}"
+section_numbering: arabic
+pdf: /assets/pdf/Ordnung_des_Spielbetriebes.pdf
+---
 
 ---
 
 * TOC
 {:toc}
 ---
-
-**Einleitung**
 
 Stand dieser Ordnung ist der **01. Februar 2019**. Die Ordnung des Spielbetriebes kann durch die Delegiertenversammlung der SpoRKom oder die Mitgliederversammlung ergänzt bzw. geändert werden.
 

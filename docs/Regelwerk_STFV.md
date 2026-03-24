@@ -1,19 +1,9 @@
-<div class="html-only" style="text-align: center;">
-    <div class="title" style="text-align: center;">
-        <img src="images/STFV-LOGO.png" alt="STFV Logo" style="display: block; margin: 0 auto;" />
-        
-    </div>
-
-    <p style="text-align: center;">
-       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
-    </p>
-    <p>
-        <a href="./../assets/pdf/Regelwerk_STFV.pdf" target="_blank">Download als PDF</a><br />
-        <a href="https://deutscher-tischfussballbund.github.io/stfv-docs/" target="_blank">Back</a>
-    </p>
-</div>
-
-**Regelwerk STFV**
+---
+title: "Regelwerk STFV"
+date: "{{ site.time | date: '%d.%m.%Y' }}"
+section_numbering: arabic
+pdf: /assets/pdf/Regelwerk_STFV.pdf
+---
 
 **Stand: 03.05.2023**
 

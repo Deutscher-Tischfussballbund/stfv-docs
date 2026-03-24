@@ -1,20 +1,11 @@
-<div class="html-only" style="text-align: center;">
-    <div class="title" style="text-align: center;">
-        <img src="images/STFV-LOGO.png" alt="STFV Logo" style="display: block; margin: 0 auto;" />
-        
-    </div>
-
-    <p style="text-align: center;">
-       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
-    </p>
-    <p>
-        <a href="./../assets/pdf/Präventionskonzept_sexualisierte_Gewalt_im_Verein.pdf" target="_blank">Download als PDF</a><br />
-        <a href="https://deutscher-tischfussballbund.github.io/stfv-docs/" target="_blank">Back</a>
-    </p>
-</div>
-
-
-**Präventionskonzept sexualisierte Gewalt im Verein**
+---
+title: "Präventionskonzept: Sexualisierte Gewalt im Verein"
+date: "{{ site.time | date: '%d.%m.%Y' }}"
+section_numbering: arabic
+pdf: /assets/pdf/Präventionskonzept_sexualisierte_Gewalt_im_Verein.pdf
+---
+* TOC
+{:toc}
 
 ---
 
@@ -26,7 +17,6 @@ Sie sollen keine Gewalt und Diskriminierung erleben. Dazu sollen sie im Sport Un
 Eine Kultur der Aufmerksamkeit und des Handelns Verantwortlicher muss daher dazu beitragen, Betroffene zum Reden zu ermutigen, potentielle Täter abzuschrecken und ein Klima zu schaffen, dass Kinder, Jugendliche und junge Erwachsene – mit und ohne Behinderung – sowie für uns aktive Funktionsträger im Sport vor sexualisierter Gewalt schützt. 
 Deshalb schaffen wir Strukturen, die die Persönlichkeitsentwicklung, vor allem von Mädchen und Jungen stärken. Wir entwickeln konkrete präventive Maßnahmen zur Aufklärung, Information und Sensibilisierung und fördern damit eine Kultur des bewussten Hinsehens und Hinhörens. 
 Wir schaffen Handlungsoptionen für eine aktive und kompetente Intervention bei jedem einzelnen Fall sexualisierter Gewalt, unter Berücksichtigung der Interessen der Betroffenen und der nachstehenden Empfehlungen. 
-
 
 ---
 
@@ -70,7 +60,6 @@ Der STFV übernimmt Verantwortung für ein Krisenmanagement, das den Schutz, die
 In Informationsrunden mit Spieler/innen und Eltern, werden Verhaltenskodex und –regeln angesprochen und über die relevanten Aspekte der Vereinbarung mit Trainer/innen und Betreuer/innen informiert. 
 Mit Hilfe von anonymen Online-Fragebögen (z.B. https://www.q-set.de/) werden Trainings- und Wettkampfangebote evaluiert. 
 Ein Bestandteil ist die Abfrage nach dem Wohlbefinden der Sportler/innen im Rahmen der Maßnahme sowie der Methoden im Hinblick auf emotionale, psychische oder physische Gewalt sowie ein Feld für sonstige Beschwerden. Verhaltensregeln: Die Aufgrund der Risikoanalyse entwickelten Verhaltensregeln für den Umgang mit Kindern und Jugendlichen bzw. Spieler/innen sind verpflichtend. 
-
 
 ---
 

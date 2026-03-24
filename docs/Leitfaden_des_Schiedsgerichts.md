@@ -1,18 +1,11 @@
-<div class="html-only" style="text-align: center;">
-    <div class="title" style="text-align: center;">
-        <img src="images/STFV-LOGO.png" alt="STFV Logo" style="display: block; margin: 0 auto;" />
-        
-    </div>
-
-    <p style="text-align: center;">
-       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
-    </p>
-    <p>
-        <a href="./../assets/pdf/Leitfaden_Schiedsgericht.pdf" target="_blank">Download als PDF</a><br />
-        <a href="https://deutscher-tischfussballbund.github.io/stfv-docs/" target="_blank">Back</a>
-    </p>
-</div>
-
+---
+title: "Leitfaden des Schiedsgerichts"
+date: "{{ site.time | date: '%d.%m.%Y' }}"
+section_numbering: arabic
+pdf: /assets/pdf/Leitfaden_Schiedsgericht.pdf
+---
+* TOC
+{:toc}
 
 ---
 
@@ -55,5 +48,4 @@ Ordnungsstrafe in Höhe von 52 € und 4 Punkte Punktabzug (entweder für die la
 Bei Vergehen, die eine Spielsperre beinhalten, kann der Betroffene ferner von den Verbandsaktivitäten, wie Ranglistenturnieren und Saarlandmeisterschaft, ausgeschlossen werden. In besonders schweren Fällen, wird das Verfahren „Ausschluss aus dem Verband“ nach § 9 Abs. 2 der Satzung eingeleitet.
 
 ---
-
 

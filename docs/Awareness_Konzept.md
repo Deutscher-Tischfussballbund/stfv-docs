@@ -1,20 +1,12 @@
-<div class="html-only" style="text-align: center;">
-    <div class="title" style="text-align: center;">
-        <img src="images/STFV-LOGO.png" alt="STFV Logo" style="display: block; margin: 0 auto;" />
-        
-    </div>
-
-    <p style="text-align: center;">
-       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
-    </p>
-    <p>
-        <a href="./../assets/pdf/Awareness.pdf" target="_blank">Download als PDF</a><br />
-        <a href="https://deutscher-tischfussballbund.github.io/stfv-docs/" target="_blank">Back</a>
-    </p>
-</div>
-
-
-
+---
+title: "Awareness-Konzept"
+subtitle: "des STFV e.V."
+date: "{{ site.time | date: '%d.%m.%Y' }}"
+section_numbering: arabic
+pdf: /assets/pdf/Awareness.pdf
+---
+* TOC
+{:toc}
 
 ---
 
@@ -85,5 +77,4 @@ Einige Veranstalter, wie das **Bundesleistungszentrum am Sportcampus Saar**, hab
 - **Lotz, M.** (2023). *Handbuch Achtsamkeit: Das Nachschlagewerk für Veranstaltende, Kollektive, Netzwerke, Organisationen und alle, die an Veränderung interessiert sind.* Safe the Dance.
 
 ---
-
 

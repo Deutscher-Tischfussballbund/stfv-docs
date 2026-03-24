@@ -1,19 +1,10 @@
-<div class="html-only" style="text-align: center;">
-    <div class="title" style="text-align: center;">
-        <img src="images/STFV-LOGO.png" alt="STFV Logo" style="display: block; margin: 0 auto;" />
-        
-    </div>
-
-    <p style="text-align: center;">
-       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
-    </p>
-    <p>
-        <a href="./../assets/pdf/Turnierordnung.pdf" target="_blank">Download als PDF</a><br />
-        <a href="https://deutscher-tischfussballbund.github.io/stfv-docs/" target="_blank">Back</a>
-    </p>
-</div>
-
-**Turnierordnung**
+---
+title: "Turnierordnung"
+subtitle: "des STFV e.V."
+date: "{{ site.time | date: '%d.%m.%Y' }}"
+section_numbering: arabic
+pdf: /assets/pdf/Turnierordnung.pdf
+---
 
 ---
 
@@ -64,7 +55,6 @@ für die Spieler Mindestvoraussetzungen bei Turnieren ab 5 Tischen sind:
 - 1 PC - großer Monitor (min. 32 Zoll) oder Beamer mit Leinwand zur Anzeige des Turniergeschehens für die Spieler 
 - Beschallungsanlage mit Mikrofon für die Aufrufe 
 - Turniersoftware: Für die Ausrichtung ist entweder die „TiFu–Turniersoftware" oder die SportSoftware „Kickertool“ zu benutzen. Beide Programme können kostenlos unter https://dtfb.de/kickern/software runtergeladen werden. - Abweichungen zu den Turniervoraussetzungen müssen bei der Turnierkommission beantragt werden.
-
 
 ---
 

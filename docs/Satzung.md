@@ -1,19 +1,10 @@
-<div class="html-only" style="text-align: center;">
-    <div class="title" style="text-align: center;">
-        <img src="images/STFV-LOGO.png" alt="STFV Logo" style="display: block; margin: 0 auto;" />
-        
-    </div>
-
-    <p style="text-align: center;">
-       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
-    </p>
-    <p>
-        <a href="./../assets/pdf/Satzung.pdf" target="_blank">Download als PDF</a><br />
-        <a href="https://deutscher-tischfussballbund.github.io/stfv-docs/" target="_blank">Back</a>
-    </p>
-</div>
-
-**Satzung des STFV e.V.**
+---
+title: "Satzung"
+subtitle: "des STFV e.V."
+date: "{{ site.time | date: '%d.%m.%Y' }}"
+section_numbering: paragraph
+pdf: /assets/pdf/Satzung.pdf
+---
 
 **Stand: 15.01.2023**
 
@@ -23,8 +14,6 @@
 {:toc}
 
 ---
-
-**NAME, SITZ, ZWECK, ZIELE UND AUFGABEN**
 
 ---
 
@@ -61,7 +50,6 @@ Der Verband hat seinen Sitz in 66564 Ottweiler. Er ist im Vereinsregister beim A
 ---
 
 # Ziele und Aufgaben 
-
 
 Der Verband will seinen Mitgliedern sachgerechten Sport ermöglichen durch: 
 

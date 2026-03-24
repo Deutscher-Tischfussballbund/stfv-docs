@@ -1,25 +1,15 @@
-<div class="html-only" style="text-align: center;">
-    <div class="title" style="text-align: center;">
-        <img src="images/STFV-LOGO.png" alt="STFV Logo" style="display: block; margin: 0 auto;" />
-        
-    </div>
-
-    <p style="text-align: center;">
-       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
-    </p>
-    <p>
-        <a href="./../assets/pdf/Modalitäten_Spielbetriebes_Classic.pdf" target="_blank">Download als PDF</a><br />
-        <a href="https://deutscher-tischfussballbund.github.io/stfv-docs/" target="_blank">Back</a>
-    </p>
-</div>
+---
+title: "Modalitäten des Spielbetriebes Classic"
+date: "{{ site.time | date: '%d.%m.%Y' }}"
+section_numbering: arabic
+pdf: /assets/pdf/Modalitäten_Spielbetriebes_Classic.pdf
+---
 
 ---
 
 * TOC
 {:toc}
 ---
-
-**Modalitäten des Spielbetriebes STFV Classic für die Saison 2026**
 
 # Zielsetzung
 

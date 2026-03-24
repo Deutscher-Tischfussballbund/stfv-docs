@@ -1,18 +1,10 @@
-<div class="html-only" style="text-align: center;">
-    <div class="title" style="text-align: center;">
-        <img src="images/STFV-LOGO.png" alt="STFV Logo" style="display: block; margin: 0 auto;" />
-        
-    </div>
-
-    <p style="text-align: center;">
-       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
-    </p>
-    <p>
-        <a href="./../assets/pdf/Geschäftsordnung.pdf" target="_blank">Download als PDF</a><br />
-        <a href="https://deutscher-tischfussballbund.github.io/stfv-docs/" target="_blank">Back</a>
-    </p>
-</div>
-
+---
+title: "Geschäftsordnung"
+subtitle: "des STFV e.V."
+date: "{{ site.time | date: '%d.%m.%Y' }}"
+section_numbering: arabic
+pdf: /assets/pdf/Geschäftsordnung.pdf
+---
 
 ---
 
@@ -63,7 +55,6 @@ Sie ist in Verbindung mit dem geschäftsführenden Vorstand für den reibungslos
 
 2. Alle sonstigen Bestimmungen sind in § 17 der Satzung festgelegt.
 
-
 ---
 
 # Generalversammlung - Einberufung
@@ -77,7 +68,6 @@ Sie ist in Verbindung mit dem geschäftsführenden Vorstand für den reibungslos
 4. Die Feststellung der Anzahl der Delegierten, die auf die einzelnen Vereine entfallen, geschieht durch die Geschäftsführung des STFV auf Grund der gemeldeten Mannschaften pro Verein. 
 
 5. Die Generalversammlung beschließt über alle Angelegenheiten des STFV, soweit in diesen Satzungen nichts anderes bestimmt ist. Insbesondere beschließt die Generalversammlung über SatzungsÄnderungen sowie über Erhebungen von Sonderbeiträgen.
-
 
 ---
 
