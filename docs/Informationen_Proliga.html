@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>Informationen Proliga</title>
+    
+    
+    
+    
+    
+        <meta name="theme-color" content="#f4f4f2">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Oswald:wght@400;500;600&display=swap" rel="stylesheet">
+        <link rel="icon" type="image/png" href="/templates/stfv/images/favicon.png">
+        <link rel="apple-touch-icon" href="/templates/stfv/images/logo.png">
+        <link rel="manifest" href="/manifest.webmanifest">
+        <link rel="stylesheet" href="/templates/shared/web.css?v=1774392169">
+        <link rel="stylesheet" href="/templates/stfv/web.css?v=1774392169">
+    
+</head>
+<body class="section-arabic template-stfv">
+    
+        
+<header class="base-hero"></header>
+<script>
+(() => {
+    const initThemeToggle = () => {
+        const root = document.documentElement;
+        const toggle = document.querySelector('[data-theme-toggle]');
+        const icon = document.querySelector('[data-theme-icon]');
+        if (!toggle || !icon) return;
+
+        const SUN = '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="2"/><g stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="12" y1="2.5" x2="12" y2="5.5"/><line x1="12" y1="18.5" x2="12" y2="21.5"/><line x1="2.5" y1="12" x2="5.5" y2="12"/><line x1="18.5" y1="12" x2="21.5" y2="12"/><line x1="4.5" y1="4.5" x2="6.8" y2="6.8"/><line x1="17.2" y1="17.2" x2="19.5" y2="19.5"/><line x1="17.2" y1="6.8" x2="19.5" y2="4.5"/><line x1="4.5" y1="19.5" x2="6.8" y2="17.2"/></g></svg>';
+        const MOON = '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M21 14.5A8.5 8.5 0 1 1 9.5 3a7 7 0 0 0 11.5 11.5Z" fill="none" stroke="currentColor" stroke-width="2"/></svg>';
+        const AUTO = '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>';
+
+        const getOsDark = () => window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+        const renderIcon = (mode) => {
+            icon.innerHTML = mode === 'dark' ? MOON : mode === 'auto' ? AUTO : SUN;
+        };
+
+        const updateThemeColor = () => {
+            const meta = document.querySelector('meta[name="theme-color"]');
+            if (!meta) return;
+            const color = getComputedStyle(root).getPropertyValue('--color-surface-page').trim();
+            if (color) meta.setAttribute('content', color);
+        };
+
+        let osMediaQuery = null;
+        const onOsChange = () => applyMode('auto');
+
+        const applyMode = (mode) => {
+            const visual = mode === 'auto' ? (getOsDark() ? 'dark' : 'light') : mode;
+            root.setAttribute('data-theme', visual);
+            toggle.setAttribute('aria-pressed', visual === 'dark' ? 'true' : 'false');
+            renderIcon(mode);
+            updateThemeColor();
+            if (osMediaQuery) { osMediaQuery.removeEventListener('change', onOsChange); osMediaQuery = null; }
+            if (mode === 'auto') {
+                osMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+                osMediaQuery.addEventListener('change', onOsChange);
+            }
+        };
+
+        const cycleMap = { light: 'dark', dark: 'auto', auto: 'light' };
+        const stored = localStorage.getItem('base-theme');
+        applyMode(stored === 'light' || stored === 'dark' || stored === 'auto' ? stored : 'auto');
+
+        toggle.addEventListener('click', () => {
+            const current = localStorage.getItem('base-theme') || 'auto';
+            const next = cycleMap[current] || 'light';
+            applyMode(next);
+            localStorage.setItem('base-theme', next);
+        });
+    };
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initThemeToggle);
+    } else {
+        initThemeToggle();
+    }
+})();
+</script>
+
+    
+    
+        
+        
+        
+        
+        
+        <div class="base-doc-heading">
+            <div class="base-doc-heading__top">
+                
+                <a class="base-doc-brand-link" href="/">
+                    <svg class="base-doc-back-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                        <polyline points="15 18 9 12 15 6"/>
+                    </svg>
+                
+                    <img class="base-doc-logo base-doc-logo--light" src="/templates/stfv/images/logo.png" alt="Logo">
+                    <img class="base-doc-logo base-doc-logo--dark" src="/templates/stfv/images/logo-dark.png" alt="Logo">
+                    <span class="base-doc-sitename">STFV Dokumente</span>
+                
+                </a>
+                
+                <div class="base-doc-titles">
+                    <div class="base-doc-title">Informationen Proliga</div>
+                    
+                </div>
+                <div class="base-doc-actions">
+                    <div class="base-hero__links">
+                        
+                            <a href="/assets/pdf/Informationen_Proliga.pdf" target="_blank" rel="noopener">PDF</a>
+                        
+                        
+                    </div>
+                    
+                        <div class="base-doc-date">Stand: 24.03.2026</div>
+                    
+                </div>
+                <div class="base-toolbar">
+                    <button class="base-search-btn" type="button" data-search-open aria-label="Suche">
+                        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+                        </svg>
+                    </button>
+                    <div class="base-settings-wrap">
+                        <button class="base-settings-btn" type="button" data-settings-toggle aria-label="Einstellungen" aria-expanded="false">
+                            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <circle cx="12" cy="12" r="3"/>
+                                <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+                            </svg>
+                        </button>
+                        <div class="base-settings-panel" data-settings-panel hidden>
+                            <div class="base-settings-row">
+                                <button class="base-settings-font-small" type="button" data-font-decrease aria-label="Schrift verkleinern">A</button>
+                                <input class="base-font-slider" type="range" min="0" max="4" step="1" value="2" data-font-slider aria-label="Schriftgröße">
+                                <button class="base-settings-font-large" type="button" data-font-increase aria-label="Schrift vergrößern">A</button>
+                            </div>
+                            <div class="base-settings-font-pct" data-font-pct aria-live="polite">100%</div>
+                            <div class="base-settings-row base-settings-search-row">
+                                <span class="base-settings-label">Suche</span>
+                                <button class="base-theme-toggle" type="button" data-search-open aria-label="Suche öffnen">
+                                    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="16" height="16"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+                                </button>
+                            </div>
+                            <div class="base-settings-row">
+                                <span class="base-settings-label">Theme</span>
+                                <button class="base-theme-toggle" type="button" data-theme-toggle aria-label="Theme wechseln" aria-pressed="false">
+                                    <span class="base-theme-toggle__icon" data-theme-icon>
+                                        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                                            <circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="2"/>
+                                            <g stroke="currentColor" stroke-width="2" stroke-linecap="round">
+                                                <line x1="12" y1="2.5" x2="12" y2="5.5"/>
+                                                <line x1="12" y1="18.5" x2="12" y2="21.5"/>
+                                                <line x1="2.5" y1="12" x2="5.5" y2="12"/>
+                                                <line x1="18.5" y1="12" x2="21.5" y2="12"/>
+                                                <line x1="4.5" y1="4.5" x2="6.8" y2="6.8"/>
+                                                <line x1="17.2" y1="17.2" x2="19.5" y2="19.5"/>
+                                                <line x1="17.2" y1="6.8" x2="19.5" y2="4.5"/>
+                                                <line x1="4.5" y1="19.5" x2="6.8" y2="17.2"/>
+                                            </g>
+                                        </svg>
+                                    </span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    <div class="wrapper">
+        <ul id="markdown-toc">
+  <li><a href="#allgemeines" id="markdown-toc-allgemeines">Allgemeines</a></li>
+  <li><a href="#live-eingabe-in-der-kicker-app" id="markdown-toc-live-eingabe-in-der-kicker-app">Live-Eingabe in der Kicker-App</a></li>
+  <li><a href="#spielmodus-vorrunde--hauptrunde" id="markdown-toc-spielmodus-vorrunde--hauptrunde">Spielmodus Vorrunde / Hauptrunde</a></li>
+  <li><a href="#wechselregelung" id="markdown-toc-wechselregelung">Wechselregelung</a></li>
+  <li><a href="#mannschaftsaufstellung" id="markdown-toc-mannschaftsaufstellung">Mannschaftsaufstellung</a></li>
+  <li><a href="#endergebnismeldung" id="markdown-toc-endergebnismeldung">Endergebnismeldung</a></li>
+  <li><a href="#punktewertung" id="markdown-toc-punktewertung">Punktewertung</a></li>
+  <li><a href="#vorrunde" id="markdown-toc-vorrunde">Vorrunde</a></li>
+  <li><a href="#qualifikation-für-die-playoffs-ko-spiele" id="markdown-toc-qualifikation-für-die-playoffs-ko-spiele">Qualifikation für die Playoffs (K.O.-Spiele)</a></li>
+  <li><a href="#finalrunde-ko-spiele" id="markdown-toc-finalrunde-ko-spiele">Finalrunde (K.O.-Spiele)</a></li>
+  <li><a href="#auf--und-abstiegsregelung" id="markdown-toc-auf--und-abstiegsregelung">Auf- und Abstiegsregelung</a></li>
+</ul>
+
+<h1 id="allgemeines">Allgemeines</h1>
+
+<p>Die jeweiligen Mannschaften führen vor jeder Begegnung und vor dem Austauschen der Mannschaftsaufstellung Münzwürfe durch:</p>
+
+<p><strong>Landesliga</strong></p>
+
+<p>Zwei Münzwürfe vor dem Spiel</p>
+
+<ul>
+  <li>Das Team, das den ersten Flip gewinnt, darf die Seite der Tische auswählen auf der die Mannschaften das komplette Spiel bestreiten</li>
+  <li>Das Team, das den zweiten Flip gewinnt, kann sich aussuchen, ob sie den Tisch bestimmt an dem das Spiel startet oder die Ballauflage wählen. Das Team, das den zweiten Flip verliert, bekommt die nicht gewählte Option.</li>
+</ul>
+
+<p><strong>Verbandsliga</strong></p>
+
+<p>In der Verbandsliga entscheidet ein einziger Münzwurf. Das Gewinnerteam darf entweder die Tischseite bestimmen oder die Ballauflage wählen. Das unterlegene Team erhält automatisch die nicht gewählte Option.</p>
+
+<p><strong>Zu beachten:</strong> Alle Begegnungen sind pünktlich zu beginnen. Sämtliche Vorbereitungen, inklusive Münzwurf, Austausch und Eintragen der Mannschaftsaufstellungen sowie das Warmspielen sind vor dem festgesetzten Spielbeginn abzuschließen.</p>
+
+<h1 id="live-eingabe-in-der-kicker-app">Live-Eingabe in der Kicker-App</h1>
+
+<p>Jede Mannschaft erhält vor Beginn der Saison einen PIN, mit dem sie die Mannschaftsaufstellung sowie die Spielergebnisse jeder Begegnung in der Kicker-App eintragen kann. Die Eingabe erfolgt über eigene Smartphones oder Tablets.</p>
+
+<h1 id="spielmodus-vorrunde--hauptrunde">Spielmodus Vorrunde / Hauptrunde</h1>
+
+<p>Eine Begegnung zwischen zwei Mannschaften besteht aus sieben Spielen – fünf Doppelspiele (D) und zwei Einzelspiele (E). Die Spiele werden nacheinander in der Reihenfolge D1 vs. D1, D2 vs. D2, D3 vs. D3, E1 vs. E1, D4 vs. D4, E2 vs. E2, D5 vs. D5 ausgetragen.</p>
+
+<p>In den ersten drei Segmenten müssen sechs unterschiedliche Spieler eingesetzt werden. Ebenso müssen in den weiteren vier Segmenten sechs unterschiedliche Spieler eingesetzt werden, wovon mindestens zwei Spieler bereits in den ersten drei Segmenten eingesetzt wurden. Ein Spieler darf in maximal zwei Segmenten eingesetzt werden und nicht mehr als ein Einzel spielen. Es ist maximal möglich, zehn unterschiedliche Spieler während der vollständigen Begegnung einzusetzen. Die Mannschaftsaufstellungen sind vor Beginn der Begegnung vollständig einzutragen.</p>
+
+<p>Aktuelle Regeln:</p>
+
+<ul>
+  <li>
+    <p>Ein Match ist ein Race to 42 Punkte (mit 2 Punkten Differenz in der Hauptrunde/ Final Four) mit einer Folge von sieben Sechserschritten (7 Elemente). In der Vorrunde kann ein Spiel mit 41:41 unentschieden enden.</p>
+  </li>
+  <li>
+    <p>Diese 7 Elemente werden von min 6, maximal 10 verschiedenen Spielern gespielt (siehe Mannschaftsaufstellung) in folgender Reihenfolge: D1, D2, D3, S1, D4, S2, D5</p>
+  </li>
+</ul>
+
+<p><strong>Spielanleitung:</strong></p>
+
+<ul>
+  <li>
+    <p>180 Sekunden zwischen den Elementen zur Vorbereitung der Tische und zum Trainieren.</p>
+  </li>
+  <li>
+    <p>1 Timeout von 45 Sekunden pro Element, diese können nicht in ein nachfolgendes Element mitgenommen werden.</p>
+  </li>
+  <li>
+    <p>In jedem einzelnen Spiel können max. 10 Spieler spielen (davon maximal 2 Auswechselspieler)</p>
+  </li>
+  <li>
+    <p>der 1.Ball des Matches wird auf dem ersten Tisch gespielt, dann wechselt der Tisch immer nach zwei gespielten Bällen, bis zum Ende des Spiels (Tie-Break-Format)</p>
+  </li>
+  <li>
+    <p>Haben Mannschaften den gleichen Heimtisch wird nur auf einem Tisch gespielt (Verbandsliga)</p>
+  </li>
+</ul>
+
+<h1 id="wechselregelung">Wechselregelung</h1>
+
+<p>Grundregeln:</p>
+
+<ol>
+  <li>
+    <p>Ausgewechselte Spieler können nicht wieder eingewechselt werden</p>
+  </li>
+  <li>
+    <p>Es können nur Spieler eingewechselt werden, welche noch kein Segment gespielt haben oder laut Spielplan für kein anderes Segment aufgestellt sind.</p>
+  </li>
+  <li>
+    <p>Ein Wechsel erfordert ein Timeout</p>
+  </li>
+  <li>
+    <p>Der Wechsel muss während des Timeouts abgeschlossen sein.</p>
+  </li>
+  <li>
+    <p>Jeder Ersatzspieler kann nur einmal eingewechselt werden</p>
+  </li>
+  <li>
+    <p>Im Doppel dürfen im Timeout beide Spieler ausgetauscht werden</p>
+  </li>
+  <li>
+    <p>Wechselspieler müssen nicht auf dem Spielplan vermerkt werden, jedes aktuell gemeldete Mitglied des 10-Mann-Kaders kann als Wechselspieler fungieren</p>
+  </li>
+</ol>
+
+<p><strong>A: Anzahl:</strong></p>
+
+<ul>
+  <li>Maximal 4 (maximale Kadergröße =10) Wechsel</li>
+</ul>
+
+<p><strong>B: Zeitpunkt:</strong></p>
+
+<ul>
+  <li>
+    <p>Sobald in einem Segment 3 Tore gefallen sind, egal wer diese erzielt hat</p>
+  </li>
+  <li>
+    <p>Ein Wechsel kann zu Beginn eines neuen Segments erfolgen, jedoch nur, wenn der auszuwechselnde Spieler bereits in mindestens einem vorherigen Segment gespielt hat.</p>
+  </li>
+</ul>
+
+<p><strong>C: Anzahl pro Segment</strong></p>
+
+<ul>
+  <li>
+    <p>Es darf pro Segment nur ein Wechsel vorgenommen werden</p>
+  </li>
+  <li>
+    <p>Im Doppel dürfen beide Spieler im gleichen Timeout getauscht werden (kostet 2 Wechsel)</p>
+  </li>
+</ul>
+
+<p><strong>D: Form des Wechsels</strong></p>
+
+<ul>
+  <li>Positionsgetreu: Der Einwechselspieler ersetzt den ausgewechselten Spieler auch in späteren Segmenten</li>
+</ul>
+
+<p><strong>E: Spezialfall Verletzungsbedingte Wechsel</strong></p>
+
+<h1 id="mannschaftsaufstellung">Mannschaftsaufstellung</h1>
+
+<p>Die erstgenannte Mannschaft der Begegnung nimmt den ersten Kontakt auf, um die Mannschaftsaufstellungen auszutauschen. Sie ist ebenso für die richtige Eintragung der Spielergebnisse im Spielbericht verantwortlich.</p>
+
+<p>Die zweitgenannte Mannschaft der Begegnung ist dafür verantwortlich, vor Spielbeginn die Mannschaftsaufstellungen online einzugeben und im Laufe der Begegnung die richtigen Spielergebnisse nach jedem Spiel in der App zu aktualisieren.</p>
+
+<p>Die ausgetauschten Mannschaftsaufstellungen gelten als Dokument. Jede nachträgliche Änderung ist nicht mehr zulässig und wird als Manipulation angesehen.</p>
+
+<h1 id="endergebnismeldung">Endergebnismeldung</h1>
+
+<p>Der Spielbericht ist von der erstgenannten Mannschaft ausgefüllt und von beiden Mannschaftsführern zu unterzeichnen. Der Spielbericht ist von der erstgenannten Mannschaft bis zum Ende des Spieltages aufzubewahren und bei Unstimmigkeiten vorzulegen.</p>
+
+<p>Beide Spielführer müssen spätestens 15 Minuten nach Spielende einer Begegnung das Ergebnis online bestätigt haben, ansonsten nimmt die Turnierleitung diese Bestätigung vor.</p>
+
+<p>Sollten innerhalb von 15 Minuten nach Spielende keine Spielergebnisse online eingetragen und bestätigt worden sein, wird die Begegnung als nicht stattgefunden gestrichen.</p>
+
+<p>Eine Änderung der eingegebenen Daten ist nur am gleichen Kalendertag vor Beginn der nächsten Begegnung und vor Ort mit Abstimmung der Leistungssportkomission/ Spielbetrieb möglich. Später sind keine Änderungen mehr möglich.</p>
+
+<h1 id="punktewertung">Punktewertung</h1>
+
+<p>Die Tabellenwertung erfolgt in der Vorrunde nachfolgenden Kriterien:</p>
+
+<ul>
+  <li>
+    <p>Tabellenpunkte</p>
+  </li>
+  <li>
+    <p>Tordifferenz</p>
+  </li>
+  <li>
+    <p>direkter Vergleich</p>
+  </li>
+  <li>
+    <p>per Penalty im Abstiegs- bzw. Aufstiegsbereich</p>
+  </li>
+</ul>
+
+<p>Nicht angetretene oder vorzeitig abgebrochene Segmente werden zu 0 für den Gegner gewertet.</p>
+
+<h1 id="vorrunde">Vorrunde</h1>
+
+<p><strong>Eine Begegnung in der Vorrunde wird immer komplett ausgetragen und kann unentschieden ausgehen. Spiele gegen ein Freilos werden mit 42:30 gewertet.</strong></p>
+
+<h1 id="qualifikation-für-die-playoffs-ko-spiele">Qualifikation für die Playoffs (K.O.-Spiele)</h1>
+
+<p>Die Mannschaften auf Platz 1.-4. jeder Liga bilden das K.O.-Feld für die Plätze 1-4.</p>
+
+<p>In allen K.O.-Feldern werden die Mannschaften aus den Gruppen wie folgt gegeneinander gesetzt: 1. Platz vs. 4. Platz und 2. Platz vs. 3. Platz</p>
+
+<p>Die Mannschaften, die nach der Vorrunde die Plätze 5 bis 8 (bzw. 9 in der Verbandsliga) belegen, spielen keine Playoffs. Ihre Endplatzierung entspricht der Rangfolge, die sie nach Abschluss der Vorrunde erreicht haben.</p>
+
+<h1 id="finalrunde-ko-spiele">Finalrunde (K.O.-Spiele)</h1>
+
+<p>Die vier bestplatzierten Mannschaften der Verbandsliga und Landesliga nach der Vorrunde qualifizieren sich für das Final Four. Im K.-o.-System werden zunächst die Halbfinals ausgetragen. Anschließend finden ein Finale sowie ein Spiel um Platz 3 statt, um die endgültige Platzierung der Top 4 zu bestimmen.</p>
+
+<h1 id="auf--und-abstiegsregelung">Auf- und Abstiegsregelung</h1>
+
+<ol>
+  <li>Aufstieg</li>
+</ol>
+
+<p>Der Sieger des Final Four in der Verbandsliga steigt in die Landesliga auf.</p>
+
+<p>In jeder Liga steigt jeweils nur eine Mannschaft in die nächsthöhere Spielklasse auf.</p>
+
+<ol>
+  <li>Abstieg</li>
+</ol>
+
+<p>Die letztplatzierte Mannschaft der Landesliga steigt in die darunterliegende Spielklasse ab.</p>
+
+<p>In jeder Liga steigt jeweils nur eine Mannschaft in die nächstniedrigere Spielklasse ab.</p>
+
+    </div>
+    
+    <!-- Suchleiste -->
+    <div id="base-search-bar" hidden role="search">
+        <input id="base-search-input" type="search" placeholder="Auf dieser Seite suchen…" aria-label="Suche" autocomplete="off">
+        <span id="base-search-count" aria-live="polite"></span>
+        <button id="base-search-prev" type="button" aria-label="Vorheriger Treffer">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+        </button>
+        <button id="base-search-next" type="button" aria-label="Nächster Treffer">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+        </button>
+        <button id="base-search-close" type="button" aria-label="Suche schließen">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+        </button>
+    </div>
+
+    <!-- Safe-area Abdeckung (nur in PWA) -->
+    <div id="safe-area-cover"></div>
+
+    <!-- Scroll-Fortschrittsbalken -->
+    <div id="scroll-progress"></div>
+
+    <!-- Nach oben Button -->
+    <a href="#" id="back-to-top">Nach oben</a>
+
+    <!-- Staging-Banner -->
+    
+    
+
+    <!-- Link-kopiert-Toast -->
+    <div id="base-toast" role="status" aria-live="polite">Link kopiert</div>
+
+    <script>
+        // Einstellungen-Panel
+        const settingsToggle = document.querySelector("[data-settings-toggle]");
+        const settingsPanel = document.querySelector("[data-settings-panel]");
+        if (settingsToggle && settingsPanel) {
+            settingsToggle.addEventListener("click", (e) => {
+                e.stopPropagation();
+                const open = !settingsPanel.hidden;
+                settingsPanel.hidden = open;
+                settingsToggle.setAttribute("aria-expanded", String(!open));
+            });
+            settingsPanel.addEventListener("click", (e) => { e.stopPropagation(); });
+            document.addEventListener("click", () => {
+                if (!settingsPanel.hidden) {
+                    settingsPanel.hidden = true;
+                    settingsToggle.setAttribute("aria-expanded", "false");
+                }
+            });
+        }
+
+        // Schriftgröße
+        const fontSteps = [0.70, 0.85, 1.0, 1.25, 1.50];
+        let fontIndex = parseInt(localStorage.getItem("fontIndex") ?? "2", 10);
+        const fontSlider = document.querySelector("[data-font-slider]");
+        const fontPct = document.querySelector("[data-font-pct]");
+        const fontDecrease = document.querySelector("[data-font-decrease]");
+        const fontIncrease = document.querySelector("[data-font-increase]");
+        const applyFontZoom = () => {
+            document.documentElement.style.setProperty("--font-zoom", fontSteps[fontIndex]);
+            if (fontSlider) {
+                fontSlider.value = fontIndex;
+                const pct = (fontIndex / (fontSteps.length - 1)) * 100;
+                fontSlider.style.setProperty("--slider-fill", pct + "%");
+            }
+            if (fontPct) fontPct.textContent = Math.round(fontSteps[fontIndex] * 100) + "%";
+            if (fontDecrease) fontDecrease.disabled = fontIndex === 0;
+            if (fontIncrease) fontIncrease.disabled = fontIndex === fontSteps.length - 1;
+        };
+        if (fontSlider) {
+            fontSlider.addEventListener("input", () => {
+                fontIndex = parseInt(fontSlider.value, 10);
+                localStorage.setItem("fontIndex", fontIndex);
+                applyFontZoom();
+            });
+        }
+        if (fontDecrease) {
+            fontDecrease.addEventListener("click", () => {
+                if (fontIndex > 0) { fontIndex--; localStorage.setItem("fontIndex", fontIndex); applyFontZoom(); }
+            });
+        }
+        if (fontIncrease) {
+            fontIncrease.addEventListener("click", () => {
+                if (fontIndex < fontSteps.length - 1) { fontIndex++; localStorage.setItem("fontIndex", fontIndex); applyFontZoom(); }
+            });
+        }
+        applyFontZoom();
+    </script>
+
+    <script>
+        const backToTopButton = document.getElementById("back-to-top");
+        const scrollProgress = document.getElementById("scroll-progress");
+
+        window.onscroll = function() {
+            const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+            const docHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            scrollProgress.style.width = docHeight > 0 ? (scrollTop / docHeight * 100) + "%" : "0%";
+            backToTopButton.style.display = scrollTop > 200 ? "block" : "none";
+        };
+    </script>
+
+    <script>
+        const baseSlugify = (text) => text.toLowerCase()
+            .replace(/[^\w\s-]/g, "")
+            .trim()
+            .replace(/\s+/g, "-");
+
+        const baseCopyText = async (text) => {
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                await navigator.clipboard.writeText(text);
+                return true;
+            }
+            const temp = document.createElement("textarea");
+            temp.value = text;
+            temp.setAttribute("readonly", "");
+            temp.style.position = "absolute";
+            temp.style.left = "-9999px";
+            document.body.appendChild(temp);
+            temp.select();
+            const success = document.execCommand("copy");
+            document.body.removeChild(temp);
+            return success;
+        };
+
+        let toastTimer = null;
+        const showCopyToast = () => {
+            const toast = document.getElementById("base-toast");
+            if (!toast) return;
+            clearTimeout(toastTimer);
+            toast.classList.add("base-toast--visible");
+            toastTimer = setTimeout(() => toast.classList.remove("base-toast--visible"), 2000);
+        };
+
+        const initHeadingLinks = () => {
+            const wrapper = document.querySelector(".wrapper");
+            if (!wrapper) return;
+            const headings = wrapper.querySelectorAll("h1, h2, h3, h4");
+
+            headings.forEach((heading) => {
+                if (heading.querySelector(".base-heading-link")) return;
+                let id = heading.getAttribute("id");
+                if (!id) {
+                    id = baseSlugify(heading.textContent || "section");
+                    let unique = id;
+                    let counter = 2;
+                    while (document.getElementById(unique)) {
+                        unique = `${id}-${counter++}`;
+                    }
+                    heading.setAttribute("id", unique);
+                }
+
+                const link = document.createElement("a");
+                link.className = "base-heading-link";
+                link.href = `#${id}`;
+                link.setAttribute("aria-label", "Link kopieren");
+                link.innerHTML = "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M10.5 13.5l3-3\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/><path d=\"M7 17a4 4 0 0 1 0-5.66l2.34-2.34a4 4 0 0 1 5.66 0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/><path d=\"M17 7a4 4 0 0 1 0 5.66l-2.34 2.34a4 4 0 0 1-5.66 0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>";
+
+                link.addEventListener("click", async (event) => {
+                    event.preventDefault();
+                    const url = `${window.location.origin}${window.location.pathname}#${id}`;
+                    await baseCopyText(url);
+                    history.replaceState(null, "", `#${id}`);
+                    showCopyToast();
+                });
+
+                heading.appendChild(link);
+            });
+        };
+
+        if (document.readyState === "loading") {
+            document.addEventListener("DOMContentLoaded", initHeadingLinks);
+        } else {
+            initHeadingLinks();
+        }
+    </script>
+
+    <script>
+        (() => {
+            const searchBar = document.getElementById("base-search-bar");
+            const searchInput = document.getElementById("base-search-input");
+            const searchCount = document.getElementById("base-search-count");
+            const btnPrev = document.getElementById("base-search-prev");
+            const btnNext = document.getElementById("base-search-next");
+            const btnClose = document.getElementById("base-search-close");
+            const openBtns = document.querySelectorAll("[data-search-open]");
+            const wrapper = document.querySelector(".wrapper");
+
+            if (!searchBar || !openBtns.length || !wrapper) return;
+
+            let marks = [];
+            let currentIndex = -1;
+
+            const clearMarks = () => {
+                wrapper.querySelectorAll("mark.base-search-mark").forEach(m => {
+                    const parent = m.parentNode;
+                    parent.replaceChild(document.createTextNode(m.textContent), m);
+                    parent.normalize();
+                });
+                marks = [];
+                currentIndex = -1;
+            };
+
+            const highlight = (query) => {
+                clearMarks();
+                if (!query) { searchCount.textContent = ""; return; }
+                const re = new RegExp(query.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "gi");
+                const walker = document.createTreeWalker(wrapper, NodeFilter.SHOW_TEXT, {
+                    acceptNode: n => {
+                        const tag = n.parentElement?.tagName;
+                        return (tag === "SCRIPT" || tag === "STYLE" || n.parentElement?.closest("mark"))
+                            ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT;
+                    }
+                });
+                const textNodes = [];
+                while (walker.nextNode()) textNodes.push(walker.currentNode);
+
+                textNodes.forEach(node => {
+                    if (!re.test(node.textContent)) return;
+                    re.lastIndex = 0;
+                    const frag = document.createDocumentFragment();
+                    let last = 0, m;
+                    while ((m = re.exec(node.textContent)) !== null) {
+                        frag.appendChild(document.createTextNode(node.textContent.slice(last, m.index)));
+                        const mark = document.createElement("mark");
+                        mark.className = "base-search-mark";
+                        mark.textContent = m[0];
+                        frag.appendChild(mark);
+                        marks.push(mark);
+                        last = m.index + m[0].length;
+                    }
+                    frag.appendChild(document.createTextNode(node.textContent.slice(last)));
+                    node.parentNode.replaceChild(frag, node);
+                });
+
+                searchCount.textContent = marks.length ? `1 / ${marks.length}` : "Kein Treffer";
+                if (marks.length) { currentIndex = 0; goTo(0); }
+            };
+
+            // Sichtbare Viewport-Höhe (berücksichtigt virtuelle Tastatur via visualViewport)
+            const getVisibleHeight = () =>
+                window.visualViewport ? window.visualViewport.height : window.innerHeight;
+
+            const goTo = (idx) => {
+                marks.forEach((m, i) => m.classList.toggle("base-search-mark--active", i === idx));
+                searchCount.textContent = `${idx + 1} / ${marks.length}`;
+                const mark = marks[idx];
+                if (!mark) return;
+                const rect = mark.getBoundingClientRect();
+                const visibleH = getVisibleHeight();
+                const barH = searchBar.offsetHeight + 16;
+                // Mitte des sichtbaren Bereichs unterhalb der Suchleiste
+                const targetCenter = barH + (visibleH - barH) / 2;
+                const scrollY = window.scrollY + rect.top - targetCenter;
+                window.scrollTo({ top: scrollY, behavior: "smooth" });
+            };
+
+            const open = () => {
+                if (settingsPanel && !settingsPanel.hidden) {
+                    settingsPanel.hidden = true;
+                    document.querySelector("[data-settings-toggle]")?.setAttribute("aria-expanded", "false");
+                }
+                searchBar.hidden = false;
+                setTimeout(() => { searchInput.focus(); searchInput.select(); }, 50);
+            };
+
+            const close = () => {
+                searchBar.hidden = true;
+                clearMarks();
+                searchInput.value = "";
+                searchCount.textContent = "";
+            };
+
+            openBtns.forEach(btn => btn.addEventListener("click", open));
+            btnClose.addEventListener("click", close);
+            btnPrev.addEventListener("click", () => { if (marks.length) { currentIndex = (currentIndex - 1 + marks.length) % marks.length; goTo(currentIndex); } });
+            btnNext.addEventListener("click", () => { if (marks.length) { currentIndex = (currentIndex + 1) % marks.length; goTo(currentIndex); } });
+
+            let debounce;
+            searchInput.addEventListener("input", () => {
+                clearTimeout(debounce);
+                debounce = setTimeout(() => highlight(searchInput.value.trim()), 150);
+            });
+
+            searchInput.addEventListener("keydown", (e) => {
+                if (e.key === "Enter") { e.preventDefault(); if (marks.length) { currentIndex = (currentIndex + 1) % marks.length; goTo(currentIndex); } }
+                if (e.key === "Escape") close();
+            });
+
+            document.addEventListener("keydown", (e) => {
+                if ((e.ctrlKey || e.metaKey) && e.key === "f") { e.preventDefault(); open(); }
+                if (e.key === "Escape" && !searchBar.hidden) close();
+            });
+        })();
+    </script>
+</body>
+</html>
+

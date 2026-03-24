@@ -1,0 +1,734 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>Turnierordnung</title>
+    
+    
+    
+    
+    
+        <meta name="theme-color" content="#f4f4f2">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Oswald:wght@400;500;600&display=swap" rel="stylesheet">
+        <link rel="icon" type="image/png" href="/templates/stfv/images/favicon.png">
+        <link rel="apple-touch-icon" href="/templates/stfv/images/logo.png">
+        <link rel="manifest" href="/manifest.webmanifest">
+        <link rel="stylesheet" href="/templates/shared/web.css?v=1774392169">
+        <link rel="stylesheet" href="/templates/stfv/web.css?v=1774392169">
+    
+</head>
+<body class="section-arabic template-stfv">
+    
+        
+<header class="base-hero"></header>
+<script>
+(() => {
+    const initThemeToggle = () => {
+        const root = document.documentElement;
+        const toggle = document.querySelector('[data-theme-toggle]');
+        const icon = document.querySelector('[data-theme-icon]');
+        if (!toggle || !icon) return;
+
+        const SUN = '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="2"/><g stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="12" y1="2.5" x2="12" y2="5.5"/><line x1="12" y1="18.5" x2="12" y2="21.5"/><line x1="2.5" y1="12" x2="5.5" y2="12"/><line x1="18.5" y1="12" x2="21.5" y2="12"/><line x1="4.5" y1="4.5" x2="6.8" y2="6.8"/><line x1="17.2" y1="17.2" x2="19.5" y2="19.5"/><line x1="17.2" y1="6.8" x2="19.5" y2="4.5"/><line x1="4.5" y1="19.5" x2="6.8" y2="17.2"/></g></svg>';
+        const MOON = '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M21 14.5A8.5 8.5 0 1 1 9.5 3a7 7 0 0 0 11.5 11.5Z" fill="none" stroke="currentColor" stroke-width="2"/></svg>';
+        const AUTO = '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>';
+
+        const getOsDark = () => window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+        const renderIcon = (mode) => {
+            icon.innerHTML = mode === 'dark' ? MOON : mode === 'auto' ? AUTO : SUN;
+        };
+
+        const updateThemeColor = () => {
+            const meta = document.querySelector('meta[name="theme-color"]');
+            if (!meta) return;
+            const color = getComputedStyle(root).getPropertyValue('--color-surface-page').trim();
+            if (color) meta.setAttribute('content', color);
+        };
+
+        let osMediaQuery = null;
+        const onOsChange = () => applyMode('auto');
+
+        const applyMode = (mode) => {
+            const visual = mode === 'auto' ? (getOsDark() ? 'dark' : 'light') : mode;
+            root.setAttribute('data-theme', visual);
+            toggle.setAttribute('aria-pressed', visual === 'dark' ? 'true' : 'false');
+            renderIcon(mode);
+            updateThemeColor();
+            if (osMediaQuery) { osMediaQuery.removeEventListener('change', onOsChange); osMediaQuery = null; }
+            if (mode === 'auto') {
+                osMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+                osMediaQuery.addEventListener('change', onOsChange);
+            }
+        };
+
+        const cycleMap = { light: 'dark', dark: 'auto', auto: 'light' };
+        const stored = localStorage.getItem('base-theme');
+        applyMode(stored === 'light' || stored === 'dark' || stored === 'auto' ? stored : 'auto');
+
+        toggle.addEventListener('click', () => {
+            const current = localStorage.getItem('base-theme') || 'auto';
+            const next = cycleMap[current] || 'light';
+            applyMode(next);
+            localStorage.setItem('base-theme', next);
+        });
+    };
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initThemeToggle);
+    } else {
+        initThemeToggle();
+    }
+})();
+</script>
+
+    
+    
+        
+        
+        
+        
+        
+        <div class="base-doc-heading">
+            <div class="base-doc-heading__top">
+                
+                <a class="base-doc-brand-link" href="/">
+                    <svg class="base-doc-back-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                        <polyline points="15 18 9 12 15 6"/>
+                    </svg>
+                
+                    <img class="base-doc-logo base-doc-logo--light" src="/templates/stfv/images/logo.png" alt="Logo">
+                    <img class="base-doc-logo base-doc-logo--dark" src="/templates/stfv/images/logo-dark.png" alt="Logo">
+                    <span class="base-doc-sitename">STFV Dokumente</span>
+                
+                </a>
+                
+                <div class="base-doc-titles">
+                    <div class="base-doc-title">Turnierordnung</div>
+                    
+                        <div class="base-doc-subtitle">des STFV e.V.</div>
+                    
+                </div>
+                <div class="base-doc-actions">
+                    <div class="base-hero__links">
+                        
+                            <a href="/assets/pdf/Tunierordnung.pdf" target="_blank" rel="noopener">PDF</a>
+                        
+                        
+                    </div>
+                    
+                        <div class="base-doc-date">Stand: 24.03.2026</div>
+                    
+                </div>
+                <div class="base-toolbar">
+                    <button class="base-search-btn" type="button" data-search-open aria-label="Suche">
+                        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+                        </svg>
+                    </button>
+                    <div class="base-settings-wrap">
+                        <button class="base-settings-btn" type="button" data-settings-toggle aria-label="Einstellungen" aria-expanded="false">
+                            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <circle cx="12" cy="12" r="3"/>
+                                <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+                            </svg>
+                        </button>
+                        <div class="base-settings-panel" data-settings-panel hidden>
+                            <div class="base-settings-row">
+                                <button class="base-settings-font-small" type="button" data-font-decrease aria-label="Schrift verkleinern">A</button>
+                                <input class="base-font-slider" type="range" min="0" max="4" step="1" value="2" data-font-slider aria-label="Schriftgröße">
+                                <button class="base-settings-font-large" type="button" data-font-increase aria-label="Schrift vergrößern">A</button>
+                            </div>
+                            <div class="base-settings-font-pct" data-font-pct aria-live="polite">100%</div>
+                            <div class="base-settings-row base-settings-search-row">
+                                <span class="base-settings-label">Suche</span>
+                                <button class="base-theme-toggle" type="button" data-search-open aria-label="Suche öffnen">
+                                    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="16" height="16"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+                                </button>
+                            </div>
+                            <div class="base-settings-row">
+                                <span class="base-settings-label">Theme</span>
+                                <button class="base-theme-toggle" type="button" data-theme-toggle aria-label="Theme wechseln" aria-pressed="false">
+                                    <span class="base-theme-toggle__icon" data-theme-icon>
+                                        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                                            <circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="2"/>
+                                            <g stroke="currentColor" stroke-width="2" stroke-linecap="round">
+                                                <line x1="12" y1="2.5" x2="12" y2="5.5"/>
+                                                <line x1="12" y1="18.5" x2="12" y2="21.5"/>
+                                                <line x1="2.5" y1="12" x2="5.5" y2="12"/>
+                                                <line x1="18.5" y1="12" x2="21.5" y2="12"/>
+                                                <line x1="4.5" y1="4.5" x2="6.8" y2="6.8"/>
+                                                <line x1="17.2" y1="17.2" x2="19.5" y2="19.5"/>
+                                                <line x1="17.2" y1="6.8" x2="19.5" y2="4.5"/>
+                                                <line x1="4.5" y1="19.5" x2="6.8" y2="17.2"/>
+                                            </g>
+                                        </svg>
+                                    </span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    <div class="wrapper">
+        <ul id="markdown-toc">
+  <li><a href="#allgemeines" id="markdown-toc-allgemeines">Allgemeines</a></li>
+  <li><a href="#kategorien" id="markdown-toc-kategorien">Kategorien</a></li>
+  <li><a href="#wertungsdisziplinen" id="markdown-toc-wertungsdisziplinen">Wertungsdisziplinen</a></li>
+  <li><a href="#technisches-equipment" id="markdown-toc-technisches-equipment">Technisches Equipment</a></li>
+  <li><a href="#beantragung" id="markdown-toc-beantragung">Beantragung</a></li>
+  <li><a href="#classictuniere" id="markdown-toc-classictuniere">Classictuniere</a>    <ul>
+      <li><a href="#inhalt-der-ausschreibung" id="markdown-toc-inhalt-der-ausschreibung">Inhalt der Ausschreibung</a></li>
+      <li><a href="#modus-stfv-ranglistenturniere-a-b" id="markdown-toc-modus-stfv-ranglistenturniere-a-b">Modus STFV-Ranglistenturniere (A, B)</a></li>
+      <li><a href="#vorgaben-stfv-ranglistenturnier-c" id="markdown-toc-vorgaben-stfv-ranglistenturnier-c">Vorgaben STFV Ranglistenturnier C</a></li>
+      <li><a href="#turniergebühr--preise" id="markdown-toc-turniergebühr--preise">Turniergebühr / Preise</a></li>
+      <li><a href="#spielgeräte" id="markdown-toc-spielgeräte">Spielgeräte</a></li>
+      <li><a href="#teilnahmeberechtigung" id="markdown-toc-teilnahmeberechtigung">Teilnahmeberechtigung</a></li>
+    </ul>
+  </li>
+  <li><a href="#pro-turniere" id="markdown-toc-pro-turniere">Pro-Turniere</a>    <ul>
+      <li><a href="#vorgaben-stfv-mini-challenger" id="markdown-toc-vorgaben-stfv-mini-challenger">Vorgaben STFV Mini Challenger</a></li>
+      <li><a href="#teilnahmeberechtigung-1" id="markdown-toc-teilnahmeberechtigung-1">Teilnahmeberechtigung</a></li>
+    </ul>
+  </li>
+  <li><a href="#regelwerk-und-fairplay" id="markdown-toc-regelwerk-und-fairplay">Regelwerk und Fairplay</a></li>
+  <li><a href="#schiedsrichter" id="markdown-toc-schiedsrichter">Schiedsrichter</a></li>
+  <li><a href="#ergebnisse" id="markdown-toc-ergebnisse">Ergebnisse</a></li>
+  <li><a href="#ranglisten" id="markdown-toc-ranglisten">Ranglisten</a></li>
+  <li><a href="#veröffentlichung-von-daten" id="markdown-toc-veröffentlichung-von-daten">Veröffentlichung von Daten</a></li>
+  <li><a href="#verantwortung-der-ausrichter" id="markdown-toc-verantwortung-der-ausrichter">Verantwortung der Ausrichter</a></li>
+  <li><a href="#änderungen-der-turnierordnung" id="markdown-toc-änderungen-der-turnierordnung">Änderungen der Turnierordnung</a></li>
+</ul>
+
+<h1 id="allgemeines">Allgemeines</h1>
+
+<p>Diese Turnierordnung legt die grundsätzlichen Anforderungen, Regelungen und Abläufe der Ranglistenturniere zur Wertung für die offizielle Saarländische Tischfußballrangliste fest. Sie gilt als Ergänzung der in der STFV-Spielordnung festgelegten Regelungen und bietet eine Orientierungshilfe für die Organisation.</p>
+
+<h1 id="kategorien">Kategorien</h1>
+
+<p>Der Ranglistenturniere Der STFV unterscheidet als Verantwortlicher der Saarländischen Tischfußballrangliste folgende Turnierkategorien, deren Ergebnisse in die Rangliste einfließen: - Saarlandmeisterschaften</p>
+
+<ul>
+  <li>STFV-Ranglistenturniere der Kategorie A, B und C</li>
+  <li>ITSF-Weltranglistenturniere die im Saarland ausgetragen werden</li>
+  <li>DTFB-Challenger-Turniere die im Saarland ausgetragen werden</li>
+  <li>STFV-Mini Challenger</li>
+</ul>
+
+<h1 id="wertungsdisziplinen">Wertungsdisziplinen</h1>
+
+<p>Ranglistenturniere können aus einer oder mehreren Disziplinen bestehen. Diese müssen jedoch mit der Beantragung und Ausschreibung bekannt gegeben werden.</p>
+
+<ul>
+  <li>Offenes Doppel, Offenes Einzel. Teilnahmeberechtigt JEDER</li>
+  <li>Herren Doppel, Herren Einzel. Teilnahmeberechtigt nur HERREN</li>
+  <li>Damen Doppel, Damen Einzel. Teilnahmeberechtigt nur DAMEN</li>
+  <li>Junioren Doppel, Junioren Einzel. Teilnahmeberechtigt nur JUNIOREN/JUNIORINNEN</li>
+  <li>Senioren Doppel, Senioren Einzel. Teilnahmeberechtigt nur SENIOREN/SENIORINNEN</li>
+</ul>
+
+<p>Bei Turnieren mit den Kategorien Junioren und Senioren gelten folgende Regelungen. Junioren: Junioren sind Spieler, die am 31. Dezember des Vorjahres nicht älter als 17 Jahre alt waren. Senioren: Senioren sind Spieler, die am 31 Dezember des Vorjahres mindestens 50 Jahre alt waren.</p>
+
+<p>Das Spielen in einer Disziplin (Beispiel Doppel) ist nicht in verschiedenen Kategorien gleichzeitig möglich. Ausnahmen müssen bei der Turnierkommission beantragt und abgestimmt werden.</p>
+
+<h1 id="technisches-equipment">Technisches Equipment</h1>
+
+<p>Mindestvoraussetzungen bei Turnieren von bis zu 4 Tischen sind:</p>
+<ul>
+  <li>1 PC - zusätzlicher Monitor oder Beamer mit Leinwand zur Anzeige des Turniergeschehens</li>
+</ul>
+
+<p>für die Spieler Mindestvoraussetzungen bei Turnieren ab 5 Tischen sind:</p>
+<ul>
+  <li>1 PC - großer Monitor (min. 32 Zoll) oder Beamer mit Leinwand zur Anzeige des Turniergeschehens für die Spieler</li>
+  <li>Beschallungsanlage mit Mikrofon für die Aufrufe</li>
+  <li>Turniersoftware: Für die Ausrichtung ist entweder die „TiFu–Turniersoftware” oder die SportSoftware „Kickertool“ zu benutzen. Beide Programme können kostenlos unter <a href="https://dtfb.de/kickern/software">dtfb.de/kickern/software</a> runtergeladen werden.</li>
+  <li>Abweichungen zu den Turniervoraussetzungen müssen bei der Turnierkommission beantragt werden.</li>
+</ul>
+
+<h1 id="beantragung">Beantragung</h1>
+
+<p>Ranglistenturniere sollten mindestens 4 Wochen vor Ausrichtung als solche per Mail an den Leiter der Turnierkommission beantragt werden. Eine vollständige Ausschreibung hat dem Antrag spätestens zwei Wochen vor Turnierstart beizuliegen. Die Bekanntmachung erfolgt unter dem Kalender auf der STFV-Webseite. Ranglistenturniere der Kategorie C und Mini-Challenger müssen eine Woche vor Ausrichtung bei dem Leiter der Turnierkommission per Mail beantragt werden, sowie im Forum der STFV-Homepage veröffentlicht werden.</p>
+
+<h1 id="classictuniere">Classictuniere</h1>
+
+<h2 id="inhalt-der-ausschreibung">Inhalt der Ausschreibung</h2>
+
+<p>Die Turnierausschreibung der STFV Ranglistenturniere hat folgende Informationen zu enthalten:</p>
+
+<ul>
+  <li>Kategorie des Turniers (Ranglistenturnier A, B oder C)</li>
+  <li>Veranstaltungsname (z.B. „ 5. Stadtmeisterschaft“)</li>
+  <li>Namen des Veranstalters / Ausrichters</li>
+  <li>Ort der Austragung (Name und Adresse)</li>
+  <li>Anzahl der Spieltische</li>
+  <li>Startzeiten der einzelnen Disziplinen</li>
+  <li>Anmeldeschluss der einzelnen Disziplinen</li>
+  <li>Maximale Anzahl der Teilnehmer</li>
+  <li>Preise (Preisgeld, Pokale, Medaillen oder Urkunden )</li>
+  <li>Turniergebühr</li>
+  <li>Modus (Vorrunde/KO-Runde)</li>
+  <li>Infos zum Catering (Essen und Trinken vorhanden? Mitbringen von Speisen erlaubt?)</li>
+</ul>
+
+<h2 id="modus-stfv-ranglistenturniere-a-b">Modus STFV-Ranglistenturniere (A, B)</h2>
+
+<p>Es werden mindestens 4 Vorrundenspiele (ein Satz bis 7) nach dem „Schweizer System“ gespielt. Nach Abschluss der Vorrunde Qualifizieren sich ca. 80 % für die KO-Runde. Hier kann jedoch auf die nächstkleinere KO-Runden oder Zwischenrunden Anzahl gekürzt werden. (64, 48 oder 32 Plan) Die Anzahl der Spieler die sich für die KO-Runde Qualifizieren ist vor dem Start der Vorrunde bekannt zu geben. In der KO-Runde kann der Modus gewählt werden:</p>
+
+<ul>
+  <li>ein Satz bis 11 (Seitenwechsel nach 10 gespielten Bällen)</li>
+  <li>2 Gewinnsätze (Best of 3) bis 5 (Seitenwechsel nach jedem Satz)</li>
+  <li>3 Gewinnsätze (Best of 5) bis 5 (Seitenwechsel nach jedem Satz)</li>
+</ul>
+
+<p>Die Wahl des Anstoßes und des zuerst gespielten Balles wird durch Los ermittelt. Danach wechselt das Ballrecht nach jedem Tor.</p>
+
+<h2 id="vorgaben-stfv-ranglistenturnier-c">Vorgaben STFV Ranglistenturnier C</h2>
+
+<p>Die Turniere können jederzeit stattfinden, auch unter der Woche und müssen lediglich vor Turnierbeginn angemeldet werden. (Siehe Punkt 5 der TO) Bedingungen für die Ausrichtung:</p>
+
+<ul>
+  <li>Nutzung der Kicker-Tool oder TIFU-Software mit der Einstellung „fortlaufende Platzierung“</li>
+  <li>Spielmodus: Vorrunde („Schweizer System“, „Monster-DYP“ oder „Jeder gegen Jeden“) mit anschließendem Single-KO</li>
+  <li>Gespielt wird nach dem Regelwerk STFV</li>
+</ul>
+
+<h2 id="turniergebühr--preise">Turniergebühr / Preise</h2>
+
+<p>Die Turniergebühr bei Ranglistenturniere beträgt maximal 25,00 Euro. Sie setzt sich wie folgt zusammen:</p>
+
+<ul>
+  <li>Startgeld:                      max. 20,00 Euro</li>
+  <li>Tischgeld:                         fest 2,00 Euro</li>
+  <li>Organisationspauschale: fest 3,00 Euro</li>
+</ul>
+
+<p>Die Turniergebühren bei einem Ranglistenturnier C kann nach unten abweichen. STFV-Turnierordnung Stand 11.07.2023 4 Die 3 Erstplatzierten erhalten Pokale und/oder Urkunden und/oder Medaillen, die vom Ausrichter zu stellen sind. Stehen weitere Preise zum Beispiel von Sponsoren zur Verfügung, steht es dem Ausrichter frei, wie diese Preise hinzuaddiert werden.</p>
+
+<p>Das Startgeld wird zu 100% in der jeweiligen Kategorie nach folgendem Schlüssel als Preisgeld ausgezahlt:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Platz</th>
+      <th>Anzahl der Meldungen</th>
+      <th>2 bis 4</th>
+      <th>5 bis 19</th>
+      <th>20 bis 49</th>
+      <th>Ab 50</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td> </td>
+      <td>100%</td>
+      <td>60%</td>
+      <td>50%</td>
+      <td>50%</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td> </td>
+      <td> </td>
+      <td>40%</td>
+      <td>30%</td>
+      <td>28%</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td> </td>
+      <td> </td>
+      <td>20%</td>
+      <td>20%</td>
+      <td>16%</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>6%</td>
+    </tr>
+    <tr>
+      <td><strong>Summe</strong></td>
+      <td> </td>
+      <td>100%</td>
+      <td>100%</td>
+      <td>100%</td>
+      <td>100%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Bei Nichtanwesenheit verfällt der Anspruch auf die Preise.</p>
+
+<h2 id="spielgeräte">Spielgeräte</h2>
+
+<p>Die Spieltische müssen 1 Stunde vor Turnierbeginn spielbereit aufgestellt und ausgerichtet sein. Die Mindestanzahl der Spieltische beträgt bei:</p>
+
+<p>STFV C-Ranglistenturnier 1 Tisch 
+STFV B-Ranglistenturnier 4 Tische 
+STFV A-Ranglistenturnier 10 Tische</p>
+
+<p>Die Anzahl der Spieltische sollte so gewählt werden, dass der Spielbetrieb an einem Turniertag 12 Stunden nicht überschreitet. Die eingesetzten Turniertische sind ohne Münzeinwurf zu betreiben. 
+Es ist auf eine ausreichende Ausleuchtung der Turniertische zu achten. 
+Als Bälle sind nur die in der Spielordnung Classic genannten zugelassen. 
+Die eingesetzten Bälle haben in einem gut spielbaren Zustand zu sein. Sie müssen frei von Fett oder sonstigen Zusatzstoffen sein. 
+Beanstandete Bälle sind von der Turnierleitung zu beurteilen.</p>
+
+<h2 id="teilnahmeberechtigung">Teilnahmeberechtigung</h2>
+
+<p>An den STFV-Saarlandmeisterschaften ist teilnahmeberechtigt, wer als aktiver Spieler für einen Classic STFV-Verein gemeldet ist. Außerdem dürfen nicht aktive Spieler teilnehmen, wenn sie ihren Erstwohnsitz im Saarland haben. Bei sonstigen STFV-Ranglistenturnieren besteht keine Einschränkung.</p>
+
+<h1 id="pro-turniere">Pro-Turniere</h1>
+
+<p>Alle Turniere für die Pro Rangliste oder für die DTFB-Rangliste müssen nach der aktuellen Version der Ranglistenturnierordnung des DTFB gespielt.</p>
+
+<h2 id="vorgaben-stfv-mini-challenger">Vorgaben STFV Mini Challenger</h2>
+
+<p>Die Turniere können jederzeit stattfinden, auch unter der Woche und müssen lediglich vor Turnierbeginn angemeldet werden. (Siehe Punkt 5 der TO) Bedingungen für die Ausrichtung:</p>
+
+<ul>
+  <li>Nutzung der TIFU-Software mit der Einstellung „fortlaufende Platzierung“</li>
+  <li>Spielmodus: Vorrunde („Schweizer System“, „Monster-DYP“ oder „Jeder gegen Jeden“) mit anschließendem Single-KO. Gespielt wird nach ITSF-Regelwerk.</li>
+</ul>
+
+<h2 id="teilnahmeberechtigung-1">Teilnahmeberechtigung</h2>
+
+<p>An den STFV-Saarlandmeisterschaften ist teilnahmeberechtigt, wer als aktiver Spieler für einen Pro STFV-Verein gemeldet ist. Außerdem dürfen nicht aktive Spieler teilnehmen, wenn sie ihren Erstwohnsitz im Saarland haben. Ist eine STFV-Saarlandmeisterschaft ein Qualifikationsturnier für ein Turnier des DTFB, so dürfen nur die Personen teilnehmen, welche auch am DTFB-Turnier teilnahmeberechtigt wären.</p>
+
+<h1 id="regelwerk-und-fairplay">Regelwerk und Fairplay</h1>
+
+<p>STFV-Ranglistenturniere werden nach den offiziellen Tischfußballregeln des STFV gespielt (Regelwerk STFV) DTFB und ITSF-Turniere werden nach den offiziellen Tischfußballregeln des ITSF gespielt. Alle Angelegenheiten, welche das Regelwerk betreffen, liegen in der Verantwortlichkeit des oder der Schiedsrichter. Diese werden von der Turnierleitung berufen. Jedes unethische oder unsportliche Verhalten während des Spiels kann mit Verlust eines Satzes oder eines Spiels und sogar mit Turnierausschluss bestraft werden. Ob ein solches Verhalten vorliegt und welche Strafe verhängt wird, entscheidet die Turnierleitung im konkreten Fall. Bei Anwesenheit von Mitgliedern der Turnierkommission können diese auch zu Rate gezogen werden.</p>
+
+<h1 id="schiedsrichter">Schiedsrichter</h1>
+
+<p>Die Spieler können Schiedsrichter für einzelne Begegnungen zu Beginn oder im Laufe einer Begegnung anfordern. Die je nach Verfügbarkeit durch die Turnierleitung eingeteilten Schiedsrichter können nicht abgelehnt werden. Die Kosten für den Schiedsrichter betragen 1€ Organisationspauschale plus 1€ pro angefangenen Satz (Beispiel: für 3 Sätze erhält der Schiedsrichter 1€ + 3€ = 4€). Die Schiedsrichtergebühr wird jeweils von den beiden Teams am Ende der Begegnung beglichen. Diese ist als Fallpauschale anzusehen und ist auch zu zahlen, wenn die Begegnung zu Beginn des Schiedsrichtereinsatzes schon nahezu fertig gespielt war.</p>
+
+<h1 id="ergebnisse">Ergebnisse</h1>
+
+<p>Die vollständigen Ergebnisse der Turniere sind spätestens drei Tage nach Turnierende an die Turnierkommission zu melden. Für die Ausrichtung ist die „TIFU-Software“ zu benutzen, da sie fortlaufende Platzierungen berechnet und mit dem Datenimport auf der STFV-Webseite kompatibel ist.</p>
+
+<h1 id="ranglisten">Ranglisten</h1>
+
+<p>Die aktuellen Ranglisten sind auf der STFV-Webseite zu finden. Informationen zur Punktewertung sind unter dem Zusatzdokument „Punktewertung &amp; Qualifikation“ auf der STFVWebseite aufgeführt.</p>
+
+<h1 id="veröffentlichung-von-daten">Veröffentlichung von Daten</h1>
+
+<p>Mit der Teilnahme an STFV-Ranglistenturnieren willigen die Spieler ein, dass ihre Daten wie beispielsweise Name, Vorname, Geschlecht, Altersklasse und Vereinszugehörigkeit sowie ihre Erfolge, Fotos und Filmaufnahmen veröffentlicht werden dürfen.</p>
+
+<h1 id="verantwortung-der-ausrichter">Verantwortung der Ausrichter</h1>
+
+<p>Die Ausrichter von STFV-Ranglistenturnieren sind verpflichtet, die Interessen des STFV zu fördern und alles zu unterlassen, wodurch das Ansehen des Tischfußballsports geschädigt werden könnte. Beschlüsse des STFV sind einzuhalten. Der Ausrichter wird den STFV von jeglicher Art der Haftung freihalten. Durch Vergabe des Status “STFV-Ranglistenturnier” entstehen keinerlei Ansprüche gegenüber dem STFV.</p>
+
+<h1 id="änderungen-der-turnierordnung">Änderungen der Turnierordnung</h1>
+
+<p>Änderungen können von der Turnierkommission in ihren jeweiligen Sitzungen beraten und beschlossen werden. Nach erfolgreicher Abstimmung wird die STFV-Turnierordnung abgeändert und als neue Version veröffentlicht.</p>
+
+    </div>
+    
+    <!-- Suchleiste -->
+    <div id="base-search-bar" hidden role="search">
+        <input id="base-search-input" type="search" placeholder="Auf dieser Seite suchen…" aria-label="Suche" autocomplete="off">
+        <span id="base-search-count" aria-live="polite"></span>
+        <button id="base-search-prev" type="button" aria-label="Vorheriger Treffer">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+        </button>
+        <button id="base-search-next" type="button" aria-label="Nächster Treffer">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+        </button>
+        <button id="base-search-close" type="button" aria-label="Suche schließen">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+        </button>
+    </div>
+
+    <!-- Safe-area Abdeckung (nur in PWA) -->
+    <div id="safe-area-cover"></div>
+
+    <!-- Scroll-Fortschrittsbalken -->
+    <div id="scroll-progress"></div>
+
+    <!-- Nach oben Button -->
+    <a href="#" id="back-to-top">Nach oben</a>
+
+    <!-- Staging-Banner -->
+    
+    
+
+    <!-- Link-kopiert-Toast -->
+    <div id="base-toast" role="status" aria-live="polite">Link kopiert</div>
+
+    <script>
+        // Einstellungen-Panel
+        const settingsToggle = document.querySelector("[data-settings-toggle]");
+        const settingsPanel = document.querySelector("[data-settings-panel]");
+        if (settingsToggle && settingsPanel) {
+            settingsToggle.addEventListener("click", (e) => {
+                e.stopPropagation();
+                const open = !settingsPanel.hidden;
+                settingsPanel.hidden = open;
+                settingsToggle.setAttribute("aria-expanded", String(!open));
+            });
+            settingsPanel.addEventListener("click", (e) => { e.stopPropagation(); });
+            document.addEventListener("click", () => {
+                if (!settingsPanel.hidden) {
+                    settingsPanel.hidden = true;
+                    settingsToggle.setAttribute("aria-expanded", "false");
+                }
+            });
+        }
+
+        // Schriftgröße
+        const fontSteps = [0.70, 0.85, 1.0, 1.25, 1.50];
+        let fontIndex = parseInt(localStorage.getItem("fontIndex") ?? "2", 10);
+        const fontSlider = document.querySelector("[data-font-slider]");
+        const fontPct = document.querySelector("[data-font-pct]");
+        const fontDecrease = document.querySelector("[data-font-decrease]");
+        const fontIncrease = document.querySelector("[data-font-increase]");
+        const applyFontZoom = () => {
+            document.documentElement.style.setProperty("--font-zoom", fontSteps[fontIndex]);
+            if (fontSlider) {
+                fontSlider.value = fontIndex;
+                const pct = (fontIndex / (fontSteps.length - 1)) * 100;
+                fontSlider.style.setProperty("--slider-fill", pct + "%");
+            }
+            if (fontPct) fontPct.textContent = Math.round(fontSteps[fontIndex] * 100) + "%";
+            if (fontDecrease) fontDecrease.disabled = fontIndex === 0;
+            if (fontIncrease) fontIncrease.disabled = fontIndex === fontSteps.length - 1;
+        };
+        if (fontSlider) {
+            fontSlider.addEventListener("input", () => {
+                fontIndex = parseInt(fontSlider.value, 10);
+                localStorage.setItem("fontIndex", fontIndex);
+                applyFontZoom();
+            });
+        }
+        if (fontDecrease) {
+            fontDecrease.addEventListener("click", () => {
+                if (fontIndex > 0) { fontIndex--; localStorage.setItem("fontIndex", fontIndex); applyFontZoom(); }
+            });
+        }
+        if (fontIncrease) {
+            fontIncrease.addEventListener("click", () => {
+                if (fontIndex < fontSteps.length - 1) { fontIndex++; localStorage.setItem("fontIndex", fontIndex); applyFontZoom(); }
+            });
+        }
+        applyFontZoom();
+    </script>
+
+    <script>
+        const backToTopButton = document.getElementById("back-to-top");
+        const scrollProgress = document.getElementById("scroll-progress");
+
+        window.onscroll = function() {
+            const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+            const docHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            scrollProgress.style.width = docHeight > 0 ? (scrollTop / docHeight * 100) + "%" : "0%";
+            backToTopButton.style.display = scrollTop > 200 ? "block" : "none";
+        };
+    </script>
+
+    <script>
+        const baseSlugify = (text) => text.toLowerCase()
+            .replace(/[^\w\s-]/g, "")
+            .trim()
+            .replace(/\s+/g, "-");
+
+        const baseCopyText = async (text) => {
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                await navigator.clipboard.writeText(text);
+                return true;
+            }
+            const temp = document.createElement("textarea");
+            temp.value = text;
+            temp.setAttribute("readonly", "");
+            temp.style.position = "absolute";
+            temp.style.left = "-9999px";
+            document.body.appendChild(temp);
+            temp.select();
+            const success = document.execCommand("copy");
+            document.body.removeChild(temp);
+            return success;
+        };
+
+        let toastTimer = null;
+        const showCopyToast = () => {
+            const toast = document.getElementById("base-toast");
+            if (!toast) return;
+            clearTimeout(toastTimer);
+            toast.classList.add("base-toast--visible");
+            toastTimer = setTimeout(() => toast.classList.remove("base-toast--visible"), 2000);
+        };
+
+        const initHeadingLinks = () => {
+            const wrapper = document.querySelector(".wrapper");
+            if (!wrapper) return;
+            const headings = wrapper.querySelectorAll("h1, h2, h3, h4");
+
+            headings.forEach((heading) => {
+                if (heading.querySelector(".base-heading-link")) return;
+                let id = heading.getAttribute("id");
+                if (!id) {
+                    id = baseSlugify(heading.textContent || "section");
+                    let unique = id;
+                    let counter = 2;
+                    while (document.getElementById(unique)) {
+                        unique = `${id}-${counter++}`;
+                    }
+                    heading.setAttribute("id", unique);
+                }
+
+                const link = document.createElement("a");
+                link.className = "base-heading-link";
+                link.href = `#${id}`;
+                link.setAttribute("aria-label", "Link kopieren");
+                link.innerHTML = "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M10.5 13.5l3-3\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/><path d=\"M7 17a4 4 0 0 1 0-5.66l2.34-2.34a4 4 0 0 1 5.66 0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/><path d=\"M17 7a4 4 0 0 1 0 5.66l-2.34 2.34a4 4 0 0 1-5.66 0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>";
+
+                link.addEventListener("click", async (event) => {
+                    event.preventDefault();
+                    const url = `${window.location.origin}${window.location.pathname}#${id}`;
+                    await baseCopyText(url);
+                    history.replaceState(null, "", `#${id}`);
+                    showCopyToast();
+                });
+
+                heading.appendChild(link);
+            });
+        };
+
+        if (document.readyState === "loading") {
+            document.addEventListener("DOMContentLoaded", initHeadingLinks);
+        } else {
+            initHeadingLinks();
+        }
+    </script>
+
+    <script>
+        (() => {
+            const searchBar = document.getElementById("base-search-bar");
+            const searchInput = document.getElementById("base-search-input");
+            const searchCount = document.getElementById("base-search-count");
+            const btnPrev = document.getElementById("base-search-prev");
+            const btnNext = document.getElementById("base-search-next");
+            const btnClose = document.getElementById("base-search-close");
+            const openBtns = document.querySelectorAll("[data-search-open]");
+            const wrapper = document.querySelector(".wrapper");
+
+            if (!searchBar || !openBtns.length || !wrapper) return;
+
+            let marks = [];
+            let currentIndex = -1;
+
+            const clearMarks = () => {
+                wrapper.querySelectorAll("mark.base-search-mark").forEach(m => {
+                    const parent = m.parentNode;
+                    parent.replaceChild(document.createTextNode(m.textContent), m);
+                    parent.normalize();
+                });
+                marks = [];
+                currentIndex = -1;
+            };
+
+            const highlight = (query) => {
+                clearMarks();
+                if (!query) { searchCount.textContent = ""; return; }
+                const re = new RegExp(query.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "gi");
+                const walker = document.createTreeWalker(wrapper, NodeFilter.SHOW_TEXT, {
+                    acceptNode: n => {
+                        const tag = n.parentElement?.tagName;
+                        return (tag === "SCRIPT" || tag === "STYLE" || n.parentElement?.closest("mark"))
+                            ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT;
+                    }
+                });
+                const textNodes = [];
+                while (walker.nextNode()) textNodes.push(walker.currentNode);
+
+                textNodes.forEach(node => {
+                    if (!re.test(node.textContent)) return;
+                    re.lastIndex = 0;
+                    const frag = document.createDocumentFragment();
+                    let last = 0, m;
+                    while ((m = re.exec(node.textContent)) !== null) {
+                        frag.appendChild(document.createTextNode(node.textContent.slice(last, m.index)));
+                        const mark = document.createElement("mark");
+                        mark.className = "base-search-mark";
+                        mark.textContent = m[0];
+                        frag.appendChild(mark);
+                        marks.push(mark);
+                        last = m.index + m[0].length;
+                    }
+                    frag.appendChild(document.createTextNode(node.textContent.slice(last)));
+                    node.parentNode.replaceChild(frag, node);
+                });
+
+                searchCount.textContent = marks.length ? `1 / ${marks.length}` : "Kein Treffer";
+                if (marks.length) { currentIndex = 0; goTo(0); }
+            };
+
+            // Sichtbare Viewport-Höhe (berücksichtigt virtuelle Tastatur via visualViewport)
+            const getVisibleHeight = () =>
+                window.visualViewport ? window.visualViewport.height : window.innerHeight;
+
+            const goTo = (idx) => {
+                marks.forEach((m, i) => m.classList.toggle("base-search-mark--active", i === idx));
+                searchCount.textContent = `${idx + 1} / ${marks.length}`;
+                const mark = marks[idx];
+                if (!mark) return;
+                const rect = mark.getBoundingClientRect();
+                const visibleH = getVisibleHeight();
+                const barH = searchBar.offsetHeight + 16;
+                // Mitte des sichtbaren Bereichs unterhalb der Suchleiste
+                const targetCenter = barH + (visibleH - barH) / 2;
+                const scrollY = window.scrollY + rect.top - targetCenter;
+                window.scrollTo({ top: scrollY, behavior: "smooth" });
+            };
+
+            const open = () => {
+                if (settingsPanel && !settingsPanel.hidden) {
+                    settingsPanel.hidden = true;
+                    document.querySelector("[data-settings-toggle]")?.setAttribute("aria-expanded", "false");
+                }
+                searchBar.hidden = false;
+                setTimeout(() => { searchInput.focus(); searchInput.select(); }, 50);
+            };
+
+            const close = () => {
+                searchBar.hidden = true;
+                clearMarks();
+                searchInput.value = "";
+                searchCount.textContent = "";
+            };
+
+            openBtns.forEach(btn => btn.addEventListener("click", open));
+            btnClose.addEventListener("click", close);
+            btnPrev.addEventListener("click", () => { if (marks.length) { currentIndex = (currentIndex - 1 + marks.length) % marks.length; goTo(currentIndex); } });
+            btnNext.addEventListener("click", () => { if (marks.length) { currentIndex = (currentIndex + 1) % marks.length; goTo(currentIndex); } });
+
+            let debounce;
+            searchInput.addEventListener("input", () => {
+                clearTimeout(debounce);
+                debounce = setTimeout(() => highlight(searchInput.value.trim()), 150);
+            });
+
+            searchInput.addEventListener("keydown", (e) => {
+                if (e.key === "Enter") { e.preventDefault(); if (marks.length) { currentIndex = (currentIndex + 1) % marks.length; goTo(currentIndex); } }
+                if (e.key === "Escape") close();
+            });
+
+            document.addEventListener("keydown", (e) => {
+                if ((e.ctrlKey || e.metaKey) && e.key === "f") { e.preventDefault(); open(); }
+                if (e.key === "Escape" && !searchBar.hidden) close();
+            });
+        })();
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>Geschäftsordnung</title>
+    
+    
+    
+    
+    
+        <meta name="theme-color" content="#f4f4f2">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Oswald:wght@400;500;600&display=swap" rel="stylesheet">
+        <link rel="icon" type="image/png" href="/templates/stfv/images/favicon.png">
+        <link rel="apple-touch-icon" href="/templates/stfv/images/logo.png">
+        <link rel="manifest" href="/manifest.webmanifest">
+        <link rel="stylesheet" href="/templates/shared/web.css?v=1774392169">
+        <link rel="stylesheet" href="/templates/stfv/web.css?v=1774392169">
+    
+</head>
+<body class="section-arabic template-stfv">
+    
+        
+<header class="base-hero"></header>
+<script>
+(() => {
+    const initThemeToggle = () => {
+        const root = document.documentElement;
+        const toggle = document.querySelector('[data-theme-toggle]');
+        const icon = document.querySelector('[data-theme-icon]');
+        if (!toggle || !icon) return;
+
+        const SUN = '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="2"/><g stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="12" y1="2.5" x2="12" y2="5.5"/><line x1="12" y1="18.5" x2="12" y2="21.5"/><line x1="2.5" y1="12" x2="5.5" y2="12"/><line x1="18.5" y1="12" x2="21.5" y2="12"/><line x1="4.5" y1="4.5" x2="6.8" y2="6.8"/><line x1="17.2" y1="17.2" x2="19.5" y2="19.5"/><line x1="17.2" y1="6.8" x2="19.5" y2="4.5"/><line x1="4.5" y1="19.5" x2="6.8" y2="17.2"/></g></svg>';
+        const MOON = '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M21 14.5A8.5 8.5 0 1 1 9.5 3a7 7 0 0 0 11.5 11.5Z" fill="none" stroke="currentColor" stroke-width="2"/></svg>';
+        const AUTO = '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>';
+
+        const getOsDark = () => window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+        const renderIcon = (mode) => {
+            icon.innerHTML = mode === 'dark' ? MOON : mode === 'auto' ? AUTO : SUN;
+        };
+
+        const updateThemeColor = () => {
+            const meta = document.querySelector('meta[name="theme-color"]');
+            if (!meta) return;
+            const color = getComputedStyle(root).getPropertyValue('--color-surface-page').trim();
+            if (color) meta.setAttribute('content', color);
+        };
+
+        let osMediaQuery = null;
+        const onOsChange = () => applyMode('auto');
+
+        const applyMode = (mode) => {
+            const visual = mode === 'auto' ? (getOsDark() ? 'dark' : 'light') : mode;
+            root.setAttribute('data-theme', visual);
+            toggle.setAttribute('aria-pressed', visual === 'dark' ? 'true' : 'false');
+            renderIcon(mode);
+            updateThemeColor();
+            if (osMediaQuery) { osMediaQuery.removeEventListener('change', onOsChange); osMediaQuery = null; }
+            if (mode === 'auto') {
+                osMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+                osMediaQuery.addEventListener('change', onOsChange);
+            }
+        };
+
+        const cycleMap = { light: 'dark', dark: 'auto', auto: 'light' };
+        const stored = localStorage.getItem('base-theme');
+        applyMode(stored === 'light' || stored === 'dark' || stored === 'auto' ? stored : 'auto');
+
+        toggle.addEventListener('click', () => {
+            const current = localStorage.getItem('base-theme') || 'auto';
+            const next = cycleMap[current] || 'light';
+            applyMode(next);
+            localStorage.setItem('base-theme', next);
+        });
+    };
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initThemeToggle);
+    } else {
+        initThemeToggle();
+    }
+})();
+</script>
+
+    
+    
+        
+        
+        
+        
+        
+        <div class="base-doc-heading">
+            <div class="base-doc-heading__top">
+                
+                <a class="base-doc-brand-link" href="/">
+                    <svg class="base-doc-back-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                        <polyline points="15 18 9 12 15 6"/>
+                    </svg>
+                
+                    <img class="base-doc-logo base-doc-logo--light" src="/templates/stfv/images/logo.png" alt="Logo">
+                    <img class="base-doc-logo base-doc-logo--dark" src="/templates/stfv/images/logo-dark.png" alt="Logo">
+                    <span class="base-doc-sitename">STFV Dokumente</span>
+                
+                </a>
+                
+                <div class="base-doc-titles">
+                    <div class="base-doc-title">Geschäftsordnung</div>
+                    
+                        <div class="base-doc-subtitle">des STFV e.V.</div>
+                    
+                </div>
+                <div class="base-doc-actions">
+                    <div class="base-hero__links">
+                        
+                            <a href="/assets/pdf/Gesch%C3%A4ftsordnung.pdf" target="_blank" rel="noopener">PDF</a>
+                        
+                        
+                    </div>
+                    
+                        <div class="base-doc-date">Stand: 24.03.2026</div>
+                    
+                </div>
+                <div class="base-toolbar">
+                    <button class="base-search-btn" type="button" data-search-open aria-label="Suche">
+                        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+                        </svg>
+                    </button>
+                    <div class="base-settings-wrap">
+                        <button class="base-settings-btn" type="button" data-settings-toggle aria-label="Einstellungen" aria-expanded="false">
+                            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <circle cx="12" cy="12" r="3"/>
+                                <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+                            </svg>
+                        </button>
+                        <div class="base-settings-panel" data-settings-panel hidden>
+                            <div class="base-settings-row">
+                                <button class="base-settings-font-small" type="button" data-font-decrease aria-label="Schrift verkleinern">A</button>
+                                <input class="base-font-slider" type="range" min="0" max="4" step="1" value="2" data-font-slider aria-label="Schriftgröße">
+                                <button class="base-settings-font-large" type="button" data-font-increase aria-label="Schrift vergrößern">A</button>
+                            </div>
+                            <div class="base-settings-font-pct" data-font-pct aria-live="polite">100%</div>
+                            <div class="base-settings-row base-settings-search-row">
+                                <span class="base-settings-label">Suche</span>
+                                <button class="base-theme-toggle" type="button" data-search-open aria-label="Suche öffnen">
+                                    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="16" height="16"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+                                </button>
+                            </div>
+                            <div class="base-settings-row">
+                                <span class="base-settings-label">Theme</span>
+                                <button class="base-theme-toggle" type="button" data-theme-toggle aria-label="Theme wechseln" aria-pressed="false">
+                                    <span class="base-theme-toggle__icon" data-theme-icon>
+                                        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                                            <circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="2"/>
+                                            <g stroke="currentColor" stroke-width="2" stroke-linecap="round">
+                                                <line x1="12" y1="2.5" x2="12" y2="5.5"/>
+                                                <line x1="12" y1="18.5" x2="12" y2="21.5"/>
+                                                <line x1="2.5" y1="12" x2="5.5" y2="12"/>
+                                                <line x1="18.5" y1="12" x2="21.5" y2="12"/>
+                                                <line x1="4.5" y1="4.5" x2="6.8" y2="6.8"/>
+                                                <line x1="17.2" y1="17.2" x2="19.5" y2="19.5"/>
+                                                <line x1="17.2" y1="6.8" x2="19.5" y2="4.5"/>
+                                                <line x1="4.5" y1="19.5" x2="6.8" y2="17.2"/>
+                                            </g>
+                                        </svg>
+                                    </span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    <div class="wrapper">
+        <ul id="markdown-toc">
+  <li><a href="#tätigkeitsbereich---gesamtvorstand-und-vorstand" id="markdown-toc-tätigkeitsbereich---gesamtvorstand-und-vorstand">Tätigkeitsbereich - Gesamtvorstand und Vorstand</a></li>
+  <li><a href="#tätigkeitsbereich---schriftführer" id="markdown-toc-tätigkeitsbereich---schriftführer">Tätigkeitsbereich - Schriftführer</a></li>
+  <li><a href="#tätigkeitsbereich---kassenwart" id="markdown-toc-tätigkeitsbereich---kassenwart">Tätigkeitsbereich - Kassenwart</a></li>
+  <li><a href="#tätigkeitsbereich---spielbetriebskommission" id="markdown-toc-tätigkeitsbereich---spielbetriebskommission">Tätigkeitsbereich - Spielbetriebskommission</a></li>
+  <li><a href="#tätigkeitsbereich---schiedsgerichtswesen" id="markdown-toc-tätigkeitsbereich---schiedsgerichtswesen">Tätigkeitsbereich - Schiedsgerichtswesen</a></li>
+  <li><a href="#generalversammlung---einberufung" id="markdown-toc-generalversammlung---einberufung">Generalversammlung - Einberufung</a></li>
+  <li><a href="#versammlungsleitung" id="markdown-toc-versammlungsleitung">Versammlungsleitung</a></li>
+  <li><a href="#worterteilung-und-rednerfolge" id="markdown-toc-worterteilung-und-rednerfolge">Worterteilung und Rednerfolge</a></li>
+  <li><a href="#anträge" id="markdown-toc-anträge">Anträge</a></li>
+  <li><a href="#wahlen" id="markdown-toc-wahlen">Wahlen</a></li>
+  <li><a href="#kassenprüfer" id="markdown-toc-kassenprüfer">Kassenprüfer</a></li>
+  <li><a href="#tätigkeitsbereich---sport--und-regelkommission" id="markdown-toc-tätigkeitsbereich---sport--und-regelkommission">Tätigkeitsbereich - Sport- und Regelkommission</a></li>
+  <li><a href="#tätigkeitsbereich---leistungssportkommission" id="markdown-toc-tätigkeitsbereich---leistungssportkommission">Tätigkeitsbereich - Leistungssportkommission</a></li>
+  <li><a href="#tätigkeitsbereich---turnierleitungskommission" id="markdown-toc-tätigkeitsbereich---turnierleitungskommission">Tätigkeitsbereich - Turnierleitungskommission</a></li>
+  <li><a href="#tätigkeitsbereich---jugendförderungskommission" id="markdown-toc-tätigkeitsbereich---jugendförderungskommission">Tätigkeitsbereich - Jugendförderungskommission</a></li>
+  <li><a href="#ehrenordnung" id="markdown-toc-ehrenordnung">Ehrenordnung</a></li>
+</ul>
+
+<h1 id="tätigkeitsbereich---gesamtvorstand-und-vorstand">Tätigkeitsbereich - Gesamtvorstand und Vorstand</h1>
+
+<ol>
+  <li>Der Gesamtvorstand legt die allgemeinen Richtlinien für die Leitung des Verbandes fest. Ihm obliegen die Geschäftsführung und die Leitung des Verbandes nach innen und außen. Zur Zuständigkeit des Vorstandes gehören insbesondere</li>
+</ol>
+
+<ol type="a">
+  <li>Aufstellung der Tagesordnung für Versammlungen</li>
+  <li>Entscheidung über die Aufnahme neuer Mitglieder</li>
+  <li>Durchführung der Beschlüsse der Mitgliederversammlung</li>
+  <li>Entscheidung über Verwendung der Mittel</li>
+  <li>Alle sonstigen, täglich anfallenden Arbeiten, die zu einer ordnungsgemäßen Führung des Verbandes notwendig sind.</li>
+</ol>
+
+<ol>
+  <li>Der 1. Vorsitzende erteilt die notwendigen Anweisungen an seine Vorstandskollegen und überwacht deren Tätigkeit. Er beruft die Vorstandssitzungen ein, leitet diese und stellt die Tagesordnung auf. Vorschläge von Vorstandsmitgliedern zur Tagesordnung müssen von ihm auf dieselbe gesetzt werden.</li>
+</ol>
+
+<h1 id="tätigkeitsbereich---schriftführer">Tätigkeitsbereich - Schriftführer</h1>
+
+<p>Dem Schriftführer obliegt die Protokollführung der Versammlungen, Vorstands- und Schiedsgerichtssitzungen. Die Versammlungs- und Sitzungsprotokolle des Vorstandes sind von ihm und dem 1. Vorsitzenden zu unterschreiben. Die Sitzungsprotokolle des Schiedsgerichtes sind von ihm und dem Schiedsgerichtsvorsitzenden zu unterschreiben. Ihm obliegt die Erledigung von schriftlichen Arbeiten nach Anweisung des 1. Vorsitzenden oder dessen Vertreter.</p>
+
+<h1 id="tätigkeitsbereich---kassenwart">Tätigkeitsbereich - Kassenwart</h1>
+
+<ol>
+  <li>
+    <p>Der Kassenwart ist für die ordnungsgemäße Führung der Kasse und Buchhaltung verantwortlich. Alle Rechnungsbelege und Zahlungsanweisungen müssen von ihm und dem 1. oder 2. Vorsitzenden unterzeichnet werden.</p>
+  </li>
+  <li>
+    <p>Über außerordentliche Ausgaben entscheidet der geschäftsführende Vorstand.</p>
+  </li>
+</ol>
+
+<h1 id="tätigkeitsbereich---spielbetriebskommission">Tätigkeitsbereich - Spielbetriebskommission</h1>
+
+<p>Die Spielbetriebskommission besteht aus dem Vorsitzenden, seinem Stellvertreter, dem Kommissar für Regelüberwachung und den Klassenleitern.</p>
+
+<p>Sie ist in Verbindung mit dem geschäftsführenden Vorstand für den reibungslosen Ablauf des Spielbetriebes (Verbandsspiele, Nachholspiele, Wiederholungsspiele, Pokalspiele sowie der Relegations- bzw. Entscheidungsspiele) verantwortlich und führt gleichzeitig eine Liste über die Tabellenstände. In ihrer Rechtsprechung obliegt ihr das Aussprechen von Ordnungsstrafen gemäß § 11 Abs. 1 - 8 der GO.</p>
+
+<h1 id="tätigkeitsbereich---schiedsgerichtswesen">Tätigkeitsbereich - Schiedsgerichtswesen</h1>
+
+<ol>
+  <li>
+    <p>Das Schiedsgericht richtet zu außergerichtlichen Bereinigungen von Streitigkeiten. Dieses ist zuständig für Streitfälle aller Art zwischen den einzelnen Vereinen, sofern dies nicht anders bestimmt ist.</p>
+  </li>
+  <li>
+    <p>Alle sonstigen Bestimmungen sind in § 17 der Satzung festgelegt.</p>
+  </li>
+</ol>
+
+<h1 id="generalversammlung---einberufung">Generalversammlung - Einberufung</h1>
+
+<ol>
+  <li>
+    <p>Alljährlich findet mindestens eine ordentliche Mitgliederversammlung gemäß § 13 der Satzung statt.</p>
+  </li>
+  <li>
+    <p>In der Versammlung sind die Vereine, die durch ihre Delegierten vertreten sind, teilnahme- und stimmberechtigt.</p>
+  </li>
+  <li>
+    <p>Ehrenmitglieder können an der Generalversammlung ohne Stimmberechtigung teilnehmen. Der Ehrenpräsident ist stimmberechtigt.</p>
+  </li>
+  <li>
+    <p>Die Feststellung der Anzahl der Delegierten, die auf die einzelnen Vereine entfallen, geschieht durch die Geschäftsführung des STFV auf Grund der gemeldeten Mannschaften pro Verein.</p>
+  </li>
+  <li>
+    <p>Die Generalversammlung beschließt über alle Angelegenheiten des STFV, soweit in diesen Satzungen nichts anderes bestimmt ist. Insbesondere beschließt die Generalversammlung über SatzungsÄnderungen sowie über Erhebungen von Sonderbeiträgen.</p>
+  </li>
+</ol>
+
+<h1 id="versammlungsleitung">Versammlungsleitung</h1>
+
+<ol>
+  <li>
+    <p>Die Versammlung leitet der 1. Vorsitzende oder sein Vertreter. Der Versammlungsleiter eröffnet die Versammlung. Er stellt die ordnungsgemäße Einberufung und damit die Beschlussfähigkeit der Versammlung fest. Er gibt die Zahl der Stimmberechtigten und die Tagesordnung bekannt.</p>
+  </li>
+  <li>
+    <p>Der Versammlungsleiter lässt die Punkte in der Reihenfolge behandeln und wenn erforderlich, darüber abstimmen.</p>
+  </li>
+  <li>
+    <p>Dem Versammlungsleiter stehen alle zur Aufrechterhaltung der Ordnung erforderlichen Befugnisse zu. Ist die ordnungsgemäße Durchführung der Versammlung gefährdet, kann er insbesondere das Wort entziehen.</p>
+  </li>
+</ol>
+
+<h1 id="worterteilung-und-rednerfolge">Worterteilung und Rednerfolge</h1>
+
+<ol>
+  <li>
+    <p>Zur Aussprache der einzelnen Tagesordnungspunkte erstellt der Versammlungsleiter eine Rednerliste auf.</p>
+  </li>
+  <li>
+    <p>Das Wort zur Aussprache erteilt der Versammlungsleiter. Die Worterteilung erfolgt in der Reihenfolge der Rednerliste.</p>
+  </li>
+  <li>
+    <p>Zur tatsächlichen Richtigstellung, zur Geschäftsordnung oder zur Beantwortung einer zur Sache gehörenden Frage ist auch das Wort außer der Reihe zu erteilen, jedoch erst wenn der Vorredner ausgesprochen hat. Der Versammlungsleiter kann zu diesen Punkten immer sprechen.</p>
+  </li>
+  <li>
+    <p>Spricht ein Redner nicht zur Sache, so hat ihn der Versammlungsleiter zur Sache zu rufen. Im Wiederholungsfall kann der Versammlungsleiter dem Redner das Wort entziehen.</p>
+  </li>
+</ol>
+
+<h1 id="anträge">Anträge</h1>
+
+<ol>
+  <li>
+    <p>Die Antragsberechtigung zur Mitgliederversammlung ist in § 13 der Satzung festgelegt.</p>
+  </li>
+  <li>
+    <p>Die Reihenfolge der zur Abstimmung kommenden Anträge ist vor der Abstimmung deutlich bekanntzugeben.</p>
+  </li>
+  <li>
+    <p>Alle Anträge müssen schriftlich eingereicht werden; sie sollen eine schriftliche Begründung enthalten. Anträge ohne Unterschrift werden nicht behandelt.</p>
+  </li>
+  <li>
+    <p>Antragsteller erhalten zu Beginn und am Ende der Aussprache über ihren Antrag das Wort.</p>
+  </li>
+  <li>
+    <p>Anträge, die sich aus der Beratung eines Antrages ergeben und diesen ändern, ergänzen oder fortführen, sind zugelassen.</p>
+  </li>
+</ol>
+
+<h1 id="wahlen">Wahlen</h1>
+
+<ol>
+  <li>
+    <p>Wahlen dürfen nur dann durchgeführt werden, wenn sie satzungsgemäß anstehen, auf der Tagesordnung stehen und bei der Einberufung bekanntgegeben worden sind.</p>
+  </li>
+  <li>
+    <p>Wahlen sind grundsätzlich schriftlich und geheim in der satzungsmäßig vorgeschriebenen Reihenfolge vorzunehmen, wenn die Versammlung nichts anderes beschließt.</p>
+  </li>
+  <li>
+    <p>Die Generalversammlung kann auf Antrag hin einen Wahlausschuss mit mindestens drei Mitgliedern (Delegierte) bestellen, welche die Aufgabe haben, die abgegebenen Stimmen zu zählen und zu kontrollieren.</p>
+  </li>
+  <li>
+    <p>Der Wahlausschuss hat einen Wahlleiter zu bestimmen, der während des Wahlvorgangs die Rechte und Pflichten eines Versammlungsleiters hat.</p>
+  </li>
+  <li>
+    <p>Vor dem Wahlgang hat der Wahlausschuss zu prüfen, ob die zur Wahl vorgeschlagenen Kandidaten die Voraussetzungen erfüllen, welche die Satzung vorschreibt.</p>
+  </li>
+  <li>
+    <p>Ein Abwesender kann gewählt werden, wenn dem Versammlungsleiter vor der Abstimmung eine schriftliche Erklärung vorliegt, aus der die Bereitschaft, die Wahl anzunehmen, hervorgeht.</p>
+  </li>
+  <li>
+    <p>Vor der Wahl sind die Kandidaten zu fragen, ob sie im Falle einer Wahl das Amt annehmen.</p>
+  </li>
+  <li>
+    <p>Das Wahlergebnis ist durch den Wahlausschuss festzustellen, dem Versammlungsleiter bekanntzugeben und seine Gültigkeit für das Protokoll schriftlich zu bestätigen.</p>
+  </li>
+  <li>
+    <p>Im Falle eines Ausscheidens von Mitgliedern des Gesamtvorstandes während der Amtszeit beruft der Gesamtvorstand auf Vorschlag ein geeignetes Ersatzmitglied bis zur nächsten satzungsgemäß festgelegten Wahl.</p>
+  </li>
+</ol>
+
+<h1 id="kassenprüfer">Kassenprüfer</h1>
+
+<ol>
+  <li>
+    <p>Von der Mitgliederversammlung werden zwei Kassenprüfer auf die Dauer von zwei Jahren gewählt. Eine Wiederwahl ist zulässig. Die Kassenprüfer dürfen dem Vorstand des Verbandes nicht angehören.</p>
+  </li>
+  <li>
+    <p>Sie haben die Pflicht und das Recht, die Kassengeschäfte des Verbandes zu überwachen und den Jahresabschluss zu prüfen.</p>
+  </li>
+  <li>
+    <p>Sie berichten darüber schriftlich oder mündlich der Mitgliederversammlung und stellen den Antrag auf Entlastung des Vorstandes bzw. des Kassierers.</p>
+  </li>
+</ol>
+
+<h1 id="tätigkeitsbereich---sport--und-regelkommission">Tätigkeitsbereich - Sport- und Regelkommission</h1>
+
+<p>Die SpoRKom setzt sich zusammen aus dem Leiter der SpoRKom, seinem Stellvertreter, dem STFV-Vorsitzenden oder einem Stellvertreter, dem Schiedsgerichtsvorsitzenden oder einem Stellvertreter sowie je einem Vertreter aller Mitgliedsvereine. Die Sportund Regelkommission entscheidet über Änderungen und Ergänzungen der Spielordnungen bzw. des Regelwerkes STFV sowie der Ordnung der SpoRKom. Entscheidungen der SpoRKom können von der Mitgliederversammlung per Antrag ergänzt bzw. geändert oder auch revidiert werden.</p>
+
+<h1 id="tätigkeitsbereich---leistungssportkommission">Tätigkeitsbereich - Leistungssportkommission</h1>
+
+<p>Die Leistungssportkommission ist für die Belange des Leistungssportes innerhalb des Verbandes zuständig. Sie kümmert sich insbesondere um die Abwicklung und Bedingungen innerhalb der pro-Ligen.</p>
+
+<h1 id="tätigkeitsbereich---turnierleitungskommission">Tätigkeitsbereich - Turnierleitungskommission</h1>
+
+<p>Die Turnierleitungskommission ist zuständig für alle Änderungen und Ergänzungen der Ranglistenturnierordnung sowie der Ablaufordnung für Turniere und dem Turnierbetrieb förderlichen Belange.</p>
+
+<h1 id="tätigkeitsbereich---jugendförderungskommission">Tätigkeitsbereich - Jugendförderungskommission</h1>
+
+<p>Die Jugendförderungskommission kümmert sich sowohl um die Belange der Junioren, welche bereits dem STFV angeschlossen sind, als auch um die Integration weiterer Kinder und Jugendliche in die Vereine des STFV. So werden u.a. Kontakte zu Jugendorganisationen und Schulen gesucht, um hier unsere Sportart vorzustellen und u.a. beim Durchführen von Jugendturnieren (z.B. Beistellung von Tischen) zu helfen. Damit soll Nachwuchs für den saarländischen Tischfußballsport generiert werden.</p>
+
+<h1 id="ehrenordnung">Ehrenordnung</h1>
+
+<ol>
+  <li>Für seine Mitglieder beschließt der Verband folgende Ehrungen:</li>
+</ol>
+
+<ol type="a">
+  <li>die Ehrennadel</li>
+  <li>den Ehrenbrief</li>
+  <li>die Ehrenmitgliedschaft</li>
+  <li>das Amt des Ehrenvorsitzenden</li>
+</ol>
+
+<ol>
+  <li>Der geschäftsführende Vorstand kann in Anerkennung besonderer Verdienste um den Tischfußballsport die Ehrennadeln in</li>
+</ol>
+
+<ol type="a">
+  <li>Bronze</li>
+  <li>Silber</li>
+  <li>Gold</li>
+  <li>Gold mit 1 Stern</li>
+  <li>Gold mit 2 Sternen</li>
+  <li>Gold mit 3 Sternen</li>
+  <li>Ehrenbrief verleihen. Mit ihr werden Mitglieder geehrt, die sich durch langjährige Mitgliedschaft im STFV-Vorstand oder im Verein ausgezeichnet haben.</li>
+</ol>
+
+<p>2.1 Die Verleihung der Ehrennadel in Bronze setzt eine 20-jährige ununterbrochene Tätigkeit voraus.</p>
+
+<p>2.2 Die Verleihung der Ehrennadel in Silber setzt eine 25-jährige ununterbrochene Tätigkeit voraus.</p>
+
+<p>2.3 Die Verleihung der Ehrennadel in Gold setzt eine 30-jährige ununterbrochene Tätigkeit voraus.</p>
+
+<p>2.4 Die Verleihung der Ehrennadel in Gold mit einem Stern setzt eine 40-jährige ununterbrochene Tätigkeit voraus.</p>
+
+<p>2.5 Die Verleihung der Ehrennadel in Gold mit 2 Sternen setzt eine 50- jährige ununterbrochene Tätigkeit voraus.</p>
+
+<p>2.6 Die Verleihung der Ehrennadel in Gold mit 3 Sternen setzt eine 60- jährige ununterbrochene Tätigkeit voraus.</p>
+
+<p>2.7 Der Ehrenbrief kann in Würdigung besonderer Verdienste um die Förderung des Tischfußballsports verliehen werden.</p>
+
+<p>2.8 Anträge von Vereinen auf Ehrung ihrer Mitglieder müssen spätestens bis zum 30. Juni eines jeden Jahres schriftlich bei der STFVGeschäftsstelle eingereicht werden. Folgende lückenlose Angaben sind dazu erforderlich:</p>
+
+<ol type="a">
+  <li>Name und Vorname des Betreffenden (Personalien)</li>
+  <li>Welche Tätigkeit hat der Betreffende bisher im Verein oder im STFV-Vorstand ausgeübt (von wann bis wann)</li>
+  <li>In welchem Verein hat der Betreffende bisher gespielt (lückenlose Aufstellung)</li>
+</ol>
+
+<p>2.9 Nach eingehender Prüfung des Antrages entscheidet der geschäftsführende Vorstand über die Verleihung der Auszeichnung.</p>
+
+<ol>
+  <li>Auf Antrag des STFV-Vorstandes können Personen, die sich besondere Verdienste um den Tischfußball erworben haben, durch Beschluss der Mitgliederversammlung zu:</li>
+</ol>
+
+<ol type="a">
+  <li>Ehrenmitgliedern</li>
+  <li>Ehrenvorsitzenden ernannt werden.</li>
+</ol>
+
+
+    </div>
+    
+    <!-- Suchleiste -->
+    <div id="base-search-bar" hidden role="search">
+        <input id="base-search-input" type="search" placeholder="Auf dieser Seite suchen…" aria-label="Suche" autocomplete="off">
+        <span id="base-search-count" aria-live="polite"></span>
+        <button id="base-search-prev" type="button" aria-label="Vorheriger Treffer">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+        </button>
+        <button id="base-search-next" type="button" aria-label="Nächster Treffer">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+        </button>
+        <button id="base-search-close" type="button" aria-label="Suche schließen">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+        </button>
+    </div>
+
+    <!-- Safe-area Abdeckung (nur in PWA) -->
+    <div id="safe-area-cover"></div>
+
+    <!-- Scroll-Fortschrittsbalken -->
+    <div id="scroll-progress"></div>
+
+    <!-- Nach oben Button -->
+    <a href="#" id="back-to-top">Nach oben</a>
+
+    <!-- Staging-Banner -->
+    
+    
+
+    <!-- Link-kopiert-Toast -->
+    <div id="base-toast" role="status" aria-live="polite">Link kopiert</div>
+
+    <script>
+        // Einstellungen-Panel
+        const settingsToggle = document.querySelector("[data-settings-toggle]");
+        const settingsPanel = document.querySelector("[data-settings-panel]");
+        if (settingsToggle && settingsPanel) {
+            settingsToggle.addEventListener("click", (e) => {
+                e.stopPropagation();
+                const open = !settingsPanel.hidden;
+                settingsPanel.hidden = open;
+                settingsToggle.setAttribute("aria-expanded", String(!open));
+            });
+            settingsPanel.addEventListener("click", (e) => { e.stopPropagation(); });
+            document.addEventListener("click", () => {
+                if (!settingsPanel.hidden) {
+                    settingsPanel.hidden = true;
+                    settingsToggle.setAttribute("aria-expanded", "false");
+                }
+            });
+        }
+
+        // Schriftgröße
+        const fontSteps = [0.70, 0.85, 1.0, 1.25, 1.50];
+        let fontIndex = parseInt(localStorage.getItem("fontIndex") ?? "2", 10);
+        const fontSlider = document.querySelector("[data-font-slider]");
+        const fontPct = document.querySelector("[data-font-pct]");
+        const fontDecrease = document.querySelector("[data-font-decrease]");
+        const fontIncrease = document.querySelector("[data-font-increase]");
+        const applyFontZoom = () => {
+            document.documentElement.style.setProperty("--font-zoom", fontSteps[fontIndex]);
+            if (fontSlider) {
+                fontSlider.value = fontIndex;
+                const pct = (fontIndex / (fontSteps.length - 1)) * 100;
+                fontSlider.style.setProperty("--slider-fill", pct + "%");
+            }
+            if (fontPct) fontPct.textContent = Math.round(fontSteps[fontIndex] * 100) + "%";
+            if (fontDecrease) fontDecrease.disabled = fontIndex === 0;
+            if (fontIncrease) fontIncrease.disabled = fontIndex === fontSteps.length - 1;
+        };
+        if (fontSlider) {
+            fontSlider.addEventListener("input", () => {
+                fontIndex = parseInt(fontSlider.value, 10);
+                localStorage.setItem("fontIndex", fontIndex);
+                applyFontZoom();
+            });
+        }
+        if (fontDecrease) {
+            fontDecrease.addEventListener("click", () => {
+                if (fontIndex > 0) { fontIndex--; localStorage.setItem("fontIndex", fontIndex); applyFontZoom(); }
+            });
+        }
+        if (fontIncrease) {
+            fontIncrease.addEventListener("click", () => {
+                if (fontIndex < fontSteps.length - 1) { fontIndex++; localStorage.setItem("fontIndex", fontIndex); applyFontZoom(); }
+            });
+        }
+        applyFontZoom();
+    </script>
+
+    <script>
+        const backToTopButton = document.getElementById("back-to-top");
+        const scrollProgress = document.getElementById("scroll-progress");
+
+        window.onscroll = function() {
+            const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+            const docHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            scrollProgress.style.width = docHeight > 0 ? (scrollTop / docHeight * 100) + "%" : "0%";
+            backToTopButton.style.display = scrollTop > 200 ? "block" : "none";
+        };
+    </script>
+
+    <script>
+        const baseSlugify = (text) => text.toLowerCase()
+            .replace(/[^\w\s-]/g, "")
+            .trim()
+            .replace(/\s+/g, "-");
+
+        const baseCopyText = async (text) => {
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                await navigator.clipboard.writeText(text);
+                return true;
+            }
+            const temp = document.createElement("textarea");
+            temp.value = text;
+            temp.setAttribute("readonly", "");
+            temp.style.position = "absolute";
+            temp.style.left = "-9999px";
+            document.body.appendChild(temp);
+            temp.select();
+            const success = document.execCommand("copy");
+            document.body.removeChild(temp);
+            return success;
+        };
+
+        let toastTimer = null;
+        const showCopyToast = () => {
+            const toast = document.getElementById("base-toast");
+            if (!toast) return;
+            clearTimeout(toastTimer);
+            toast.classList.add("base-toast--visible");
+            toastTimer = setTimeout(() => toast.classList.remove("base-toast--visible"), 2000);
+        };
+
+        const initHeadingLinks = () => {
+            const wrapper = document.querySelector(".wrapper");
+            if (!wrapper) return;
+            const headings = wrapper.querySelectorAll("h1, h2, h3, h4");
+
+            headings.forEach((heading) => {
+                if (heading.querySelector(".base-heading-link")) return;
+                let id = heading.getAttribute("id");
+                if (!id) {
+                    id = baseSlugify(heading.textContent || "section");
+                    let unique = id;
+                    let counter = 2;
+                    while (document.getElementById(unique)) {
+                        unique = `${id}-${counter++}`;
+                    }
+                    heading.setAttribute("id", unique);
+                }
+
+                const link = document.createElement("a");
+                link.className = "base-heading-link";
+                link.href = `#${id}`;
+                link.setAttribute("aria-label", "Link kopieren");
+                link.innerHTML = "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M10.5 13.5l3-3\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/><path d=\"M7 17a4 4 0 0 1 0-5.66l2.34-2.34a4 4 0 0 1 5.66 0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/><path d=\"M17 7a4 4 0 0 1 0 5.66l-2.34 2.34a4 4 0 0 1-5.66 0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>";
+
+                link.addEventListener("click", async (event) => {
+                    event.preventDefault();
+                    const url = `${window.location.origin}${window.location.pathname}#${id}`;
+                    await baseCopyText(url);
+                    history.replaceState(null, "", `#${id}`);
+                    showCopyToast();
+                });
+
+                heading.appendChild(link);
+            });
+        };
+
+        if (document.readyState === "loading") {
+            document.addEventListener("DOMContentLoaded", initHeadingLinks);
+        } else {
+            initHeadingLinks();
+        }
+    </script>
+
+    <script>
+        (() => {
+            const searchBar = document.getElementById("base-search-bar");
+            const searchInput = document.getElementById("base-search-input");
+            const searchCount = document.getElementById("base-search-count");
+            const btnPrev = document.getElementById("base-search-prev");
+            const btnNext = document.getElementById("base-search-next");
+            const btnClose = document.getElementById("base-search-close");
+            const openBtns = document.querySelectorAll("[data-search-open]");
+            const wrapper = document.querySelector(".wrapper");
+
+            if (!searchBar || !openBtns.length || !wrapper) return;
+
+            let marks = [];
+            let currentIndex = -1;
+
+            const clearMarks = () => {
+                wrapper.querySelectorAll("mark.base-search-mark").forEach(m => {
+                    const parent = m.parentNode;
+                    parent.replaceChild(document.createTextNode(m.textContent), m);
+                    parent.normalize();
+                });
+                marks = [];
+                currentIndex = -1;
+            };
+
+            const highlight = (query) => {
+                clearMarks();
+                if (!query) { searchCount.textContent = ""; return; }
+                const re = new RegExp(query.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "gi");
+                const walker = document.createTreeWalker(wrapper, NodeFilter.SHOW_TEXT, {
+                    acceptNode: n => {
+                        const tag = n.parentElement?.tagName;
+                        return (tag === "SCRIPT" || tag === "STYLE" || n.parentElement?.closest("mark"))
+                            ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT;
+                    }
+                });
+                const textNodes = [];
+                while (walker.nextNode()) textNodes.push(walker.currentNode);
+
+                textNodes.forEach(node => {
+                    if (!re.test(node.textContent)) return;
+                    re.lastIndex = 0;
+                    const frag = document.createDocumentFragment();
+                    let last = 0, m;
+                    while ((m = re.exec(node.textContent)) !== null) {
+                        frag.appendChild(document.createTextNode(node.textContent.slice(last, m.index)));
+                        const mark = document.createElement("mark");
+                        mark.className = "base-search-mark";
+                        mark.textContent = m[0];
+                        frag.appendChild(mark);
+                        marks.push(mark);
+                        last = m.index + m[0].length;
+                    }
+                    frag.appendChild(document.createTextNode(node.textContent.slice(last)));
+                    node.parentNode.replaceChild(frag, node);
+                });
+
+                searchCount.textContent = marks.length ? `1 / ${marks.length}` : "Kein Treffer";
+                if (marks.length) { currentIndex = 0; goTo(0); }
+            };
+
+            // Sichtbare Viewport-Höhe (berücksichtigt virtuelle Tastatur via visualViewport)
+            const getVisibleHeight = () =>
+                window.visualViewport ? window.visualViewport.height : window.innerHeight;
+
+            const goTo = (idx) => {
+                marks.forEach((m, i) => m.classList.toggle("base-search-mark--active", i === idx));
+                searchCount.textContent = `${idx + 1} / ${marks.length}`;
+                const mark = marks[idx];
+                if (!mark) return;
+                const rect = mark.getBoundingClientRect();
+                const visibleH = getVisibleHeight();
+                const barH = searchBar.offsetHeight + 16;
+                // Mitte des sichtbaren Bereichs unterhalb der Suchleiste
+                const targetCenter = barH + (visibleH - barH) / 2;
+                const scrollY = window.scrollY + rect.top - targetCenter;
+                window.scrollTo({ top: scrollY, behavior: "smooth" });
+            };
+
+            const open = () => {
+                if (settingsPanel && !settingsPanel.hidden) {
+                    settingsPanel.hidden = true;
+                    document.querySelector("[data-settings-toggle]")?.setAttribute("aria-expanded", "false");
+                }
+                searchBar.hidden = false;
+                setTimeout(() => { searchInput.focus(); searchInput.select(); }, 50);
+            };
+
+            const close = () => {
+                searchBar.hidden = true;
+                clearMarks();
+                searchInput.value = "";
+                searchCount.textContent = "";
+            };
+
+            openBtns.forEach(btn => btn.addEventListener("click", open));
+            btnClose.addEventListener("click", close);
+            btnPrev.addEventListener("click", () => { if (marks.length) { currentIndex = (currentIndex - 1 + marks.length) % marks.length; goTo(currentIndex); } });
+            btnNext.addEventListener("click", () => { if (marks.length) { currentIndex = (currentIndex + 1) % marks.length; goTo(currentIndex); } });
+
+            let debounce;
+            searchInput.addEventListener("input", () => {
+                clearTimeout(debounce);
+                debounce = setTimeout(() => highlight(searchInput.value.trim()), 150);
+            });
+
+            searchInput.addEventListener("keydown", (e) => {
+                if (e.key === "Enter") { e.preventDefault(); if (marks.length) { currentIndex = (currentIndex + 1) % marks.length; goTo(currentIndex); } }
+                if (e.key === "Escape") close();
+            });
+
+            document.addEventListener("keydown", (e) => {
+                if ((e.ctrlKey || e.metaKey) && e.key === "f") { e.preventDefault(); open(); }
+                if (e.key === "Escape" && !searchBar.hidden) close();
+            });
+        })();
+    </script>
+</body>
+</html>
+

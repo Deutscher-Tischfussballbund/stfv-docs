@@ -1,0 +1,17 @@
+
+
+{
+  "name": "STFV Dokumente",
+  "short_name": "STFV Dokumente",
+  "display": "standalone",
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#4a4a49",
+  "icons": [
+    {
+      "src": "/templates/stfv/images/favicon.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
