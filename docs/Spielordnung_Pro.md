@@ -13,7 +13,7 @@
     </p>
 </div>
 
-**Spielordnung Pro (SPO Pr)**
+**Spielordnung Pro (SPO Pro)**
 
 ---
 
