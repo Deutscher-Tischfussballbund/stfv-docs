@@ -2,7 +2,7 @@
 title: "Leitfaden des Schiedsgerichts"
 date: '{{ site.time | date: "%d.%m.%Y" }}'
 section_numbering: arabic
-pdf: /assets/pdf/Leitfaden_Schiedsgericht.pdf
+pdf: /assets/pdf/Leitfaden_des_Schiedsgerichts.pdf
 ---
 * TOC
 {:toc}

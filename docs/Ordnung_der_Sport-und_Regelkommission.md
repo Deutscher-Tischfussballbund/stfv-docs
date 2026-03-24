@@ -3,7 +3,7 @@ title: "Ordnung der Sport- und Regelkommission"
 subtitle: "des STFV e.V."
 date: '{{ site.time | date: "%d.%m.%Y" }}'
 section_numbering: arabic
-pdf: /assets/pdf/Ordnung_der_Sport_und_Regelkommission.pdf
+pdf: /assets/pdf/Ordnung_der_Sport-und_Regelkommission.pdf
 ---
 
 ---

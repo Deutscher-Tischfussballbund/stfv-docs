@@ -2,7 +2,7 @@
 title: "Informationen Proliga"
 date: '{{ site.time | date: "%d.%m.%Y" }}'
 section_numbering: arabic
-pdf: /assets/pdf/Informationen_Proliga_2025.pdf
+pdf: /assets/pdf/Informationen_Proliga.pdf
 ---
 
 ---

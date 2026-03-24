@@ -3,7 +3,7 @@ title: "Awareness-Konzept"
 subtitle: "des STFV e.V."
 date: '{{ site.time | date: "%d.%m.%Y" }}'
 section_numbering: arabic
-pdf: /assets/pdf/Awareness.pdf
+pdf: /assets/pdf/Awareness_Konzept.pdf
 ---
 * TOC
 {:toc}
