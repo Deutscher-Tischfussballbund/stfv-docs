@@ -1,7 +1,10 @@
 ---
 title: "Satzung"
 subtitle: "des STFV e.V."
-date: '{{ site.time | date: "%d.%m.%Y" }}'
+## Automatisches Datum bei Satzung inaktiv
+#date: '{{ site.time | date: "%d.%m.%Y" }}'
+## Bei Satzungsänderungen Datum händisch anpassen!
+date: '15.01.2023'
 section_numbering: paragraph
 pdf: /assets/pdf/Satzung.pdf
 ---
