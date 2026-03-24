@@ -39,3 +39,8 @@
 - [Spielordnung DTFB](./assets/pdf/Spielordnung_Stand_29042023.pdf)
 - [Tuniere Spieleranmeldung](./assets/pdf/tuniere_spieleranmeldung.pdf)
 
+---
+
+## Protokolle des Verbandes
+
+- [Protokoll Jahreshauptversammlung 2026](./assets/pdf/Protokoll_Jahreshauptversammlung_2026.pdf)
