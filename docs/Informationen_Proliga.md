@@ -9,6 +9,7 @@
     </p>
     <p>
         <a href="./../assets/pdf/Informationen_Proliga_2025.pdf" target="_blank">Download als PDF</a><br />
+        <a href="https://deutscher-tischfussballbund.github.io/stfv-docs/" target="_blank">Back</a>
     </p>
 </div>
 
