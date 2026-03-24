@@ -5,48 +5,48 @@ subtitle: "Offizielle Verbandsdokumente des Saarländischen Tischfußballverband
 
 ## Statuten des Verbandes
 
-| Dokument | <span style="white-space:nowrap">PDF</span>  |
+| Dokument | PDF |
 |---|---|
-| [Awareness Konzept](docs/Awareness_Konzept.html) | <span style="white-space:nowrap">[PDF](assets/pdf/Awareness_Konzept.pdf)</span> |
-| [Datenschutzordnung](docs/Datenschutzordnung.html) | <span style="white-space:nowrap">[PDF](assets/pdf/Datenschutzordnung.pdf)</span> |
-| [Gebührenordnung](docs/Gebührenordnung.html) | <span style="white-space:nowrap">[PDF](assets/pdf/Gebührenordnung.pdf)</span> |
-| [Geschäftsordnung](docs/Geschäftsordnung.html) | <span style="white-space:nowrap">[PDF](assets/pdf/Geschäftsordnung.pdf)</span> |
-| [Leitfaden des Schiedsgerichts](docs/Leitfaden_des_Schiedsgerichts.html) | <span style="white-space:nowrap">[PDF](assets/pdf/Leitfaden_des_Schiedsgerichts.pdf)</span> |
-| [Ordnung der Sport- und Regelkommission (SpoRKom)](docs/Ordnung_der_Sport-und_Regelkommission.html) | <span style="white-space:nowrap">[PDF](assets/pdf/Ordnung_der_Sport-und_Regelkommission.pdf)</span> |
-| [Ordnung des Spielbetriebes](docs/Ordnung_des_Spielbetriebes.html) | <span style="white-space:nowrap">[PDF](assets/pdf/Ordnung_des_Spielbetriebes.pdf)</span> |
-| [Präventionskonzept sexualisierte Gewalt](docs/Präventionskonzept_sexualisierte_Gewalt_im_Verein.html) | <span style="white-space:nowrap">[PDF](assets/pdf/Präventionskonzept_sexualisierte_Gewalt_im_Verein.pdf)</span> |
-| [Regelwerk STFV](docs/Regelwerk_STFV.html) | <span style="white-space:nowrap">[PDF](assets/pdf/Regelwerk_STFV.pdf)</span> |
-| [Satzung](docs/Satzung.html) | <span style="white-space:nowrap">[PDF](assets/pdf/Satzung.pdf)</span> |
-| [Spielordnung Classic](docs/Spielordnung_Classic.html) | <span style="white-space:nowrap">[PDF](assets/pdf/Spielordnung_Classic.pdf)</span> |
-| [Spielordnung Pro](docs/Spielordnung_Pro.html) | <span style="white-space:nowrap">[PDF](assets/pdf/Spielordnung_Pro.pdf)</span> |
-| [Turnierordnung](docs/Tunierordnung.html) | <span style="white-space:nowrap">[PDF](assets/pdf/Tunierordnung.pdf)</span> |
-| [Informationen zum Spielmodus und -ablauf Proliga 2026](docs/Informationen_Proliga.html) | <span style="white-space:nowrap">[PDF](assets/pdf/Informationen_Proliga.pdf)</span> |
-| [Modalitäten des Spielbetriebes STFV Classic für die Saison 2026](docs/Modalitäten_Spielbetriebes_Classic.html) | <span style="white-space:nowrap">[PDF](assets/pdf/Modalitäten_Spielbetriebes_Classic.pdf)</span> |
+| [Awareness Konzept](docs/Awareness_Konzept.html) | [PDF](assets/pdf/Awareness_Konzept.pdf) |
+| [Datenschutzordnung](docs/Datenschutzordnung.html) | [PDF](assets/pdf/Datenschutzordnung.pdf) |
+| [Gebührenordnung](docs/Gebührenordnung.html) | [PDF](assets/pdf/Gebührenordnung.pdf) |
+| [Geschäftsordnung](docs/Geschäftsordnung.html) | [PDF](assets/pdf/Geschäftsordnung.pdf) |
+| [Leitfaden des Schiedsgerichts](docs/Leitfaden_des_Schiedsgerichts.html) | [PDF](assets/pdf/Leitfaden_des_Schiedsgerichts.pdf) |
+| [Ordnung der Sport- und Regelkommission (SpoRKom)](docs/Ordnung_der_Sport-und_Regelkommission.html) | [PDF](assets/pdf/Ordnung_der_Sport-und_Regelkommission.pdf) |
+| [Ordnung des Spielbetriebes](docs/Ordnung_des_Spielbetriebes.html) | [PDF](assets/pdf/Ordnung_des_Spielbetriebes.pdf) |
+| [Präventionskonzept sexualisierte Gewalt](docs/Präventionskonzept_sexualisierte_Gewalt_im_Verein.html) | [PDF](assets/pdf/Präventionskonzept_sexualisierte_Gewalt_im_Verein.pdf) |
+| [Regelwerk STFV](docs/Regelwerk_STFV.html) | [PDF](assets/pdf/Regelwerk_STFV.pdf) |
+| [Satzung](docs/Satzung.html) | [PDF](assets/pdf/Satzung.pdf) |
+| [Spielordnung Classic](docs/Spielordnung_Classic.html) | [PDF](assets/pdf/Spielordnung_Classic.pdf) |
+| [Spielordnung Pro](docs/Spielordnung_Pro.html) | [PDF](assets/pdf/Spielordnung_Pro.pdf) |
+| [Turnierordnung](docs/Tunierordnung.html) | [PDF](assets/pdf/Tunierordnung.pdf) |
+| [Informationen zum Spielmodus und -ablauf Proliga 2026](docs/Informationen_Proliga.html) | [PDF](assets/pdf/Informationen_Proliga.pdf) |
+| [Modalitäten des Spielbetriebes STFV Classic für die Saison 2026](docs/Modalitäten_Spielbetriebes_Classic.html) | [PDF](assets/pdf/Modalitäten_Spielbetriebes_Classic.pdf) |
 
 
 ## Formulare des Verbandes
 
 | Dokument | PDF |
 |---|---|
-| [Antrag auf Spielerlaubnis](assets/pdf/static/Antrag_auf_Spielerlaubnis.pdf) | <span style="white-space:nowrap">[PDF](assets/pdf/static/Antrag_auf_Spielerlaubnis.pdf)</span> |
-| [Antrag Zuschuss Jugend](assets/pdf/static/Antrag_Zuschuss_Jugend.pdf) | <span style="white-space:nowrap">[PDF](assets/pdf/static/Antrag_Zuschuss_Jugend.pdf)</span> |
-| [Antragsformblatt JHV](assets/pdf/static/antragsformblatt_jhv.pdf) | <span style="white-space:nowrap">[PDF](assets/pdf/static/antragsformblatt_jhv.pdf)</span> |
-| [Antragsformblatt SpoRKom](assets/pdf/static/antragsformblatt_sporkom.pdf) | <span style="white-space:nowrap">[PDF](assets/pdf/static/antragsformblatt_sporkom.pdf)</span> |
-| [Austrittserklärung](assets/pdf/static/austrittserklaerung.pdf) | <span style="white-space:nowrap">[PDF](assets/pdf/static/austrittserklaerung.pdf)</span> |
-| [Einverständniserklärung Spielverlegung](assets/pdf/static/einverstaendniserklaerung_spieverlegung.pdf) | <span style="white-space:nowrap">[PDF](assets/pdf/static/einverstaendniserklaerung_spieverlegung.pdf)</span> |
-| [Erstattungsantrag Kilometergeld](assets/pdf/static/erstattungsantrag_kilometrgeld.pdf) | <span style="white-space:nowrap">[PDF](assets/pdf/static/erstattungsantrag_kilometrgeld.pdf)</span> |
-| [Mannschaftsaufstellung](assets/pdf/static/mannschaftsaufstellung.pdf) | <span style="white-space:nowrap">[PDF](assets/pdf/static/mannschaftsaufstellung.pdf)</span> |
-| [Schiedsrichterentschädigung](assets/pdf/static/schiedsrichterentschaedigung.pdf) | <span style="white-space:nowrap">[PDF](assets/pdf/static/schiedsrichterentschaedigung.pdf)</span> |
-| [Spielordnung DTFB](assets/pdf/static/Spielordnung_Stand_29042023.pdf) | <span style="white-space:nowrap">[PDF](assets/pdf/static/Spielordnung_Stand_29042023.pdf)</span> |
-| [Turniere Spieleranmeldung](assets/pdf/static/turniere_spieleranmeldung.pdf) | <span style="white-space:nowrap">[PDF](assets/pdf/static/turniere_spieleranmeldung.pdf)</span> |
-| [Spielbericht Pro Racemodus](assets/pdf/static/spielbericht_Racemodus_42.pdf) | <span style="white-space:nowrap">[PDF](assets/pdf/static/spielbericht_Racemodus_42.pdf)</span> |
-| [Spielbericht Pro 5 Doppel 2 Einzel](assets/pdf/static/spielbericht_Pro_5D_2E.pdf) | <span style="white-space:nowrap">[PDF](assets/pdf/static/spielbericht_Pro_5D_2E.pdf)</span> |
-| [Spielbericht Classic Cup](assets/pdf/static/spielbericht_classic_cup.pdf) | <span style="white-space:nowrap">[PDF](assets/pdf/static/spielbericht_classic_cup.pdf)</span> |
-| [Spielbericht Classic](assets/pdf/static/spielbericht_classic.pdf) | <span style="white-space:nowrap">[PDF](assets/pdf/static/spielbericht_classic.pdf)</span> |
+| [Antrag auf Spielerlaubnis](assets/pdf/static/Antrag_auf_Spielerlaubnis.pdf) | [PDF](assets/pdf/static/Antrag_auf_Spielerlaubnis.pdf) |
+| [Antrag Zuschuss Jugend](assets/pdf/static/Antrag_Zuschuss_Jugend.pdf) | [PDF](assets/pdf/static/Antrag_Zuschuss_Jugend.pdf) |
+| [Antragsformblatt JHV](assets/pdf/static/antragsformblatt_jhv.pdf) | [PDF](assets/pdf/static/antragsformblatt_jhv.pdf) |
+| [Antragsformblatt SpoRKom](assets/pdf/static/antragsformblatt_sporkom.pdf) | [PDF](assets/pdf/static/antragsformblatt_sporkom.pdf) |
+| [Austrittserklärung](assets/pdf/static/austrittserklaerung.pdf) | [PDF](assets/pdf/static/austrittserklaerung.pdf) |
+| [Einverständniserklärung Spielverlegung](assets/pdf/static/einverstaendniserklaerung_spieverlegung.pdf) | [PDF](assets/pdf/static/einverstaendniserklaerung_spieverlegung.pdf) |
+| [Erstattungsantrag Kilometergeld](assets/pdf/static/erstattungsantrag_kilometrgeld.pdf) | [PDF](assets/pdf/static/erstattungsantrag_kilometrgeld.pdf) |
+| [Mannschaftsaufstellung](assets/pdf/static/mannschaftsaufstellung.pdf) | [PDF](assets/pdf/static/mannschaftsaufstellung.pdf) |
+| [Schiedsrichterentschädigung](assets/pdf/static/schiedsrichterentschaedigung.pdf) | [PDF](assets/pdf/static/schiedsrichterentschaedigung.pdf) |
+| [Spielordnung DTFB](assets/pdf/static/Spielordnung_Stand_29042023.pdf) | [PDF](assets/pdf/static/Spielordnung_Stand_29042023.pdf) |
+| [Turniere Spieleranmeldung](assets/pdf/static/turniere_spieleranmeldung.pdf) | [PDF](assets/pdf/static/turniere_spieleranmeldung.pdf) |
+| [Spielbericht Pro Racemodus](assets/pdf/static/spielbericht_Racemodus_42.pdf) | [PDF](assets/pdf/static/spielbericht_Racemodus_42.pdf) |
+| [Spielbericht Pro 5 Doppel 2 Einzel](assets/pdf/static/spielbericht_Pro_5D_2E.pdf) | [PDF](assets/pdf/static/spielbericht_Pro_5D_2E.pdf) |
+| [Spielbericht Classic Cup](assets/pdf/static/spielbericht_classic_cup.pdf) | [PDF](assets/pdf/static/spielbericht_classic_cup.pdf) |
+| [Spielbericht Classic](assets/pdf/static/spielbericht_classic.pdf) | [PDF](assets/pdf/static/spielbericht_classic.pdf) |
 
 
 ## Protokolle des Verbandes
 
 | Dokument | PDF |
 |---|---|
-| [Protokoll Jahreshauptversammlung 2026](assets/pdf/static/Protokoll_Jahreshauptversammlung_2026.pdf) | <span style="white-space:nowrap">[PDF](assets/pdf/static/Protokoll_Jahreshauptversammlung_2026.pdf)</span> |
+| [Protokoll Jahreshauptversammlung 2026](assets/pdf/static/Protokoll_Jahreshauptversammlung_2026.pdf) | [PDF](assets/pdf/static/Protokoll_Jahreshauptversammlung_2026.pdf) |
