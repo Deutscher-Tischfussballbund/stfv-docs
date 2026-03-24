@@ -14,7 +14,6 @@ date: {{ site.time | date: "%d-%m-%Y" }}
     </p>
     <p>
         <a href="./../assets/pdf/Spielordnung_Classic.pdf" target="_blank">Download als PDF</a><br/>
-        <a href="https://github.com/Deutscher-Tischfussballbund/stfv-docs/blob/main/docs/Spielordnung_Classic.md" target="_blank">GitHub Repository</a><br/>
         <a href="https://deutscher-tischfussballbund.github.io/stfv-docs/" target="_blank">Back</a>
     </p>
 </div>
