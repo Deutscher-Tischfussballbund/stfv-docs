@@ -6,47 +6,39 @@ section_numbering: arabic
 pdf: /assets/pdf/Gebührenordnung.pdf
 ---
 
----
 
 * TOC
 {:toc}
----
 
 # Grundsatz
 
 Die Finanzwirtschaft des Verbandes ist sparsam zu führen.
 
----
 
 # Haushaltsplan
 
 Der vom geschäftsführenden Vorstand aufgestellte und vom Gesamtvorstand gebilligte Haushaltsplan wird der Mitgliederversammlung zur Genehmigung vorgelegt. Er ist genehmigt, wenn er mit einfacher Mehrheit angenommen wird.
 
----
 
 # Jahresabschluss
 
 Im Jahresabschluss sind die Einnahmen und Ausgaben des Haushaltsplanes nachzuweisen sowie die Schulden und das Vermögen aufzuführen. Er hat außerdem eine Vermögensübersicht zu enthalten. Nach Prüfung durch die gewählten Kassenprüfer erstattet der Hauptkassierer dem Vorstand Bericht. Nach Genehmigung durch den Vorstand erfolgt die Veröffentlichung in der Mitgliederversammlung.
 
----
 
 # Hauptkassierer
 
 Der Hauptkassierer verwaltet die zentrale Kassen- und Buchungsstelle. Zahlungen werden von ihm nur geleistet, wenn sie ordnungsgemäß angewiesen sind. Der Hauptkassierer überwacht die sich aus der Erhebung von Sonderbeiträgen ergebende selbständige Kassenführung der Abteilungen.
 
----
 
 # Zahlungsanweisungen
 
 Die Zahlungsanweisungen bedürfen der Linksunterschrift des Vorstandes (§ 26 BGB). Die zweite Unterschrift leistet der Verbandsvorsitzende oder bei Verhinderung bzw. Abwesenheit ein vom Vorstand Beauftragter.
 
----
 
 # Zahlungsverkehr
 
 Der Zahlungsverkehr ist möglichst bargeldlos über das Verbandskonto bei der Kreissparkasse St. Wendel (IBAN: DE18592510200000004143, BIC: SALADE51WND) abzuwickeln. Über jede Einnahme und Ausgabe muss ein Kassenbeleg vorhanden sein.
 
----
 
 # Rechtsverbindlichkeiten
 
@@ -57,13 +49,11 @@ Das Eingehen von Rechtsverbindlichkeiten im Rahmen des Haushaltsplanes ist im Ei
 
 Der Vorstand ist von solchen Verbindlichkeiten zu unterrichten.
 
----
 
 # Kostenerstattung
 
 Den ehrenamtlichen Mitarbeitern des Verbandes sind entstehende Kosten nach den jeweils gültigen Vergütungssätzen zu erstatten.
 
----
 
 # Zahlungstermine und -verpflichtungen
 
@@ -75,7 +65,6 @@ Den ehrenamtlichen Mitarbeitern des Verbandes sind entstehende Kosten nach den j
    - Bei Zahlungsverzug erfolgt eine kostenpflichtige Mahnung mit einer weiteren Frist von 10 Tagen.
    - Nach erneuter Fristüberschreitung wird eine letzte Zahlungsaufforderung mit einer 10-Tagesfrist und der Androhung einer Spielsperre ausgesprochen.
 
----
 
 # Gebühren und Beiträge
 
@@ -99,7 +88,6 @@ Den ehrenamtlichen Mitarbeitern des Verbandes sind entstehende Kosten nach den j
 9. **Bearbeitungsgebühr:** € 5,--
 10. **Genehmigung von Spielverlegungen:** € 5,--
 
----
 
 # Ordnungsstrafen
 
@@ -142,7 +130,6 @@ Im Wiederholungsfalle erfolgt neben der Ordnungsstrafe ein Punktabzug von 2 Plus
 
 Bemerkung : Ordnungsstrafen können im Wiederholungsfall um 100% erhöht werden. Die Ordnungsstrafen zu den Punkten 1 - 9 werden jeweils von den Klassenleitern bearbeitet. Im Falle der Verhängung eines Ordnungsgeldes durch das Schiedsgericht oder den Verbandsvorstand darf dieses den Betrag von € 150,00 im Einzelfall nicht überschreiten. Ordnungsstrafen sind innerhalb der gesetzten Fristen zu zahlen. Überschreitungen dieser Fristen werden kostenpflichtig gemahnt.
 
----
 
 # Aufwandsentschädigungen
 
@@ -152,7 +139,6 @@ Bemerkung : Ordnungsstrafen können im Wiederholungsfall um 100% erhöht werden.
 
 3. Sitzungsgeld für Vorstands-, Schiedsgerichts- und Kommissionsmitglieder pro Sitzung € 10,--
 
----
 
 # Tätigkeitsbereich: STFV-Geschäftsstelle – Klassenleiter
 
@@ -162,4 +148,3 @@ Bemerkung : Ordnungsstrafen können im Wiederholungsfall um 100% erhöht werden.
 
 3. Im Falle eines Einspruchs wird das ausgesprochene Urteil bis zur Einspruchsverhandlung durch den STFV-Gesamtvorstand ausgesetzt. Der Vorstand bestätigt das ausgesprochene Urteil oder fällt ein neues Urteil. Diese Entscheidung ist dem jeweiligen Betroffenen binnen 14 Tagen per Einschreiben und/oder E-Mail mit Lesebestätigung zuzustellen.
 
----

@@ -8,7 +8,6 @@ pdf: /assets/pdf/Awareness_Konzept.pdf
 * TOC
 {:toc}
 
----
 
 # Einleitung
 
@@ -16,7 +15,6 @@ In der saarländischen Tischfußballiga und bei verschiedenen Turnieren treffen 
 
 **Awareness**, übersetzt als „Achtsamkeit“ oder „Bewusstsein“, steht für Sensibilität im Umgang miteinander. Es geht darum, die individuellen Grenzen anderer zu erkennen, zu respektieren und zu wahren. Wann eine Grenze überschritten wird, bestimmt die betroffene Person selbst.
 
----
 
 # Verhaltenskodex
 
@@ -34,7 +32,6 @@ Der Verhaltenskodex bildet die Grundlage für ein respektvolles und sicheres Mit
 3. **Achtsamkeit:**
    - Teilnehmende achten aufeinander und greifen bei grenzüberschreitendem Verhalten ein, indem sie der betroffenen Person Hilfe anbieten oder - falls verfügbar - das Awareness-Team kontaktieren.
 
----
 
 # Unterstützung von Betroffenen
 
@@ -52,13 +49,11 @@ Betroffene können bei Bedarf ein persönliches Gespräch vereinbaren. Der Fokus
 
 Alle Anfragen und Gespräche werden vertraulich behandelt. Informationen werden nur auf ausdrücklichen Wunsch der betroffenen Person an den Vorstand weitergegeben.
 
----
 
 # Spielorte mit Awareness-Konzepten
 
 Einige Veranstalter, wie das **Bundesleistungszentrum am Sportcampus Saar**, haben ein eigenes Awareness-Konzept entwickelt.
 
----
 
 # Weitere Hilfsangebote
 
@@ -68,7 +63,6 @@ Einige Veranstalter, wie das **Bundesleistungszentrum am Sportcampus Saar**, hab
 - **Telefonseelsorge:** 0800 1110111 ([telefonseelsorge.de](https://telefonseelsorge.de))
 - **Heimwegtelefon:** 030 12074182 ([heimwegtelefon.net](https://heimwegtelefon.net))
 
----
 
 # Weiterführende Literatur
 
@@ -76,5 +70,4 @@ Einige Veranstalter, wie das **Bundesleistungszentrum am Sportcampus Saar**, hab
 - **Antwort.** (2021). *Was tun bei sexualisierter Gewalt?: Handbuch für die transformative Arbeit mit gewaltausübenden Personen* (2. Aufl.). Unrast.
 - **Lotz, M.** (2023). *Handbuch Achtsamkeit: Das Nachschlagewerk für Veranstaltende, Kollektive, Netzwerke, Organisationen und alle, die an Veränderung interessiert sind.* Safe the Dance.
 
----
 

@@ -5,11 +5,9 @@ section_numbering: arabic
 pdf: /assets/pdf/Modalitäten_Spielbetriebes_Classic.pdf
 ---
 
----
 
 * TOC
 {:toc}
----
 
 # Zielsetzung
 

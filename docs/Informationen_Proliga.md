@@ -5,12 +5,10 @@ section_numbering: arabic
 pdf: /assets/pdf/Informationen_Proliga.pdf
 ---
 
----
 
 * TOC
 {:toc}
 
----
 
 # Allgemeines
 
@@ -29,13 +27,11 @@ In der Verbandsliga entscheidet ein einziger Münzwurf. Das Gewinnerteam darf en
 
 **Zu beachten:** Alle Begegnungen sind pünktlich zu beginnen. Sämtliche Vorbereitungen, inklusive Münzwurf, Austausch und Eintragen der Mannschaftsaufstellungen sowie das Warmspielen sind vor dem festgesetzten Spielbeginn abzuschließen.
 
----
 
 # Live-Eingabe in der Kicker-App 
 
 Jede Mannschaft erhält vor Beginn der Saison einen PIN, mit dem sie die Mannschaftsaufstellung sowie die Spielergebnisse jeder Begegnung in der Kicker-App eintragen kann. Die Eingabe erfolgt über eigene Smartphones oder Tablets. 
 
----
 
 # Spielmodus Vorrunde / Hauptrunde  
 
@@ -61,7 +57,6 @@ Aktuelle Regeln:
 
  • Haben Mannschaften den gleichen Heimtisch wird nur auf einem Tisch gespielt (Verbandsliga) 
 
- ---
 
  # Wechselregelung  
 
@@ -105,7 +100,6 @@ Grundregeln:
 
 **E: Spezialfall Verletzungsbedingte Wechsel**
 
----
 
 # Mannschaftsaufstellung  
 
@@ -115,7 +109,6 @@ Die zweitgenannte Mannschaft der Begegnung ist dafür verantwortlich, vor Spielb
 
 Die ausgetauschten Mannschaftsaufstellungen gelten als Dokument. Jede nachträgliche Änderung ist nicht mehr zulässig und wird als Manipulation angesehen. 
 
----
 
 # Endergebnismeldung  
 
@@ -127,7 +120,6 @@ Sollten innerhalb von 15 Minuten nach Spielende keine Spielergebnisse online ein
 
 Eine Änderung der eingegebenen Daten ist nur am gleichen Kalendertag vor Beginn der nächsten Begegnung und vor Ort mit Abstimmung der Leistungssportkomission/ Spielbetrieb möglich. Später sind keine Änderungen mehr möglich. 
 
----
 
 # Punktewertung  
 
@@ -143,13 +135,11 @@ Die Tabellenwertung erfolgt in der Vorrunde nachfolgenden Kriterien:
 
 Nicht angetretene oder vorzeitig abgebrochene Segmente werden zu 0 für den Gegner gewertet. 
 
----
 
 # Vorrunde  
 
 **Eine Begegnung in der Vorrunde wird immer komplett ausgetragen und kann unentschieden ausgehen. Spiele gegen ein Freilos werden mit 42:30 gewertet.**
 
----
 
 # Qualifikation für die Playoffs (K.O.-Spiele)  
 
@@ -159,13 +149,11 @@ In allen K.O.-Feldern werden die Mannschaften aus den Gruppen wie folgt gegenein
 
 Die Mannschaften, die nach der Vorrunde die Plätze 5 bis 8 (bzw. 9 in der Verbandsliga) belegen, spielen keine Playoffs. Ihre Endplatzierung entspricht der Rangfolge, die sie nach Abschluss der Vorrunde erreicht haben. 
 
----
 
 # Finalrunde (K.O.-Spiele)  
 
 Die vier bestplatzierten Mannschaften der Verbandsliga und Landesliga nach der Vorrunde qualifizieren sich für das Final Four. Im K.-o.-System werden zunächst die Halbfinals ausgetragen. Anschließend finden ein Finale sowie ein Spiel um Platz 3 statt, um die endgültige Platzierung der Top 4 zu bestimmen. 
 
----
 
 # Auf- und Abstiegsregelung 
 

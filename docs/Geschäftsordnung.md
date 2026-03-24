@@ -6,12 +6,10 @@ section_numbering: arabic
 pdf: /assets/pdf/Geschäftsordnung.pdf
 ---
 
----
 
 * TOC
 {:toc}
 
----
 
 # Tätigkeitsbereich - Gesamtvorstand und Vorstand
 
@@ -25,13 +23,11 @@ e) Alle sonstigen, täglich anfallenden Arbeiten, die zu einer ordnungsgemäßen
 
 2. Der 1. Vorsitzende erteilt die notwendigen Anweisungen an seine Vorstandskollegen und überwacht deren Tätigkeit. Er beruft die Vorstandssitzungen ein, leitet diese und stellt die Tagesordnung auf. Vorschläge von Vorstandsmitgliedern zur Tagesordnung müssen von ihm auf dieselbe gesetzt werden.
 
----
 
 # Tätigkeitsbereich - Schriftführer
 
 Dem Schriftführer obliegt die Protokollführung der Versammlungen, Vorstands- und Schiedsgerichtssitzungen. Die Versammlungs- und Sitzungsprotokolle des Vorstandes sind von ihm und dem 1. Vorsitzenden zu unterschreiben. Die Sitzungsprotokolle des Schiedsgerichtes sind von ihm und dem Schiedsgerichtsvorsitzenden zu unterschreiben. Ihm obliegt die Erledigung von schriftlichen Arbeiten nach Anweisung des 1. Vorsitzenden oder dessen Vertreter.
 
----
 
 # Tätigkeitsbereich - Kassenwart
 
@@ -39,7 +35,6 @@ Dem Schriftführer obliegt die Protokollführung der Versammlungen, Vorstands- u
 
 2. Über außerordentliche Ausgaben entscheidet der geschäftsführende Vorstand.
 
----
 
 # Tätigkeitsbereich - Spielbetriebskommission
 
@@ -47,7 +42,6 @@ Die Spielbetriebskommission besteht aus dem Vorsitzenden, seinem Stellvertreter,
 
 Sie ist in Verbindung mit dem geschäftsführenden Vorstand für den reibungslosen Ablauf des Spielbetriebes (Verbandsspiele, Nachholspiele, Wiederholungsspiele, Pokalspiele sowie der Relegations- bzw. Entscheidungsspiele) verantwortlich und führt gleichzeitig eine Liste über die Tabellenstände. In ihrer Rechtsprechung obliegt ihr das Aussprechen von Ordnungsstrafen gemäß § 11 Abs. 1 - 8 der GO.
 
----
 
 # Tätigkeitsbereich - Schiedsgerichtswesen
 
@@ -55,7 +49,6 @@ Sie ist in Verbindung mit dem geschäftsführenden Vorstand für den reibungslos
 
 2. Alle sonstigen Bestimmungen sind in § 17 der Satzung festgelegt.
 
----
 
 # Generalversammlung - Einberufung
 
@@ -69,7 +62,6 @@ Sie ist in Verbindung mit dem geschäftsführenden Vorstand für den reibungslos
 
 5. Die Generalversammlung beschließt über alle Angelegenheiten des STFV, soweit in diesen Satzungen nichts anderes bestimmt ist. Insbesondere beschließt die Generalversammlung über SatzungsÄnderungen sowie über Erhebungen von Sonderbeiträgen.
 
----
 
 # Versammlungsleitung
 
@@ -79,7 +71,6 @@ Sie ist in Verbindung mit dem geschäftsführenden Vorstand für den reibungslos
 
 3. Dem Versammlungsleiter stehen alle zur Aufrechterhaltung der Ordnung erforderlichen Befugnisse zu. Ist die ordnungsgemäße Durchführung der Versammlung gefährdet, kann er insbesondere das Wort entziehen.
 
----
 
 # Worterteilung und Rednerfolge
 
@@ -91,7 +82,6 @@ Sie ist in Verbindung mit dem geschäftsführenden Vorstand für den reibungslos
 
 4. Spricht ein Redner nicht zur Sache, so hat ihn der Versammlungsleiter zur Sache zu rufen. Im Wiederholungsfall kann der Versammlungsleiter dem Redner das Wort entziehen.
 
----
 
 # Anträge
 
@@ -105,7 +95,6 @@ Sie ist in Verbindung mit dem geschäftsführenden Vorstand für den reibungslos
 
 5. Anträge, die sich aus der Beratung eines Antrages ergeben und diesen ändern, ergänzen oder fortführen, sind zugelassen.
 
----
 
 # Wahlen
 
@@ -127,7 +116,6 @@ Sie ist in Verbindung mit dem geschäftsführenden Vorstand für den reibungslos
 
 9. Im Falle eines Ausscheidens von Mitgliedern des Gesamtvorstandes während der Amtszeit beruft der Gesamtvorstand auf Vorschlag ein geeignetes Ersatzmitglied bis zur nächsten satzungsgemäß festgelegten Wahl.
 
----
 
 # Kassenprüfer
 
@@ -137,31 +125,26 @@ Sie ist in Verbindung mit dem geschäftsführenden Vorstand für den reibungslos
 
 3. Sie berichten darüber schriftlich oder mündlich der Mitgliederversammlung und stellen den Antrag auf Entlastung des Vorstandes bzw. des Kassierers.
 
----
 
 # Tätigkeitsbereich - Sport- und Regelkommission
 
 Die SpoRKom setzt sich zusammen aus dem Leiter der SpoRKom, seinem Stellvertreter, dem STFV-Vorsitzenden oder einem Stellvertreter, dem Schiedsgerichtsvorsitzenden oder einem Stellvertreter sowie je einem Vertreter aller Mitgliedsvereine. Die Sportund Regelkommission entscheidet über Änderungen und Ergänzungen der Spielordnungen bzw. des Regelwerkes STFV sowie der Ordnung der SpoRKom. Entscheidungen der SpoRKom können von der Mitgliederversammlung per Antrag ergänzt bzw. geändert oder auch revidiert werden. 
 
----
 
 # Tätigkeitsbereich - Leistungssportkommission
 
 Die Leistungssportkommission ist für die Belange des Leistungssportes innerhalb des Verbandes zuständig. Sie kümmert sich insbesondere um die Abwicklung und Bedingungen innerhalb der pro-Ligen. 
 
----
 
 # Tätigkeitsbereich - Turnierleitungskommission
 
 Die Turnierleitungskommission ist zuständig für alle Änderungen und Ergänzungen der Ranglistenturnierordnung sowie der Ablaufordnung für Turniere und dem Turnierbetrieb förderlichen Belange.
 
----
 
 # Tätigkeitsbereich - Jugendförderungskommission
 
 Die Jugendförderungskommission kümmert sich sowohl um die Belange der Junioren, welche bereits dem STFV angeschlossen sind, als auch um die Integration weiterer Kinder und Jugendliche in die Vereine des STFV. So werden u.a. Kontakte zu Jugendorganisationen und Schulen gesucht, um hier unsere Sportart vorzustellen und u.a. beim Durchführen von Jugendturnieren (z.B. Beistellung von Tischen) zu helfen. Damit soll Nachwuchs für den saarländischen Tischfußballsport generiert werden. 
 
----
 
 # Ehrenordnung
 
@@ -209,4 +192,3 @@ c) In welchem Verein hat der Betreffende bisher gespielt (lückenlose Aufstellun
 a) Ehrenmitgliedern 
 b) Ehrenvorsitzenden ernannt werden.
 
----

@@ -8,26 +8,21 @@ pdf: /assets/pdf/Satzung.pdf
 
 **Stand: 15.01.2023**
 
----
 
 * TOC
 {:toc}
 
----
 
----
 
 # Name
 
 Der Verband führt den Namen Saarländischer Tischfußballverband e. V. (STFV e. V.). Er ist Rechtsnachfolger des am 24. Okt. 1967 gegründeten Saarländischen Tischfußballverbandes. 
 
----
 
 # Sitz
 
 Der Verband hat seinen Sitz in 66564 Ottweiler. Er ist im Vereinsregister beim Amtsgericht Ottweiler eingetragen. 
 
----
 
 # Zweck 
 
@@ -43,11 +38,9 @@ Der Verband hat seinen Sitz in 66564 Ottweiler. Er ist im Vereinsregister beim A
 
 6. Der Wirkungsbereich des Verbandes erstreckt sich auf das Saarland und das angrenzende Rheinland/Pfalz
 
----
 
 **MITGLIEDSCHAFT**
 
----
 
 # Ziele und Aufgaben 
 
@@ -58,7 +51,6 @@ Der Verband will seinen Mitgliedern sachgerechten Sport ermöglichen durch:
 3. Unterstützung seiner Mitglieder in der Erfüllung ihrer satzungsmäßigen Aufgaben, 
 4. Schlichtung von Streitigkeiten zwischen den Mitgliedern.
 
----
 
 # Mitgliedschaft 
 
@@ -71,7 +63,6 @@ c) Passive Mitglieder, die bereit sind, an den Veranstaltungen des Verbandes tei
 d) Ehrenmitglieder und Ehrenvorsitzende, die sich in besonderer Weise um den Verband verdient gemacht haben. Sie werden von der Mitgliederversammlung auf Vorschlag des Gesamtvorstandes gemäß der geltenden Ehrenordnung ernannt. 
 e) Fördernde Mitglieder. 3. Der Saarländische Tischfußballverband ist Mitglied des Deutschen Tischfußballbundes e.V. Er gehört ferner unter Wahrung seiner rechtlichen, sportlichen und wirtschaftlichen Selbständigkeit als Fachverband dem Landessportverband für das Saarland und dem Saarländischen Betriebssportverband an.
 
----
 
 # Aufnahmeverfahren
 
@@ -92,7 +83,6 @@ a) Die Mitgliedschaft wird wirksam nach Zahlungseingang der angeforderten Kautio
 b) Passive Mitgliedersind von der Zahlung der Aufnahmegebühr befreit. 
 c) Mit Beginn der Mitgliedschaft erkennt der Verein die Satzung, Geschäfts-, Gebühren- und Spielordnung des Verbandes als verbindlich an.
 
----
 
 # Mitgliedschaftsrechte und Mitgliedschaftspflichten 
 
@@ -100,7 +90,6 @@ c) Mit Beginn der Mitgliedschaft erkennt der Verein die Satzung, Geschäfts-, Ge
 
 2. Die Mitglieder sind verpflichtet, am Sport und Leben des Verbandes aktiv und regelmäßig teilzunehmen, die Satzung und die Ordnung des Verbandes zu erfüllen und sich für die Ziele des Verbandes überall persönlich einzusetzen, und im Sportbetrieb eine faire und kameradschaftliche Haltung zu zeigen.
 
----
 
 # Beitragspflicht und Zahlungsverzug 
 
@@ -114,7 +103,6 @@ c) Arten der Beiträge, sowie die Handhabung zur Entrichtung derselben sind in d
 3. Die Rechte eines Mitgliedes ruhen, wenn es länger als 6 Monate mit seinen Beitragszahlungen schuldhaft in Verzug ist. 
 4. Scheidet ein Mitglied aus dem Verband aus, so werden eventuelle Verbindlichkeiten mit der gestellten Kaution verrechnet.
 
----
 
 # Verlust der Mitgliedschaft 
 
@@ -138,7 +126,6 @@ d) Das ausgeschlossene Mitglied kann gegen den Beschluss des Gesamtvorstandes in
 
 4. Bei Ende der Mitgliedschaft bleiben eventuell noch bestehende Verpflichtungen des Mitglieds gegenüber dem Verband insbesondere rückständige Beiträge bestehen und werden sofort fällig.
 
----
 
 # Wahl- und Stimmrecht 
 
@@ -150,11 +137,9 @@ d) Das ausgeschlossene Mitglied kann gegen den Beschluss des Gesamtvorstandes in
 
 4. Wählbar ist jedes Vereinsmitglied nach vollendetem 18. Lebensjahr
 
----
 
 **WIRTSCHAFTSFÜHRUNG**
 
----
 
 # Wirtschaftsführung 
 
@@ -166,11 +151,9 @@ d) Das ausgeschlossene Mitglied kann gegen den Beschluss des Gesamtvorstandes in
 
 4. Der Kassenwart ist dem Vorstand und der Mitgliederversammlung für die ordnungsgemäße Führung der Kasse des Verbandes verantwortlich.
 
----
 
 **ORGANE**
 
----
 
 # Organe des Verbandes
 
@@ -184,7 +167,6 @@ Organe des Verbandes sind
 7. die Turnierleitungskommission 
 8. die Jugendförderungskommission
 
----
 
 # Mitgliederversammlung 
 
@@ -202,7 +184,6 @@ Organe des Verbandes sind
 
 7. Die Mitgliederversammlung ist, soweit nichts anderes bestimmt beschlussfähig, wenn mindestens 1/3 der stimmberechtigten Personen anwesend sind. In der Einladung zur Mitgliederversammlung kann für den Fall der Beschlussunfähigkeit bereits zu einer zweiten Mitgliederversammlung, die am gleichen Tage unmittelbar an die Feststellung der Beschlussunfähigkeit und am gleichen Ort wie die erste stattfindet, geladen werden. Diese zweite Mitgliederversammlung findet mit derselben Tagesordnung wie sie zur ersten Mitgliederversammlung vorgesehen war, statt und ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig. Auch darauf ist ausdrücklich in der Einladung hinzuweisen.
 
----
 
 # Zuständigkeiten der Mitgliederversammlung 
 
@@ -214,7 +195,6 @@ Organe des Verbandes sind
 6. Sie beschließt über die Prüfung und Abnahme des Haushaltsplanes und der Jahresabrechnung. 
 7. Die Mitgliederversammlung kann die Bestellung des Vorstandes oder einzelner Mitglieder des Vorstandes widerrufen, wenn ein wichtiger Grund vorliegt. Ein solcher Grund ist insbesondere grobe Pflichtverletzung oder Unfähigkeit. Der Widerruf kann nur mit einer Mehrheit von 3/4 der anwesenden Stimmberechtigten beschlossen werden.
 
----
 
 # Vorstand 
 
@@ -293,7 +273,6 @@ d) Der Hauptkassierer verwaltet die Kasse und stellt den Jahresabschluss und den
 
 12. Der Vorstand übt sein Amt ehrenamtlich aus. Für die Tätigkeit kann eine angemessene Aufwandsentschädigung (Ehrenamtspauschale im Sinne des § 3 Nr. 26a EStG) gezahlt werden, die nach Maßgabe eines Beschlusses der Mitgliederversammlung unter Beachtung steuerlicher Grundsätze festgelegt werden. Reisekosten, Aufwandsentschädigungen (Ehrenamtspauschale im Sinne des § 3 Nr. 26a EStG) und sonstige Auslagen sowie Aufwendung gen werden auf Antrag ersetzt. Als Tätigkeitsvergütung gilt auch die Überlassung einer Spendenquittung, indem entweder der Verein dem Vorstandsmitglied eine Vergütung zahlt, welche es dem Verein zurückzahlt, oder durch Verzicht auf die Auszahlung eines entstandenen Vergütungsanspruchs und damit dem Verein den Vergütungsanspruch spendet.
 
----
 
 # Geschäftsführender Vorstand 
 
@@ -307,7 +286,6 @@ d) der Hauptkassierer.
 
 3. Der Gesamtvorstand ist über die Tätigkeiten des geschäftsführenden Vorstandes laufend zu informieren
 
----
 
 # Schiedsgericht 
 
@@ -336,7 +314,6 @@ e) Ausschluss aus dem Verein (nur durch Gesamtvorstand)
 f) Zwangsabstieg oder Aufstiegssperre 
 g) Ferner können Spielergebnisse annulliert und Spielpaarungen teilweise oder vollständig neu angesetzt werden.
 
----
 
 # Protokollierung von Beschlüssen 
 
@@ -344,7 +321,6 @@ g) Ferner können Spielergebnisse annulliert und Spielpaarungen teilweise oder v
 
 Das Protokoll der Mitgliederversammlung ist innerhalb einer Frist von vier Wochen nach Durchführung der Mitgliederversammlung auf der Homepage des STFV zu veröffentlichen. Die übrigen Protokolle werden den dies beantragenden und betroffenen Mitgliedern zur Einsichtnahme vorgelegt.
 
----
 
 # Rechnungs- und Kassenprüfer 
 
@@ -354,7 +330,6 @@ Das Protokoll der Mitgliederversammlung ist innerhalb einer Frist von vier Woche
 
 3. Kassenprüfer erstatten der Mitgliederversammlung einen Prüfungsbericht und beantragen bei ordnungsgemäßer Führung die Entlastung des Hauptkassierers.
 
----
 
 # Abstimmungen und Wahlen 
 
@@ -366,11 +341,9 @@ Die Wahl des 1. Vorsitzenden findet unter der Leitung eines von der Versammlung 
 
 3. Anträge auf Änderung der Satzung sind beim Verbandsvorstand schriftlich per Einschreiben, bis zum 01.12. eines jeden Jahres einzureichen. Sie sind bei der Einberufung der Mitgliederversammlung den Vereinen zugleich mit der Tagesordnung bekanntzugeben. Im Fall der Übermittlung per E-Mail liegt die Beweislast der Kenntnisnahme des Empfängers beim Absender. Die Mitgliederversammlung kann Änderungen der Satzung nur mit einer 3/4Stimmenmehrheit beschließen.
 
----
 
 **AUFLÖSUNG DES VERBANDES** 
 
----
 
 # Auflösung des Verbandes 
 

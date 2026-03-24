@@ -6,12 +6,10 @@ section_numbering: arabic
 pdf: /assets/pdf/Ordnung_der_Sport-und_Regelkommission.pdf
 ---
 
----
 
 * TOC
 {:toc}
 
----
 
 Aus Gründen der besseren Lesbarkeit wird auf die gleichzeitige Verwendung der Sprachformen männlich, weiblich und divers (m/w/d) verzichtet. 
 
@@ -20,38 +18,32 @@ Sämtliche Personenbezeichnungen gelten gleichermaßen für alle Geschlechter.
 Die Ordnung der Sport- und Regelkommission kann durch die Delegiertenversammlung der
 SpoRKom kontinuierlich ergänzt bzw. geändert werden. 
 
----
 
 # Name/Begriff
 
 Der Name „Sport- und Regelkommission“ wird im weiteren Text mit **SpoRKom** abgekürzt.
 
----
 
 # Zweck
 
 Die SpoRKom ist zuständig für alle Änderungen und Ergänzungen der Spielordnung classic (SPO classic), der Spielordnung pro (SPO pro), des Regelwerks STFV sowie der Ordnung der SpoRKom des Saarländischen Tischfußballverbandes e. V. (STFV). 
 
----
 
 # Ziele
 
 Die SpoRKom hat das Ziel, zukunftsweisende und effektive Änderungen sowie Ergänzungen aller Spielordnungen zeitnah umzusetzen. 
 
----
 
 # Organe der SpoRKom
 
 a. Leiter der SpoRKom 
 b. Delegiertenversammlung der SpoRKom 
 
----
 
 # Zusammensetzung
 
 a) Die SpoRKom setzt sich zusammen aus dem Leiter der SpoRKom, seinem Stellvertreter, dem STFV-Vorsitzenden oder einem Stellvertreter, dem Schiedsgerichtsvorsitzenden oder einem Stellvertreter sowie je einem Vertreter aller Mitgliedsvereine.
 
----
 
 # Wahlen
 
@@ -65,7 +57,6 @@ bei dem nicht stimmberechtigten Schriftführer = unbestimmt.
 
 Bei Rücktritt oder Ausfall des Leiters übernimmt der stellvertretende Leiter kommissarisch die Geschäfte des Leiters.
 
----
 
 # Antragstellung und Bearbeitung
 
@@ -75,7 +66,6 @@ Anträge an die SpoRKom müssen mindestens 2 Wochen vor dem Sitzungstermin der n
 
 Inhaltliche Änderungen können während der Behandlung des Antrages von den anwesenden Delegierten gemeinsam vorgenommen werden. Angenommene Anträge werden dann entsprechend neu formuliert in die SPO bzw. in die Ordnung der SpoRKom aufgenommen.
 
----
 
 # Delegiertenversammlung der SpoRKom
 
@@ -93,4 +83,3 @@ Es können jeweils nur Vereinsvertreter abstimmen, die auch in den entsprechende
 
 Abgestimmt wird mit einfacher Mehrheit der jeweils zum Zeitpunkt der Abstimmung anwesenden Delegierten. Bei Pattsituationen entscheidet die Stimme des Vorsitzenden.
 
----

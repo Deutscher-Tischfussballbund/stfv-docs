@@ -5,12 +5,10 @@ section_numbering: arabic
 pdf: /assets/pdf/Spielordnung_Pro.pdf
 ---
 
----
 
 * TOC
 {:toc}
 
----
 
 # Allgemeines 
 
@@ -23,7 +21,6 @@ Vokabular:
 Ein Leistungsliga-Spieltag besteht aus paarweisen Begegnungen der Leistungsliga Mannschaften Eine Begegnung wird zwischen zwei Mannschaften ausgetragen, wobei die erstgenannte als Heim und die Zweitgenannte als Gastmannschaft fungiert. 
 Für das Ergebnis einer Begegnung werden Mannschaftspunkte vergeben. Eine Begegnung besteht aus mehreren Spielen (Doppel und Einzel) Ein Spiel besteht aus einem oder mehreren Sätzen. Für das Ergebnis eines Spiels werden Spielpunkte vergeben.
 
----
 
 # Spieljahr, Spielort und Spieltermine 
 
@@ -33,7 +30,6 @@ Diese Absage kann auch zeitlich begrenzt sein. Die Leistungsligaspieltage werden
 
 Der Vorstand kann Terminänderungen bzw. Spielverlegungen anordnen. Die Vereine sind berechtigt, in begründeten Fällen Spielverlegungen zu beantragen. Hierzu muss eine Einverständniserklärung des jeweiligen Gegners mit Angabe des neuen Termins (Datum und Uhrzeit) mindestens 3 Wochen vor dem ursprünglichen Termin bei der STFV- Geschäftsstelle eingereicht werden. Der Spielort wird von der Spielbetriebskommission oder der Leistungssportkommission festgelegt.
 
----
 
 # Spieltische und Spielbälle 
 
@@ -43,7 +39,6 @@ Das Spielfeld wird als der Bereich oberhalb der Spielfläche bis zu den Oberflä
 
 Andererseits ist der Ball, der die Oberkante der Seitenwände trifft oder die Kopfenden des Tisches und anschließend auf die Spielfläche zurückkehrt, weiterhin im Spiel. Der Einsatz von Zusatzstoffen auf der Spielfläche oder den Bällen ist nicht erlaubt. Für die Bereitstellung der Spieltische sind folgende Kriterien einzuhalten Die Spielführer müssen sich vor dem Spiel von dem ordnungsgemäßen Zustand des Spieltisches überzeugen.
 
----
 
 # Mannschaftsmeldung 
 
@@ -51,7 +46,6 @@ An der Leistungsliga können ausschließlich Mannschaften teilnehmen, deren Vere
 
 Nichtantreten einer Mannschaft Stehen einer Mannschaft am Spieltag weniger als 4 Spieler zur Verfügung, ist dies ein Nichtantreten Ist eine Mannschaft am Spielort anwesend und tritt jedoch aus irgendwelchen Gründen nicht an, so ist dies mit einem Nichtantreten gleichzusetzen. In all diesen Fällen wird die betreffende Mannschaft gemäß § 11 der Gebührenordnung (GO) mit einer Ordnungsstrafe für Nichtantreten belegt.
 
----
 
 # Spielerlaubnis 
 
@@ -62,13 +56,11 @@ Während der laufenden Saison kann ein Spieler nur für einen Verein gemeldet we
 Ein Spieler, der viermal in ununterbrochener Folge an Pflichtspieltagen einer übergeordneten Mannschaft eingesetzt wurde, muss 2 Pflichtspieltage aussetzen, bevor er wieder in einer untergeordneten Mannschaft eingesetzt werden darf. 
 Ein Spieler eines Vereins mit mehreren Mannschaften kann an einem Spieltag im gleichen Wettbewerb nur einmal an dem laut Spielplan festgesetzten Pflichtspiel eingesetzt werden. Ein Einsatz eines Spielers ist schon dann als gegeben anzusehen, wenn der Name bzw. die Passnummer auf dem Spielbericht erscheinen. Diese Regelung gilt auch: bei einem vorverlegten Pflichtspiel bei einem späteren Termin eines verlegten Pflichtspiels bei einem Wiederholungsspiel Spieler können an möglichen Playoffs, Relegations- und Entscheidungsspielen nur teilnehmen, wenn sie die komplette Saison für den Verein gemeldet waren oder in laufender Saison mindestens 3 Spiele für die Mannschaft bestritten haben. Dies gilt auch für Spieler eines Vereins mit mehreren Mannschaften bei einem Einsatz in untergeordneten Mannschaften. Bei Einsatz eines nicht spielberechtigten Spielers werden die entsprechenden Sätze mit Beteiligung des nicht spielberechtigten Spielers als verloren gewertet (0:2 Punkte und 0:6 Tore). Sind in einem Satz in beiden Mannschaften nicht spielberechtigte Spieler eingesetzt, so ist dieser Satz mit 5:5 Toren und 1:1 Punkten als Unentschieden zu werten. Die Spielberechtigung richtet sich immer nach dem ursprünglich im Spielplan festgelegten Termin.
 
----
 
 # Spielerpass 
 
 Teilnahmeberechtigt an der Leistungsliga sind nur solche Spieler, die im Besitz einer Spielerlaubnis des STFV sind. 
 
----
 
 # Mannschaftsaufstellung, Spielbeginn 
 
@@ -76,7 +68,6 @@ Die Leistungssportkommission legt den Spielbeginn fest. Die Vereine werden darü
 
 Die zweite Mannschaft (Gast) ist dazu verpflichtet, nach der Beendigung der Begegnung den Spielbericht auf seine Vollständigkeit und Richtigkeit zu prüfen und mit der Unterschrift zu bestätigen. Die Mannschaftsaufstellungen sind vor Beginn der Begegnung vollständig einzutragen. Die Heimmannschaft (erstgenanntes Team) hat in ihrer Einspielzeit von 30 min bis 15 min vor Spielbeginn die Gelegenheit einige Trainingsbälle zu schießen. Die Gastmannschaft (Zweitgenanntes Team) hat in ihrer Einspielzeit von 15 min vor Spielbeginn bis Spielbeginn die Gelegenheit einige Trainingsbälle zu schießen.
 
----
 
 # Spielmodus 
 
@@ -84,7 +75,6 @@ Der Spielmodus wird von der STFV - Leistungssportkommission für die jeweilige S
 
 Der Gewinner entscheidet sich zwischen Bonzini und Leo. Der Verlierer bestimmt auf welcher Seite von seinem Team die gesamte Partie bestritten wird. Die Seitenwahl gilt für beide Tische. Die Mannschaften haben an ihrem jeweiligen Heimtisch immer Ballbesitz zum Spielstart auf der 5er – Reihe. Mit einem 2. Münzwurf wird entschieden auf welchem Tisch das erste Spiel ausgetragen wird. Nach jedem Spiel wird der Tisch gewechselt. (Bsp.: ungerade 1,3,5……15 am Bonzini, 2,4, 6….16 am Leo). Für die untergeordneten Ligen gilt: Die Seitenwahl wird per Münzwurf gelost. Nach der Hälfte der Spiele muss sowohl das Anstoßrecht, als auch die Seite gewechselt werden.
 
----
 
 # Spielwertung und Spielablauf 
 
@@ -96,7 +86,6 @@ Der Gewinner entscheidet sich zwischen Bonzini und Leo. Der Verlierer bestimmt a
 
 (4) Der Spielmodus wird jährlich von der Leistungssportkommission festgelegt und rechtzeitig vor der neuen Saison bekannt gegeben.
 
----
 
 # Tabellen / Platzierung 
 
@@ -108,7 +97,6 @@ Der Gewinner entscheidet sich zwischen Bonzini und Leo. Der Verlierer bestimmt a
 
 (4) Scheidet ein Verein während der Saison aus der Pflichtspielrunde (ausgenommen Playoffs) aus, so gelten alle Spiele für die Gegner als gewonnen, auch die, welche bereits ausgetragen wurden.
 
----
 
 # Protest und Einspruch 
 
@@ -116,7 +104,6 @@ Proteste resultieren aus den Pflichtspielen der Leistungsliga. Proteste sind auf
 
 Der Protest bzw. Einspruch eines Vereins wird nur wirksam, wenn die Gebühr in voller Höhe laut Gebührenordnung eingereicht wurde. Wird dem Protest bzw. Einspruch eines Vereins stattgegeben und eine Bestätigung in der entsprechenden Schiedsgerichtssitzung erzielt, so wird die Protest- bzw. Einspruchsgebühr erstattet.
 
----
 
 # Regelung des Auf- und Abstiegs 
 
@@ -124,7 +111,6 @@ Der Protest bzw. Einspruch eines Vereins wird nur wirksam, wenn die Gebühr in v
 
 (2) Relegationsspiele zwischen Landesliga und Verbandsliga finden nur am Bonzini statt. 
 
----
 
 # Mitteilung der Pflichtspielergebnisse und Einsendung des Spielberichtes 
 
@@ -142,7 +128,6 @@ Der Protest bzw. Einspruch eines Vereins wird nur wirksam, wenn die Gebühr in v
 
 (7) Die Klassenleiter sind verpflichtet jeden verspätet eingehenden Spielbericht mit einem Eingangsdatum zu versehen und den Verein mit einer Ordnungsstrafe zu belegen. 
 
----
 
 # Schiedsrichter 
 

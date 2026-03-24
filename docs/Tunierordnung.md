@@ -6,18 +6,15 @@ section_numbering: arabic
 pdf: /assets/pdf/Tunierordnung.pdf
 ---
 
----
 
 * TOC
 {:toc}
 
----
 
 # Allgemeines
 
 Diese Turnierordnung legt die grundsätzlichen Anforderungen, Regelungen und Abläufe der Ranglistenturniere zur Wertung für die offizielle Saarländische Tischfußballrangliste fest. Sie gilt als Ergänzung der in der STFV-Spielordnung festgelegten Regelungen und bietet eine Orientierungshilfe für die Organisation.
 
----
 
 # Kategorien
 
@@ -28,7 +25,6 @@ Der Ranglistenturniere Der STFV unterscheidet als Verantwortlicher der Saarländ
 - DTFB-Challenger-Turniere die im Saarland ausgetragen werden 
 - STFV-Mini Challenger
 
----
 
 # Wertungsdisziplinen
 
@@ -44,7 +40,6 @@ Bei Turnieren mit den Kategorien Junioren und Senioren gelten folgende Regelunge
 
 Das Spielen in einer Disziplin (Beispiel Doppel) ist nicht in verschiedenen Kategorien gleichzeitig möglich. Ausnahmen müssen bei der Turnierkommission beantragt und abgestimmt werden.
 
----
 
 # Technisches Equipment
 
@@ -56,13 +51,11 @@ für die Spieler Mindestvoraussetzungen bei Turnieren ab 5 Tischen sind:
 - Beschallungsanlage mit Mikrofon für die Aufrufe 
 - Turniersoftware: Für die Ausrichtung ist entweder die „TiFu–Turniersoftware" oder die SportSoftware „Kickertool“ zu benutzen. Beide Programme können kostenlos unter https://dtfb.de/kickern/software runtergeladen werden. - Abweichungen zu den Turniervoraussetzungen müssen bei der Turnierkommission beantragt werden.
 
----
 
 # Beantragung
 
 Ranglistenturniere sollten mindestens 4 Wochen vor Ausrichtung als solche per Mail an den Leiter der Turnierkommission beantragt werden. Eine vollständige Ausschreibung hat dem Antrag spätestens zwei Wochen vor Turnierstart beizuliegen. Die Bekanntmachung erfolgt unter dem Kalender auf der STFV-Webseite. Ranglistenturniere der Kategorie C und Mini-Challenger müssen eine Woche vor Ausrichtung bei dem Leiter der Turnierkommission per Mail beantragt werden, sowie im Forum der STFV-Homepage veröffentlicht werden.
 
----
 
 # Classictuniere
 
@@ -141,7 +134,6 @@ Beanstandete Bälle sind von der Turnierleitung zu beurteilen.
 
 An den STFV-Saarlandmeisterschaften ist teilnahmeberechtigt, wer als aktiver Spieler für einen Classic STFV-Verein gemeldet ist. Außerdem dürfen nicht aktive Spieler teilnehmen, wenn sie ihren Erstwohnsitz im Saarland haben. Bei sonstigen STFV-Ranglistenturnieren besteht keine Einschränkung.
 
----
 
 # Pro-Turniere
 
@@ -158,43 +150,36 @@ Die Turniere können jederzeit stattfinden, auch unter der Woche und müssen led
 
 An den STFV-Saarlandmeisterschaften ist teilnahmeberechtigt, wer als aktiver Spieler für einen Pro STFV-Verein gemeldet ist. Außerdem dürfen nicht aktive Spieler teilnehmen, wenn sie ihren Erstwohnsitz im Saarland haben. Ist eine STFV-Saarlandmeisterschaft ein Qualifikationsturnier für ein Turnier des DTFB, so dürfen nur die Personen teilnehmen, welche auch am DTFB-Turnier teilnahmeberechtigt wären.
 
----
 
 # Regelwerk und Fairplay
 
 STFV-Ranglistenturniere werden nach den offiziellen Tischfußballregeln des STFV gespielt (Regelwerk STFV) DTFB und ITSF-Turniere werden nach den offiziellen Tischfußballregeln des ITSF gespielt. Alle Angelegenheiten, welche das Regelwerk betreffen, liegen in der Verantwortlichkeit des oder der Schiedsrichter. Diese werden von der Turnierleitung berufen. Jedes unethische oder unsportliche Verhalten während des Spiels kann mit Verlust eines Satzes oder eines Spiels und sogar mit Turnierausschluss bestraft werden. Ob ein solches Verhalten vorliegt und welche Strafe verhängt wird, entscheidet die Turnierleitung im konkreten Fall. Bei Anwesenheit von Mitgliedern der Turnierkommission können diese auch zu Rate gezogen werden.
 
----
 
 # Schiedsrichter
 
 Die Spieler können Schiedsrichter für einzelne Begegnungen zu Beginn oder im Laufe einer Begegnung anfordern. Die je nach Verfügbarkeit durch die Turnierleitung eingeteilten Schiedsrichter können nicht abgelehnt werden. Die Kosten für den Schiedsrichter betragen 1€ Organisationspauschale plus 1€ pro angefangenen Satz (Beispiel: für 3 Sätze erhält der Schiedsrichter 1€ + 3€ = 4€). Die Schiedsrichtergebühr wird jeweils von den beiden Teams am Ende der Begegnung beglichen. Diese ist als Fallpauschale anzusehen und ist auch zu zahlen, wenn die Begegnung zu Beginn des Schiedsrichtereinsatzes schon nahezu fertig gespielt war.
 
----
 
 # Ergebnisse
 
 Die vollständigen Ergebnisse der Turniere sind spätestens drei Tage nach Turnierende an die Turnierkommission zu melden. Für die Ausrichtung ist die „TIFU-Software“ zu benutzen, da sie fortlaufende Platzierungen berechnet und mit dem Datenimport auf der STFV-Webseite kompatibel ist.
 
----
 
 # Ranglisten
 
 Die aktuellen Ranglisten sind auf der STFV-Webseite zu finden. Informationen zur Punktewertung sind unter dem Zusatzdokument „Punktewertung & Qualifikation“ auf der STFVWebseite aufgeführt.
 
----
 
 # Veröffentlichung von Daten
 
 Mit der Teilnahme an STFV-Ranglistenturnieren willigen die Spieler ein, dass ihre Daten wie beispielsweise Name, Vorname, Geschlecht, Altersklasse und Vereinszugehörigkeit sowie ihre Erfolge, Fotos und Filmaufnahmen veröffentlicht werden dürfen.
 
----
 
 # Verantwortung der Ausrichter 
 
 Die Ausrichter von STFV-Ranglistenturnieren sind verpflichtet, die Interessen des STFV zu fördern und alles zu unterlassen, wodurch das Ansehen des Tischfußballsports geschädigt werden könnte. Beschlüsse des STFV sind einzuhalten. Der Ausrichter wird den STFV von jeglicher Art der Haftung freihalten. Durch Vergabe des Status "STFV-Ranglistenturnier" entstehen keinerlei Ansprüche gegenüber dem STFV.
 
----
 
 # Änderungen der Turnierordnung 
 
