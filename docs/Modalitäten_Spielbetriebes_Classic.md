@@ -1,6 +1,6 @@
 ---
 title: "Modalitäten des Spielbetriebes Classic"
-date: "{{ site.time | date: '%d.%m.%Y' }}"
+date: '{{ site.time | date: "%d.%m.%Y" }}'
 section_numbering: arabic
 pdf: /assets/pdf/Modalitäten_Spielbetriebes_Classic.pdf
 ---

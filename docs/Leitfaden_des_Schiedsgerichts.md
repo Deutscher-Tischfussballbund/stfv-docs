@@ -1,6 +1,6 @@
 ---
 title: "Leitfaden des Schiedsgerichts"
-date: "{{ site.time | date: '%d.%m.%Y' }}"
+date: '{{ site.time | date: "%d.%m.%Y" }}'
 section_numbering: arabic
 pdf: /assets/pdf/Leitfaden_Schiedsgericht.pdf
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Satzung"
 subtitle: "des STFV e.V."
-date: "{{ site.time | date: '%d.%m.%Y' }}"
+date: '{{ site.time | date: "%d.%m.%Y" }}'
 section_numbering: paragraph
 pdf: /assets/pdf/Satzung.pdf
 ---

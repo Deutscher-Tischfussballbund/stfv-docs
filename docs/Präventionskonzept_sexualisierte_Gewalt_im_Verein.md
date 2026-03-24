@@ -1,6 +1,6 @@
 ---
 title: "Präventionskonzept: Sexualisierte Gewalt im Verein"
-date: "{{ site.time | date: '%d.%m.%Y' }}"
+date: '{{ site.time | date: "%d.%m.%Y" }}'
 section_numbering: arabic
 pdf: /assets/pdf/Präventionskonzept_sexualisierte_Gewalt_im_Verein.pdf
 ---

@@ -1,6 +1,6 @@
-# BTFV Verbandsdokumente
+# STFV Verbandsdokumente
 
-Offizielle Dokumente des Bayerischen Tischfußballverbands e.V. (BTFV) als Markdown-Quellen.
+Offizielle Dokumente des Saarländischen Tischfußballverbands e.V. (STFV) als Markdown-Quellen.
 Die Website und PDFs werden automatisch per GitHub Actions generiert und auf GitHub Pages veröffentlicht.
 
 ---
@@ -18,7 +18,7 @@ Jedes Dokument beginnt mit einem YAML-Header:
 ```yaml
 ---
 title: "Satzung"
-subtitle: "des BTFV e.V."          # optional
+subtitle: "des STFV e.V."          # optional
 date: "{{ site.time | date: '%d.%m.%Y' }}"
 section_numbering: paragraph        # paragraph | arabic | weglassen = keine
 pdf: /assets/pdf/satzung.pdf       # für Download-Link auf der Website

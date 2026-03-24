@@ -1,7 +1,7 @@
 ---
 title: "Gebührenordnung"
 subtitle: "des STFV e.V."
-date: "{{ site.time | date: '%d.%m.%Y' }}"
+date: '{{ site.time | date: "%d.%m.%Y" }}'
 section_numbering: arabic
 pdf: /assets/pdf/Gebührenordnung.pdf
 ---
