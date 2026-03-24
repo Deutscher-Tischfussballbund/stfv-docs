@@ -170,27 +170,27 @@ Der über mehrere Jahre verteilte Umstrukturierungsprozess im Ligabetrieb Classi
 
 | **Name**                       | **zuständig für Liga**                                             |
 | ------------------------------ | ------------------------------------------------------------------ |
-| Waschbüsch Bernd               | Landesliga<br><br>Kreisliga Süd-Ost<br><br>Pokal<br><br>Relegation |
-| Huth Patrick                   | Verbandsliga<br><br>Kreisliga Nord-West                            |
-| Coppola Emanuele<br><br>&nbsp; | Bezirksliga Nord-West<br><br>Dieter Grenner Pokal                  |
+| Waschbüsch Bernd               | Landesliga<br>Kreisliga Süd-Ost<br>Pokal<br>Relegation             |
+| Huth Patrick                   | Verbandsliga<br>Kreisliga Nord-West                                |
+| Coppola Emanuele               | Bezirksliga Nord-West<br>Dieter Grenner Pokal                      |
 | Jost Lars                      | Bezirksliga Süd-Ost                                                |
 
 **Anhang:**
 
 **SPO Classic § 5 Spielberechtigung**
 
-- 1. Die Vereine sind verpflichtet, zu dem vom Verband festgesetzten Termin die Anzahl der Mannschaften und die Spieler ihres Vereins zu benennen.
-- 2. Ein Verein, der mehr als eine Mannschaft in einer mehrgleisigen Liga spielen hat, darf einen Spieler dieser Mannschaften nur zwei Verbandsspiele gegen eine andere Mannschaft dieser Liga einsetzen. Ein Spieler, der in einer eingleisigen Liga in einem Pflichtspiel (nicht Pokalspiel) eingesetzt wurde kann in der anderen Mannschaft der gleichen Liga erst eingesetzt werden, wenn er ununterbrochen 8 Pflichtspieltage (ohne Berücksichtigung der Pokalspiele) nicht mehr in dieser Mannschaft eingesetzt war. Für den Pokalwettbewerb gilt auch für diese Vereine die übliche Regelung des § 5 Abs. 4 SPO."
-- 3. Ein Spieler, der dreimal in ununterbrochener Folge an Pflichtspielen (ohne Pokalspiele) einer übergeordneten Mannschaft eingesetzt wurde, muss zwei Punktspieltage (nicht Pokalspiele) in ununterbrochener Folge aussetzen, bevor er wieder in einer untergeordneten Mannschaft eingesetzt werden darf. Verstöße werden gem. § 5 SPO Abs. 7 geahndet.
-- 4. Die Spielberechtigung für die Pokalspiele ergibt sich aus den Einsätzen in der Verbandsrunde. Spieler, die für eine untergeordnete Mannschaft für ein Punktspiel spielberechtigt wären, sind es auch für ein Pokalspiel.
-- 5. Ein Spieler eines Vereins mit mehreren Mannschaften kann an einem Pflichtspieltag im gleichen Wettbewerb nur einmal an dem laut Spielplan festgesetzten Pflichtspiel eingesetzt werden.
-- 6. Ein Einsatz eines Spielers ist schon dann als gegeben anzusehen, wenn der Name bzw. die Passnummer auf dem Spielbericht erscheint. Diese Regelung gilt auch:
-  - bei einem vorverlegten Pflichtspiel
-  - bei einem späteren Termin eines verlegten Pflichtspieles
-  - bei einem Wiederholungsspiel
+1. Die Vereine sind verpflichtet, zu dem vom Verband festgesetzten Termin die Anzahl der Mannschaften und die Spieler ihres Vereins zu benennen.
+2. Ein Verein, der mehr als eine Mannschaft in einer mehrgleisigen Liga spielen hat, darf einen Spieler dieser Mannschaften nur zwei Verbandsspiele gegen eine andere Mannschaft dieser Liga einsetzen. Ein Spieler, der in einer eingleisigen Liga in einem Pflichtspiel (nicht Pokalspiel) eingesetzt wurde kann in der anderen Mannschaft der gleichen Liga erst eingesetzt werden, wenn er ununterbrochen 8 Pflichtspieltage (ohne Berücksichtigung der Pokalspiele) nicht mehr in dieser Mannschaft eingesetzt war. Für den Pokalwettbewerb gilt auch für diese Vereine die übliche Regelung des § 5 Abs. 4 SPO."
+3. Ein Spieler, der dreimal in ununterbrochener Folge an Pflichtspielen (ohne Pokalspiele) einer übergeordneten Mannschaft eingesetzt wurde, muss zwei Punktspieltage (nicht Pokalspiele) in ununterbrochener Folge aussetzen, bevor er wieder in einer untergeordneten Mannschaft eingesetzt werden darf. Verstöße werden gem. § 5 SPO Abs. 7 geahndet.
+4. Die Spielberechtigung für die Pokalspiele ergibt sich aus den Einsätzen in der Verbandsrunde. Spieler, die für eine untergeordnete Mannschaft für ein Punktspiel spielberechtigt wären, sind es auch für ein Pokalspiel.
+5. Ein Spieler eines Vereins mit mehreren Mannschaften kann an einem Pflichtspieltag im gleichen Wettbewerb nur einmal an dem laut Spielplan festgesetzten Pflichtspiel eingesetzt werden.
+6. Ein Einsatz eines Spielers ist schon dann als gegeben anzusehen, wenn der Name bzw. die Passnummer auf dem Spielbericht erscheint. Diese Regelung gilt auch:
+    - bei einem vorverlegten Pflichtspiel
+    - bei einem späteren Termin eines verlegten Pflichtspieles
+    - bei einem Wiederholungsspiel
 - Spieler können an Relegationsspielen, Entscheidungsspielen und Pokalspielen (ab Viertelfinale) nur teilnehmen, wenn sie in laufender Saison mindestens 5 Pflichtspiele (nicht Pokalspiele) für den Verein bestritten haben oder sie die komplette Rückrunde für den Verein spielberechtigt waren.
 - Spieler die laut Einsatzstatistik überwiegend (mehr als 50 % ihrer Pflichtspiele) ohne Pokalspiele in dieser oder einer untergeordneten Mannschaft eingesetzt waren, sind für ein Entscheidungs- und Relegationsspiel spielberechtigt. Hierbei sind unbedingt die Regelungen aus § 5 Abs. 2 - 4 zu beachten.
 - Der Einsatz von Spielern die laut Einsatzstatistik nicht eindeutig dieser Mannschaft zugeordnet werden kann, ist auf maximal 4 Spieler begrenzt.
   - Begriffserklärung: Der Begriff „untergeordnete Mannschaft" beziehungsweise „übergeordnete Mannschaft" ergibt sich aus der Klassenzugehörigkeit und der Klassifizierung (Beispiel: 3. Mannschaft ist der 2. Mannschaft und eine Bezirksligamannschaft ist der Verbandsligamannschaft untergeordnet).
-- 7. Die Spielberechtigung richtet sich immer nach dem ursprünglich im Spielplan festgelegten Termin.
-- 8. Bei Einsatz eines nicht spielberechtigten Spielers wird das Doppel als verloren gewertet (0:4 Punkte). Sind in einer Begegnung in beiden Mannschaften nicht spielberechtigte Spieler eingesetzt, so ist das Doppel mit 2:2 Punkten zu werten. Darüber hinaus erfolgt eine gebührenpflichtige Ahndung gem. § 11 Abs.10 der GO.
+7. Die Spielberechtigung richtet sich immer nach dem ursprünglich im Spielplan festgelegten Termin.
+8. Bei Einsatz eines nicht spielberechtigten Spielers wird das Doppel als verloren gewertet (0:4 Punkte). Sind in einer Begegnung in beiden Mannschaften nicht spielberechtigte Spieler eingesetzt, so ist das Doppel mit 2:2 Punkten zu werten. Darüber hinaus erfolgt eine gebührenpflichtige Ahndung gem. § 11 Abs.10 der GO.
