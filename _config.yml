@@ -10,7 +10,7 @@ relative_links:
 
 defaults:
   - scope:
-      path: "stfv-docs"
+      path: ""
     values:
       layout: default
       template: stfv
