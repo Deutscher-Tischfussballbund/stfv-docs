@@ -42,9 +42,6 @@ Der Verband hat seinen Sitz in 66564 Ottweiler. Er ist im Vereinsregister beim A
 6. Der Wirkungsbereich des Verbandes erstreckt sich auf das Saarland und das angrenzende Rheinland/Pfalz
 
 
-**MITGLIEDSCHAFT**
-
-
 # Ziele und Aufgaben 
 
 Der Verband will seinen Mitgliedern sachgerechten Sport ermöglichen durch: 
@@ -163,9 +160,6 @@ Die Mitgliedschaft endet durch Austritt, Ausschluss oder Auflösung des Verbande
 4. Wählbar ist jedes Vereinsmitglied nach vollendetem 18. Lebensjahr
 
 
-**WIRTSCHAFTSFÜHRUNG**
-
-
 # Wirtschaftsführung 
 
 1. Geschäftsjahr ist das Kalenderjahr. 
@@ -175,9 +169,6 @@ Die Mitgliedschaft endet durch Austritt, Ausschluss oder Auflösung des Verbande
 3. Der Vorstand des Verbandes hat nach Ablauf eines Rechnungsjahres der Mitgliederversammlung eine Jahresabrechnung vorzulegen. Diese muss sämtliche Einnahmen und Ausgaben nachweisen. 
 
 4. Der Kassenwart ist dem Vorstand und der Mitgliederversammlung für die ordnungsgemäße Führung der Kasse des Verbandes verantwortlich.
-
-
-**ORGANE**
 
 
 # Organe des Verbandes
@@ -376,9 +367,6 @@ Das Protokoll der Mitgliederversammlung ist innerhalb einer Frist von vier Woche
 Die Wahl des 1. Vorsitzenden findet unter der Leitung eines von der Versammlung gewählten Versammlungsleiters statt. Die Wahl der übrigen Vorstandsmitglieder leitet der 1. Vorsitzende. 
 
 3. Anträge auf Änderung der Satzung sind beim Verbandsvorstand schriftlich per Einschreiben, bis zum 01.12. eines jeden Jahres einzureichen. Sie sind bei der Einberufung der Mitgliederversammlung den Vereinen zugleich mit der Tagesordnung bekanntzugeben. Im Fall der Übermittlung per E-Mail liegt die Beweislast der Kenntnisnahme des Empfängers beim Absender. Die Mitgliederversammlung kann Änderungen der Satzung nur mit einer 3/4Stimmenmehrheit beschließen.
-
-
-**AUFLÖSUNG DES VERBANDES** 
 
 
 # Auflösung des Verbandes 
