@@ -170,7 +170,8 @@ Die Mitgliedschaft endet durch Austritt, Ausschluss oder Auflösung des Verbande
 
 # Organe des Verbandes
 
-Organe des Verbandes sind 
+Organe des Verbandes sind:
+
 1. die Mitgliederversammlung 
 2. der Vorstand 
 3. das Schiedsgericht. 
