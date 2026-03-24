@@ -51,7 +51,7 @@ Der STFV übernimmt Verantwortung für ein Krisenmanagement, das den Schutz, die
 # Beschwerdemanagement und Evaluation
 
 In Informationsrunden mit Spieler/innen und Eltern, werden Verhaltenskodex und –regeln angesprochen und über die relevanten Aspekte der Vereinbarung mit Trainer/innen und Betreuer/innen informiert. 
-Mit Hilfe von anonymen Online-Fragebögen (z.B. https://www.q-set.de/) werden Trainings- und Wettkampfangebote evaluiert. 
+Mit Hilfe von anonymen Online-Fragebögen (z.B. [q-set.de](https://www.q-set.de/)) werden Trainings- und Wettkampfangebote evaluiert. 
 Ein Bestandteil ist die Abfrage nach dem Wohlbefinden der Sportler/innen im Rahmen der Maßnahme sowie der Methoden im Hinblick auf emotionale, psychische oder physische Gewalt sowie ein Feld für sonstige Beschwerden. Verhaltensregeln: Die Aufgrund der Risikoanalyse entwickelten Verhaltensregeln für den Umgang mit Kindern und Jugendlichen bzw. Spieler/innen sind verpflichtend. 
 
 

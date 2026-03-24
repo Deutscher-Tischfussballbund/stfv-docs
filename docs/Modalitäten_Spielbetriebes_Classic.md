@@ -94,7 +94,7 @@ Der über mehrere Jahre verteilte Umstrukturierungsprozess im Ligabetrieb Classi
 
 # Anhang zu den Modalitäten des Spielbetriebes STFV
 
-**• Allgemeines**
+**Allgemeines**
 
 - Jeder Mannschaft eines Vereins, die ordnungsgemäß beim STFV gemeldet ist und deren Aufnahme durch denselben bestätigt wurde, steht die Möglichkeit zum Aufstieg in die nächsthöhere Spielklasse offen.
 - Die Zuteilung zu den mehrgleisigen Ligen erfolgt entsprechend regionalen Gesichtspunkten.
@@ -107,7 +107,7 @@ Der über mehrere Jahre verteilte Umstrukturierungsprozess im Ligabetrieb Classi
   - Bei mehrgleisigen Ligen ist gegebenenfalls ein Qualifikationsspiel oder eine Qualifikationsrunde notwendig. Findet sich auf diese Weise keine Mannschaft, die den frei gewordenen Startplatz in der Spielklasse einnimmt, so bleibt dieser in der Folgesaison entweder unbesetzt oder es erfolgt eine Sonderregelung.
   - Verzichtet eine Mannschaft auf ein mögliches Entscheidungs- oder Qualifikationsspiel, rückt keine Mannschaft nach und das Spiel wird für die gegnerische Mannschaft als gewonnen gewertet.
 
-**• Spielmodus**
+**Spielmodus**
 
 **Spielbeginn**
 

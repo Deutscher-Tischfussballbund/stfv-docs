@@ -32,8 +32,8 @@ Das Spiel gilt insbesondere als unterbrochen, wenn:
 
 # Ball im Aus
 
-• Als Spielfeld zählt alles, was zum Original-Spielgerät gehört. 
-• Verlässt der Ball den Spieltisch (Berühren von Körperteilen oder Zusatzbeleuchtung etc), egal an welcher Stelle, dann wird dieser im Abwehrbereich des Teams, welches zu Spielbeginn Anstoß hatte, (gegenüber dem Münzautomaten) neu aufgelegt.
+- Als Spielfeld zählt alles, was zum Original-Spielgerät gehört. 
+- Verlässt der Ball den Spieltisch (Berühren von Körperteilen oder Zusatzbeleuchtung etc), egal an welcher Stelle, dann wird dieser im Abwehrbereich des Teams, welches zu Spielbeginn Anstoß hatte, (gegenüber dem Münzautomaten) neu aufgelegt.
 
 
 # Toter Ball

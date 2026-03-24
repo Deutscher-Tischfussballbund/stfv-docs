@@ -49,7 +49,8 @@ Mindestvoraussetzungen bei Turnieren von bis zu 4 Tischen sind:
 für die Spieler Mindestvoraussetzungen bei Turnieren ab 5 Tischen sind: 
 - 1 PC - großer Monitor (min. 32 Zoll) oder Beamer mit Leinwand zur Anzeige des Turniergeschehens für die Spieler 
 - Beschallungsanlage mit Mikrofon für die Aufrufe 
-- Turniersoftware: Für die Ausrichtung ist entweder die „TiFu–Turniersoftware" oder die SportSoftware „Kickertool“ zu benutzen. Beide Programme können kostenlos unter https://dtfb.de/kickern/software runtergeladen werden. - Abweichungen zu den Turniervoraussetzungen müssen bei der Turnierkommission beantragt werden.
+- Turniersoftware: Für die Ausrichtung ist entweder die „TiFu–Turniersoftware" oder die SportSoftware „Kickertool“ zu benutzen. Beide Programme können kostenlos unter [dtfb.de/kickern/software](https://dtfb.de/kickern/software) runtergeladen werden.
+- Abweichungen zu den Turniervoraussetzungen müssen bei der Turnierkommission beantragt werden.
 
 
 # Beantragung

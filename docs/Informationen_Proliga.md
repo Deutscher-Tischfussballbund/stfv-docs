@@ -41,21 +41,21 @@ In den ersten drei Segmenten müssen sechs unterschiedliche Spieler eingesetzt w
 
 Aktuelle Regeln: 
 
- • Ein Match ist ein Race to 42 Punkte (mit 2 Punkten Differenz in der Hauptrunde/ Final Four) mit einer Folge von sieben Sechserschritten (7 Elemente). In der Vorrunde kann ein Spiel mit 41:41 unentschieden enden. 
+- Ein Match ist ein Race to 42 Punkte (mit 2 Punkten Differenz in der Hauptrunde/ Final Four) mit einer Folge von sieben Sechserschritten (7 Elemente). In der Vorrunde kann ein Spiel mit 41:41 unentschieden enden. 
 
- • Diese 7 Elemente werden von min 6, maximal 10 verschiedenen Spielern gespielt (siehe Mannschaftsaufstellung) in folgender Reihenfolge: D1, D2, D3, S1, D4, S2, D5
+- Diese 7 Elemente werden von min 6, maximal 10 verschiedenen Spielern gespielt (siehe Mannschaftsaufstellung) in folgender Reihenfolge: D1, D2, D3, S1, D4, S2, D5
 
  Spielanleitung: 
 
- • 180 Sekunden zwischen den Elementen zur Vorbereitung der Tische und zum Trainieren. 
+- 180 Sekunden zwischen den Elementen zur Vorbereitung der Tische und zum Trainieren. 
 
- • 1 Timeout von 45 Sekunden pro Element, diese können nicht in ein nachfolgendes Element mitgenommen werden. 
+- 1 Timeout von 45 Sekunden pro Element, diese können nicht in ein nachfolgendes Element mitgenommen werden. 
 
- • In jedem einzelnen Spiel können max. 10 Spieler spielen (davon maximal 2 Auswechselspieler) 
+- In jedem einzelnen Spiel können max. 10 Spieler spielen (davon maximal 2 Auswechselspieler) 
 
- • der 1.Ball des Matches wird auf dem ersten Tisch gespielt, dann wechselt der Tisch immer nach zwei gespielten Bällen, bis zum Ende des Spiels (Tie-Break-Format) 
+- der 1.Ball des Matches wird auf dem ersten Tisch gespielt, dann wechselt der Tisch immer nach zwei gespielten Bällen, bis zum Ende des Spiels (Tie-Break-Format) 
 
- • Haben Mannschaften den gleichen Heimtisch wird nur auf einem Tisch gespielt (Verbandsliga) 
+- Haben Mannschaften den gleichen Heimtisch wird nur auf einem Tisch gespielt (Verbandsliga) 
 
 
  # Wechselregelung  
@@ -80,23 +80,23 @@ Grundregeln:
 
 **A: Anzahl:**
 
- • Maximal 4 (maximale Kadergröße =10) Wechsel  
+- Maximal 4 (maximale Kadergröße =10) Wechsel  
 
 **B: Zeitpunkt:** 
 
- • Sobald in einem Segment 3 Tore gefallen sind, egal wer diese erzielt hat 
+- Sobald in einem Segment 3 Tore gefallen sind, egal wer diese erzielt hat 
 
-• Ein Wechsel kann zu Beginn eines neuen Segments erfolgen, jedoch nur, wenn der auszuwechselnde Spieler bereits in mindestens einem vorherigen Segment gespielt hat. 
+- Ein Wechsel kann zu Beginn eines neuen Segments erfolgen, jedoch nur, wenn der auszuwechselnde Spieler bereits in mindestens einem vorherigen Segment gespielt hat. 
 
  **C: Anzahl pro Segment**
 
- • Es darf pro Segment nur ein Wechsel vorgenommen werden 
+- Es darf pro Segment nur ein Wechsel vorgenommen werden 
 
- • Im Doppel dürfen beide Spieler im gleichen Timeout getauscht werden (kostet 2 Wechsel)  
+- Im Doppel dürfen beide Spieler im gleichen Timeout getauscht werden (kostet 2 Wechsel)  
 
 **D: Form des Wechsels**
 
- • Positionsgetreu: Der Einwechselspieler ersetzt den ausgewechselten Spieler auch in späteren Segmenten  
+- Positionsgetreu: Der Einwechselspieler ersetzt den ausgewechselten Spieler auch in späteren Segmenten  
 
 **E: Spezialfall Verletzungsbedingte Wechsel**
 
@@ -125,13 +125,13 @@ Eine Änderung der eingegebenen Daten ist nur am gleichen Kalendertag vor Beginn
 
 Die Tabellenwertung erfolgt in der Vorrunde nachfolgenden Kriterien: 
 
- ● Tabellenpunkte 
+- Tabellenpunkte
 
- ● Tordifferenz 
+- Tordifferenz
 
- ● direkter Vergleich 
+- direkter Vergleich
 
- ● per Penalty im Abstiegs- bzw. Aufstiegsbereich  
+- per Penalty im Abstiegs- bzw. Aufstiegsbereich  
 
 Nicht angetretene oder vorzeitig abgebrochene Segmente werden zu 0 für den Gegner gewertet. 
 

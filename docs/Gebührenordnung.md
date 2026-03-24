@@ -95,10 +95,13 @@ Den ehrenamtlichen Mitarbeitern des Verbandes sind entstehende Kosten nach den j
 
 1. Abgabe der Mannschaftsmeldung zwischen 21:00 und 21:15 Uhr für alle Ligen € 6,-- (§ 10 SPO)
 
-2. Nichtantreten einer Mannschaft bzw. Abgabe der Mannschaftsmeldung nach 21:30 Uhr (§10 SPO): 
-  a. Landesliga € 80,-- 
-  b. Verbandsliga € 55,-- 
-  c. Bezirks- und Kreisligen € 25,--
+2. Nichtantreten einer Mannschaft bzw. Abgabe der Mannschaftsmeldung nach 21:30 Uhr (§10 SPO):
+
+   <ol type="a">
+     <li>Landesliga € 80,--</li>
+     <li>Verbandsliga € 55,--</li>
+     <li>Bezirks- und Kreisligen € 25,--</li>
+   </ol>
 
 Im Wiederholungsfalle erfolgt neben der Ordnungsstrafe ein Punktabzug von 2 Pluspunkten in der Tabelle nach Abschluss der Verbandsrunde (nur Landes- und Verbandsliga). 
 
