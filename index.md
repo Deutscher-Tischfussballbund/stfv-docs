@@ -23,7 +23,6 @@ subtitle: "Offizielle Verbandsdokumente des Saarländischen Tischfußballverband
 | [Informationen zum Spielmodus und -ablauf Proliga 2026](docs/Informationen_Proliga.html) | <span style="white-space:nowrap">[PDF](assets/pdf/Informationen_Proliga.pdf)</span> |
 | [Modalitäten des Spielbetriebes STFV Classic für die Saison 2026](docs/Modalitäten_Spielbetriebes_Classic.html) | <span style="white-space:nowrap">[PDF](assets/pdf/Modalitäten_Spielbetriebes_Classic.pdf)</span> |
 
----
 
 ## Formulare des Verbandes
 
@@ -45,7 +44,6 @@ subtitle: "Offizielle Verbandsdokumente des Saarländischen Tischfußballverband
 | [Spielbericht Classic Cup](assets/pdf/static/spielbericht_classic_cup.pdf) | <span style="white-space:nowrap">[PDF](assets/pdf/static/spielbericht_classic_cup.pdf)</span> |
 | [Spielbericht Classic](assets/pdf/static/spielbericht_classic.pdf) | <span style="white-space:nowrap">[PDF](assets/pdf/static/spielbericht_classic.pdf)</span> |
 
----
 
 ## Protokolle des Verbandes
 
