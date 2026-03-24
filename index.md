@@ -5,7 +5,7 @@ subtitle: "Offizielle Verbandsdokumente des Saarländischen Tischfußballverband
 
 ## Statuten des Verbandes
 
-| Dokument | PDF |
+| Dokument | <span style="white-space:nowrap">PDF</span>  |
 |---|---|
 | [Awareness Konzept](docs/Awareness_Konzept.html) | <span style="white-space:nowrap">[PDF](assets/pdf/Awareness_Konzept.pdf)</span> |
 | [Datenschutzordnung](docs/Datenschutzordnung.html) | <span style="white-space:nowrap">[PDF](assets/pdf/Datenschutzordnung.pdf)</span> |
