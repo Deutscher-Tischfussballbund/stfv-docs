@@ -21,7 +21,7 @@ Das Spiel beginnt vor einem Satz oder nach einem Seitenwechsel auf der Mittelrei
 
 Das Spiel gilt insbesondere als unterbrochen, wenn: 
 
-<ol type=”a”>
+<ol type="a">
   <li>ein Schiedsrichter das Spiel durch „Stopp” unterbricht</li>
   <li>der Ball das Spielfeld verlassen hat</li>
   <li>der Ball „tot” liegt</li>
