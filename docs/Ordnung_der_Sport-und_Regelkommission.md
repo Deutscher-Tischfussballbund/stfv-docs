@@ -36,13 +36,19 @@ Die SpoRKom hat das Ziel, zukunftsweisende und effektive Änderungen sowie Ergä
 
 # Organe der SpoRKom
 
-a. Leiter der SpoRKom 
-b. Delegiertenversammlung der SpoRKom 
+<ol type="a">
+  <li>Leiter der SpoRKom</li>
+  <li>Delegiertenversammlung der SpoRKom</li>
+</ol>
+
 
 
 # Zusammensetzung
 
-a) Die SpoRKom setzt sich zusammen aus dem Leiter der SpoRKom, seinem Stellvertreter, dem STFV-Vorsitzenden oder einem Stellvertreter, dem Schiedsgerichtsvorsitzenden oder einem Stellvertreter sowie je einem Vertreter aller Mitgliedsvereine.
+<ol type="a">
+  <li>Die SpoRKom setzt sich zusammen aus dem Leiter der SpoRKom, seinem Stellvertreter, dem STFV-Vorsitzenden oder einem Stellvertreter, dem Schiedsgerichtsvorsitzenden oder einem Stellvertreter sowie je einem Vertreter aller Mitgliedsvereine.</li>
+</ol>
+
 
 
 # Wahlen

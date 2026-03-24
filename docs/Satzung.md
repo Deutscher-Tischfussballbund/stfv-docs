@@ -56,13 +56,17 @@ Der Verband will seinen Mitgliedern sachgerechten Sport ermöglichen durch:
 
 1. Der Verband nimmt jeden Tischfußballverein zum Mitglied auf, der seinen Sitz im Wirkungsbereich des Verbandes hat, sofern dieser die Ziele und Aufgaben des Verbandes mitzutragen bereit ist. 
 
-2. Der Verband unterscheidet in der Mitgliedschaft: 
-a.) Die ihm angeschlossenen Vereine 
-b) Aktive Mitglieder, die regelmäßig Sport treiben, d.h. am Spielbetrieb teilnehmen oder aktiv in der Vereinsführung tätig sind. 
-c) Passive Mitglieder, die bereit sind, an den Veranstaltungen des Verbandes teilzunehmen und die Aufgaben des Verbandes zu fördern. 
-d) Ehrenmitglieder und Ehrenvorsitzende, die sich in besonderer Weise um den Verband verdient gemacht haben. Sie werden von der Mitgliederversammlung auf Vorschlag des Gesamtvorstandes gemäß der geltenden Ehrenordnung ernannt. 
-e) Fördernde Mitglieder. 3. Der Saarländische Tischfußballverband ist Mitglied des Deutschen Tischfußballbundes e.V. Er gehört ferner unter Wahrung seiner rechtlichen, sportlichen und wirtschaftlichen Selbständigkeit als Fachverband dem Landessportverband für das Saarland und dem Saarländischen Betriebssportverband an.
+2. Der Verband unterscheidet in der Mitgliedschaft:
 
+<ol type="a">
+  <li>Die ihm angeschlossenen Vereine</li>
+  <li>Aktive Mitglieder, die regelmäßig Sport treiben, d.h. am Spielbetrieb teilnehmen oder aktiv in der Vereinsführung tätig sind.</li>
+  <li>Passive Mitglieder, die bereit sind, an den Veranstaltungen des Verbandes teilzunehmen und die Aufgaben des Verbandes zu fördern.</li>
+  <li>Ehrenmitglieder und Ehrenvorsitzende, die sich in besonderer Weise um den Verband verdient gemacht haben. Sie werden von der Mitgliederversammlung auf Vorschlag des Gesamtvorstandes gemäß der geltenden Ehrenordnung ernannt.</li>
+  <li>Fördernde Mitglieder.</li>
+</ol>
+
+3. Der Saarländische Tischfußballverband ist Mitglied des Deutschen Tischfußballbundes e.V. Er gehört ferner unter Wahrung seiner rechtlichen, sportlichen und wirtschaftlichen Selbständigkeit als Fachverband dem Landessportverband für das Saarland und dem Saarländischen Betriebssportverband an.
 
 # Aufnahmeverfahren
 
@@ -71,17 +75,23 @@ Verbandes.
 
 2. Der Aufnahmeantrag muss schriftlich gestellt werden. Außerdem sind folgende Unterlagen beizufügen: 
 
-a) Der Nachweis über die ordnungsgemäße Gründung des Vereins (Kopie des Gründungsprotokolls) 
-b) Ein Exemplar der Vereinssatzung 
-c) Namen und Anschriften der Vorstandsmitglieder 
-d) Namentliches Verzeichnis aller aktiven Spieler und passiven Mitglieder mit Geburtsdaten und Anschrift 
-e) Bei Minderjährigen ist die Zustimmung des gesetzlichen Vertreters erforderlich 
+<ol type="a">
+  <li>Der Nachweis über die ordnungsgemäße Gründung des Vereins (Kopie des Gründungsprotokolls)</li>
+  <li>Ein Exemplar der Vereinssatzung</li>
+  <li>Namen und Anschriften der Vorstandsmitglieder</li>
+  <li>Namentliches Verzeichnis aller aktiven Spieler und passiven Mitglieder mit Geburtsdaten und Anschrift</li>
+  <li>Bei Minderjährigen ist die Zustimmung des gesetzlichen Vertreters erforderlich</li>
+</ol>
+
 
 3. Beginn der Mitgliedschaft 
 
-a) Die Mitgliedschaft wird wirksam nach Zahlungseingang der angeforderten Kaution und Aufnahmegebühr. Die Aufnahmegebühr ist innerhalb einer Frist von 4 Wochen nach schriftlicher Aufnahmebestätigung auf das verbandseigene Konto zu überweisen. 
-b) Passive Mitgliedersind von der Zahlung der Aufnahmegebühr befreit. 
-c) Mit Beginn der Mitgliedschaft erkennt der Verein die Satzung, Geschäfts-, Gebühren- und Spielordnung des Verbandes als verbindlich an.
+<ol type="a">
+  <li>Die Mitgliedschaft wird wirksam nach Zahlungseingang der angeforderten Kaution und Aufnahmegebühr. Die Aufnahmegebühr ist innerhalb einer Frist von 4 Wochen nach schriftlicher Aufnahmebestätigung auf das verbandseigene Konto zu überweisen.</li>
+  <li>Passive Mitglieder sind von der Zahlung der Aufnahmegebühr befreit.</li>
+  <li>Mit Beginn der Mitgliedschaft erkennt der Verein die Satzung, Geschäfts-, Gebühren- und Spielordnung des Verbandes als verbindlich an.</li>
+</ol>
+
 
 
 # Mitgliedschaftsrechte und Mitgliedschaftspflichten 
@@ -95,9 +105,12 @@ c) Mit Beginn der Mitgliedschaft erkennt der Verein die Satzung, Geschäfts-, Ge
 
 1. Jedes Mitglied hat Beiträge zu entrichten sowie die von der Mitgliederversammlung beschlossene Aufnahmegebühr und Kaution zu zahlen. 
 
-a) Die Beiträge werden nach Aufstellung des Haushaltsplanes durch Beschluss der Mitgliederversammlung festgesetzt. Diese ist auch berechtigt, die Erhebung außerordentlicher Beiträge zu beschließen. 
-b) Die Verpflichtung zur Zahlung eines Jahresbeitrages ist mit der vollzogenen Aufnahme fällig. 
-c) Arten der Beiträge, sowie die Handhabung zur Entrichtung derselben sind in der Gebührenordnung festgelegt. 
+<ol type="a">
+  <li>Die Beiträge werden nach Aufstellung des Haushaltsplanes durch Beschluss der Mitgliederversammlung festgesetzt. Diese ist auch berechtigt, die Erhebung außerordentlicher Beiträge zu beschließen.</li>
+  <li>Die Verpflichtung zur Zahlung eines Jahresbeitrages ist mit der vollzogenen Aufnahme fällig.</li>
+  <li>Arten der Beiträge, sowie die Handhabung zur Entrichtung derselben sind in der Gebührenordnung festgelegt.</li>
+</ol>
+
 
 2. Passive Mitglieder sind von der Entrichtung der Aufnahmegebühr befreit und haben lediglich 50% des jeweiligen Beitrages zu zahlen. 
 3. Die Rechte eines Mitgliedes ruhen, wenn es länger als 6 Monate mit seinen Beitragszahlungen schuldhaft in Verzug ist. 
@@ -110,17 +123,26 @@ Die Mitgliedschaft endet durch Austritt, Ausschluss oder Auflösung des Verbande
 
 1. Austritt 
 
-a) Der Austritt aus dem Verband ist durch eingeschriebenen Brief gegenüber dem 1. Vorsitzenden des Verbandes zu erklären. Er ist mit Zugang der Erklärung wirksam. 
+<ol type="a">
+  <li>Der Austritt aus dem Verband ist durch eingeschriebenen Brief gegenüber dem 1. Vorsitzenden des Verbandes zu erklären. Er ist mit Zugang der Erklärung wirksam.</li>
+  <li>Der Austritt ist nur zum Schluss eines Kalenderjahres unter Einhaltung einer Frist von 6 Wochen zulässig. Als Erklärung des Austritts aus dem Verband ist zu behandeln, wenn ein Mitglied mit seinen Mitgliedsbeiträgen länger als 12 Monate im Zahlungsverzug ist, innerhalb dieser Zeit zweimal schriftlich gemahnt wurde und anschließend auf eine dritte als Einschreibebrief erfolgte Mahnung, trotz schriftlichen Hinweises auf die Folgen einer weiteren Zahlungsverweigerung, die rückständigen Mitgliedsbeiträge nicht bezahlt. Der Gesamtvorstand stellt die Beendigung der Mitgliedschaft fest und hat dies dem ausgeschlossenen Mitglied schriftlich mitzuteilen.</li>
+</ol>
 
-b) Der Austritt ist nur zum Schluss eines Kalenderjahres unter Einhaltung einer Frist von 6 Wochen zulässig. Als Erklärung des Austritts aus dem Verband ist zu behandeln, wenn ein Mitglied mit seinen Mitgliedsbeiträgen länger als 12 Monate im Zahlungsverzug ist, innerhalb dieser Zeit zweimal schriftlich gemahnt wurde und anschließend auf eine dritte als Einschreibebrief erfolgte Mahnung, trotz schriftlichen Hinweises auf die Folgen einer weiteren Zahlungsverweigerung, die rückständigen Mitgliedsbeiträge nicht bezahlt. Der Gesamtvorstand stellt die Beendigung der Mitgliedschaft fest und hat dies dem ausgeschlossenen Mitglied schriftlich mitzuteilen. 
 
 2. Ausschluss 
 
-a) Ein Mitglied kann nur aus dem Verband ausgeschlossen werden, wenn es aa) gegen die Satzung bzw. Spielordnung des Verbandes oder erheblich gegen dessen Grundsätze oder Ordnungen verstößt, Seite 6 (Stand 15.01.2023) ab) schwer gegen die Interessen des Verbandes verstößt, insbesondere Verbandsbeschlüsse nicht beachtet, ac) sich grob unsportlich verhält. 
-
-b) Über den Ausschluss entscheidet der Gesamtvorstand nach vorheriger Anhörung des auszuschließenden Mitglieds. c) Der Beschluss ist innerhalb von 14 Tagen dem Betroffenen unter Angabe der Gründe mit Einschreibebrief zuzustellen. 
-
-d) Das ausgeschlossene Mitglied kann gegen den Beschluss des Gesamtvorstandes innerhalb von 2 Wochen nach Zustellung des Ausschlussbescheides durch eingeschriebenen Brief z.H. des 1. Vorsitzenden Einspruch einlegen. Der Einspruch hat keine aufschiebende Wirkung. Über den Einspruch entscheidet die nächste Mitgliederversammlung endgültig und rechtskräftig. 
+<ol type="a">
+  <li>Ein Mitglied kann nur aus dem Verband ausgeschlossen werden, wenn es
+    <ol type="a">
+      <li>gegen die Satzung bzw. Spielordnung des Verbandes oder erheblich gegen dessen Grundsätze oder Ordnungen verstößt,</li>
+      <li>schwer gegen die Interessen des Verbandes verstößt, insbesondere Verbandsbeschlüsse nicht beachtet,</li>
+      <li>sich grob unsportlich verhält.</li>
+    </ol>
+  </li>
+  <li>Über den Ausschluss entscheidet der Gesamtvorstand nach vorheriger Anhörung des auszuschließenden Mitglieds.</li>
+  <li>Der Beschluss ist innerhalb von 14 Tagen dem Betroffenen unter Angabe der Gründe mit Einschreibebrief zuzustellen.</li>
+  <li>Das ausgeschlossene Mitglied kann gegen den Beschluss des Gesamtvorstandes innerhalb von 2 Wochen nach Zustellung des Ausschlussbescheides durch eingeschriebenen Brief z.H. des 1. Vorsitzenden Einspruch einlegen. Der Einspruch hat keine aufschiebende Wirkung. Über den Einspruch entscheidet die nächste Mitgliederversammlung endgültig und rechtskräftig.</li>
+</ol>
 
 3. Löst sich ein Mitgliedsverein auf, so endet automatisch seine Mitgliedschaft. 
 
@@ -174,7 +196,13 @@ Organe des Verbandes sind
 
 2. Eine ordentliche Mitgliederversammlung (Jahreshauptversammlung) findet im 1. Halbjahr eines Jahres statt. Sie soll nach Möglichkeit innerhalb der ersten beiden Monate des Jahres stattfinden. 
 
-3. Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn a) der Vorstand dies beschließt oder b) eine solche von 1/4 der Mitglieder schriftlich unter Angabe von Gründen bei dem 1. Vorsitzenden beantragt wird. 
+3. Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn
+
+<ol type="a">
+  <li>der Vorstand dies beschließt oder</li>
+  <li>eine solche von 1/4 der Mitglieder schriftlich unter Angabe von Gründen bei dem 1. Vorsitzenden beantragt wird.</li>
+</ol>
+
 
 4. Jahreshauptversammlung und außerordentliche Mitgliederversammlung werden durch schriftliche Benachrichtigung der Mitglieder und Angabe der Tagesordnung mindestens 20 Tage vor dem Tagungstermin einberufen. 
 
@@ -200,45 +228,41 @@ Organe des Verbandes sind
 
 1. Der Verband wird von einem Gesamtvorstand geleitet und verwaltet. Ihm gehören an:
 
- a) Gesamtvorstand aa) geschäftsführender Vorstand,
-
- ab) Schiedsgerichtsvorsitzender, 
-
- ac) Schiedsrichter - Obmann, 
-
- ad) Leiter Spielbetriebskommission,
-
- af) Leiter Leistungssportkommission, 
-
- ag) Leiter Turnierkommission, Seite 9 (Stand 15.01.2023) 
-
- ah) Leiter Jugendförderungskommission, 
-
- ai) Ehrenvorsitzender,
-
- b) Erweiterter Vorstand, 
-
- ba) Gesamtvorstand, 
-
- bb) Schiedsgerichtsbeisitzer,
-
- c) Geschäftsführender Vorstand,
-
- ca) 1. Vorsitzender, 
-
- cb) 2. Vorsitzender, 
-
- cc) Schriftführer, 
-
- cd) Hauptkassierer. 
-
- d) Schiedsgericht, 
-
- da) Vorsitzender, 
-
- db) Beisitzer, 
-
- dc) Schiedsrichter – Obmann. 
+<ol type="a">
+  <li>Gesamtvorstand
+    <ol type="a">
+      <li>geschäftsführender Vorstand</li>
+      <li>Schiedsgerichtsvorsitzender</li>
+      <li>Schiedsrichter - Obmann</li>
+      <li>Leiter Spielbetriebskommission</li>
+      <li>Leiter Leistungssportkommission</li>
+      <li>Leiter Turnierkommission</li>
+      <li>Leiter Jugendförderungskommission</li>
+      <li>Ehrenvorsitzender</li>
+    </ol>
+  </li>
+  <li>Erweiterter Vorstand
+    <ol type="a">
+      <li>Gesamtvorstand</li>
+      <li>Schiedsgerichtsbeisitzer</li>
+    </ol>
+  </li>
+  <li>Geschäftsführender Vorstand
+    <ol type="a">
+      <li>1. Vorsitzender</li>
+      <li>2. Vorsitzender</li>
+      <li>Schriftführer</li>
+      <li>Hauptkassierer</li>
+    </ol>
+  </li>
+  <li>Schiedsgericht
+    <ol type="a">
+      <li>Vorsitzender</li>
+      <li>Beisitzer</li>
+      <li>Schiedsrichter – Obmann</li>
+    </ol>
+  </li>
+</ol>
 
 2. Die Jahreshauptversammlung kann auf Vorschlag des Vorstandes Beisitzer zur Erfüllung von Sonderaufgaben berufen. 
 
@@ -253,9 +277,12 @@ Organe des Verbandes sind
 
 8. Zu den Aufgaben des Gesamtvorstandes gehören: 
 
-a) die Durchführung der Beschlüsse der Mitgliederversammlung und die Behandlung von Anregungen der Mitglieder. 
-b) die Bewilligung von Ausgaben 
-c) Aufnahme, Ausschluss und Bestrafung von Mitgliedern. Seite 10 (Stand 15.01.2023) 
+<ol type="a">
+  <li>die Durchführung der Beschlüsse der Mitgliederversammlung und die Behandlung von Anregungen der Mitglieder.</li>
+  <li>die Bewilligung von Ausgaben</li>
+  <li>Aufnahme, Ausschluss und Bestrafung von Mitgliedern.</li>
+</ol>
+
 
 9. Damit der Verbandsvorstand in jeder Sitzung beschlussfähig ist, können grundsätzlich von einem Mitgliedsverein nur zwei Mitglieder in den Verbandsvorstand gewählt werden. Mitglieder des Vorstandes, die innerhalb eines Spieljahres, zu Anfang oder zu Ende, zu einem anderen Verein überwechseln wollen, müssen auf ihr Amt bzw. Sitz im Verbandsvorstand verzichten, wenn der neue Verein bereits zwei Sitze dort einnimmt. Der Ehrenvorsitzende ist stimmberechtigt. Er wird im Sinne dieser Vorschrift keinem Verein zugeordnet. Es ist die Pflicht eines jeden Vorstandsmitgliedes beim Wechsel zu einem anderen Verein den 1. Vorsitzenden zu unterrichten, damit in der nächsten Mitgliederversammlung eine Ergänzungswahl durchgeführt werden kann. Bis zu dieser Mitgliederversammlung wird ein anderes Vorstandsmitglied kommissarisch das Amt des ausscheidenden Vorstandsmitgliedes übernehmen. 
 
@@ -263,13 +290,13 @@ c) Aufnahme, Ausschluss und Bestrafung von Mitgliedern. Seite 10 (Stand 15.01.20
 
 11. Die Aufgaben im Einzelnen sind: 
 
-a) Der Vorsitzende ist für die Führung des Verbandes verantwortlich. Er vertritt den Verband nach innen und außen, beruft und leitet die Sitzungen und Versammlungen. 
+<ol type="a">
+  <li>Der Vorsitzende ist für die Führung des Verbandes verantwortlich. Er vertritt den Verband nach innen und außen, beruft und leitet die Sitzungen und Versammlungen.</li>
+  <li>Der stellvertretende Vorsitzende unterstützt den Vorsitzenden bei der Erfüllung seiner Aufgaben und vertritt ihn im Verhinderungsfall.</li>
+  <li>Der Geschäftsführer (Schriftführer) führt die laufenden Verbandsgeschäfte im Auftrag des Vorstandes. Er führt den Schriftwechsel des Verbandes, fertigt die Protokolle und Einladungen und führt die Mitgliederliste des Verbandsarchivs.</li>
+  <li>Der Hauptkassierer verwaltet die Kasse und stellt den Jahresabschluss und den Haushaltsplan auf. Die Kasse wird von den gewählten Kassenprüfern unter Vorlage der Bücher und Belege geprüft.</li>
+</ol>
 
-b) Der stellvertretende Vorsitzende unterstützt den Vorsitzenden bei der Erfüllung seiner Aufgaben und vertritt ihn im Verhinderungsfall. 
-
-c) Der Geschäftsführer (Schriftführer) führt die laufenden Verbandsgeschäfte im Auftrag des Vorstandes. Er führt den Schriftwechsel des Verbandes, fertigt die Protokolle und Einladungen und führt die Mitgliederliste des Verbandsarchivs. 
-
-d) Der Hauptkassierer verwaltet die Kasse und stellt den Jahresabschluss und den Haushaltsplan auf. Die Kasse wird von den gewählten Kassenprüfern unter Vorlage der Bücher und Belege geprüft. 
 
 12. Der Vorstand übt sein Amt ehrenamtlich aus. Für die Tätigkeit kann eine angemessene Aufwandsentschädigung (Ehrenamtspauschale im Sinne des § 3 Nr. 26a EStG) gezahlt werden, die nach Maßgabe eines Beschlusses der Mitgliederversammlung unter Beachtung steuerlicher Grundsätze festgelegt werden. Reisekosten, Aufwandsentschädigungen (Ehrenamtspauschale im Sinne des § 3 Nr. 26a EStG) und sonstige Auslagen sowie Aufwendung gen werden auf Antrag ersetzt. Als Tätigkeitsvergütung gilt auch die Überlassung einer Spendenquittung, indem entweder der Verein dem Vorstandsmitglied eine Vergütung zahlt, welche es dem Verein zurückzahlt, oder durch Verzicht auf die Auszahlung eines entstandenen Vergütungsanspruchs und damit dem Verein den Vergütungsanspruch spendet.
 
@@ -277,10 +304,13 @@ d) Der Hauptkassierer verwaltet die Kasse und stellt den Jahresabschluss und den
 # Geschäftsführender Vorstand 
 
 1.Zur Erfüllung der laufenden Geschäfte wird ein geschäftsführender Vorstand gebildet. Ihm gehören an: 
-a) der Vorsitzende, 
-b) der stellvertretende Vorsitzende, 
-c) der Geschäftsführer, 
-d) der Hauptkassierer. 
+<ol type="a">
+  <li>der Vorsitzende</li>
+  <li>der stellvertretende Vorsitzende</li>
+  <li>der Geschäftsführer</li>
+  <li>der Hauptkassierer</li>
+</ol>
+
 
 2. Der geschäftsführende Vorstand ist für Aufgaben zuständig, die aufgrund ihrer Dringlichkeit einer schnellen Erledigung bedürfen. Er erledigt außerdem Aufgaben, deren Behandlung durch den Gesamtvorstand nicht notwendig ist. 
 
@@ -305,14 +335,18 @@ d) der Hauptkassierer.
 
 8. Vereinswechsel von Schiedsgerichtsmitgliedern müssen unverzüglich dem Vorstand mitgeteilt werden. Die Tätigkeit bzw. das Amt eines ausgeschiedenen Schiedsgerichtsmitgliedes kann bis zur nächsten Mitgliederversammlung, in der eine Ergänzungswahl durchgeführt wird, von einem anderen Mitglied des Verbandsvorstandes übernommen werden. 
 
-9. Verstöße gegen die Satzungs- und Spielbestimmungen, gegen Beschlüsse des Verbandes bzw. seiner Organe sowie vereinsschädig-endes Verhalten können gegenüber Einzelmitgliedern, gegenüber angeschlossenen Vereinen sowie deren aktiven Mitglieder vom Vereinsschiedsgericht und dem Vereinsvorstand wie folgt geahndet werden: Seite 12 (Stand 15.01.2023) 
-a) Verweis 
-b) Ordnungsstrafe 
-c) Sperre auf Zeit 
-d) Punktabzug 
-e) Ausschluss aus dem Verein (nur durch Gesamtvorstand) 
-f) Zwangsabstieg oder Aufstiegssperre 
-g) Ferner können Spielergebnisse annulliert und Spielpaarungen teilweise oder vollständig neu angesetzt werden.
+9. Verstöße gegen die Satzungs- und Spielbestimmungen, gegen Beschlüsse des Verbandes bzw. seiner Organe sowie vereinsschädig-endes Verhalten können gegenüber Einzelmitgliedern, gegenüber angeschlossenen Vereinen sowie deren aktiven Mitgliedern vom Vereinsschiedsgericht und dem Vereinsvorstand wie folgt geahndet werden:
+
+<ol type="a">
+  <li>Verweis</li>
+  <li>Ordnungsstrafe</li>
+  <li>Sperre auf Zeit</li>
+  <li>Punktabzug</li>
+  <li>Ausschluss aus dem Verein (nur durch Gesamtvorstand)</li>
+  <li>Zwangsabstieg oder Aufstiegssperre</li>
+  <li>Ferner können Spielergebnisse annulliert und Spielpaarungen teilweise oder vollständig neu angesetzt werden.</li>
+</ol>
+
 
 
 # Protokollierung von Beschlüssen 
@@ -349,9 +383,13 @@ Die Wahl des 1. Vorsitzenden findet unter der Leitung eines von der Versammlung 
 
 1. Die Auflösung des Verbandes kann nur mit einer Frist von 14 Tagen einberufenen Mitgliederversammlung beschlossen werden. Auf der Tagesordnung dieser Versammlung darf nur der Punkt “Auflösung des Verbandes" stehen. 
 
-2. Die Einberufung einer Mitgliederversammlung zu diesem Zweck darf nur erfolgen, wenn es 
-a) der Gesamtvorstand mit einer Mehrheit von 3/4 aller seiner Mitglieder beschlossen hat oder 
-b) mindestens 1/4 der angeschlossenen stimmberechtigten Vereine die Auflösung schriftlich gefordert haben. 
+2. Die Einberufung einer Mitgliederversammlung zu diesem Zweck darf nur erfolgen, wenn es
+
+<ol type="a">
+  <li>der Gesamtvorstand mit einer Mehrheit von 3/4 aller seiner Mitglieder beschlossen hat oder</li>
+  <li>mindestens 1/4 der angeschlossenen stimmberechtigten Vereine die Auflösung schriftlich gefordert haben.</li>
+</ol>
+
 
 3. Der Beschluss auf Auflösung kann nur mit einer Mehrheit von 3/4 aller Stimmberechtigten gefasst werden. Sind in der 1. Mitglieder-versammlung nicht mindestens 3/4 der Stimmberechtigten erschienen, so ist binnen 4 Wochen eine 2. Mitgliederversammlung einzuberufen, in welcher der Auflösungsbeschluss mit einer Mehrheit von 3/4 der anwesenden Stimmberechtigten gefasst werden kann. 
 

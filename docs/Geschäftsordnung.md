@@ -15,11 +15,14 @@ pdf: /assets/pdf/Geschäftsordnung.pdf
 
 1. Der Gesamtvorstand legt die allgemeinen Richtlinien für die Leitung des Verbandes fest. Ihm obliegen die Geschäftsführung und die Leitung des Verbandes nach innen und außen. Zur Zuständigkeit des Vorstandes gehören insbesondere 
 
-a) Aufstellung der Tagesordnung für Versammlungen 
-b) Entscheidung über die Aufnahme neuer Mitglieder 
-c) Durchführung der Beschlüsse der Mitgliederversammlung 
-d) Entscheidung über Verwendung der Mittel 
-e) Alle sonstigen, täglich anfallenden Arbeiten, die zu einer ordnungsgemäßen Führung des Verbandes notwendig sind. 
+<ol type="a">
+  <li>Aufstellung der Tagesordnung für Versammlungen</li>
+  <li>Entscheidung über die Aufnahme neuer Mitglieder</li>
+  <li>Durchführung der Beschlüsse der Mitgliederversammlung</li>
+  <li>Entscheidung über Verwendung der Mittel</li>
+  <li>Alle sonstigen, täglich anfallenden Arbeiten, die zu einer ordnungsgemäßen Führung des Verbandes notwendig sind.</li>
+</ol>
+
 
 2. Der 1. Vorsitzende erteilt die notwendigen Anweisungen an seine Vorstandskollegen und überwacht deren Tätigkeit. Er beruft die Vorstandssitzungen ein, leitet diese und stellt die Tagesordnung auf. Vorschläge von Vorstandsmitgliedern zur Tagesordnung müssen von ihm auf dieselbe gesetzt werden.
 
@@ -150,20 +153,26 @@ Die Jugendförderungskommission kümmert sich sowohl um die Belange der Junioren
 
 1. Für seine Mitglieder beschließt der Verband folgende Ehrungen: 
 
-a) die Ehrennadel 
-b) den Ehrenbrief 
-c) die Ehrenmitgliedschaft 
-d) das Amt des Ehrenvorsitzenden 
+<ol type="a">
+  <li>die Ehrennadel</li>
+  <li>den Ehrenbrief</li>
+  <li>die Ehrenmitgliedschaft</li>
+  <li>das Amt des Ehrenvorsitzenden</li>
+</ol>
+
 
 2. Der geschäftsführende Vorstand kann in Anerkennung besonderer Verdienste um den Tischfußballsport die Ehrennadeln in 
 
-a) Bronze 
-b) Silber 
-c) Gold 
-d) Gold mit 1 Stern 
-e) Gold mit 2 Sternen
- f) Gold mit 3 Sternen 
-g) Ehrenbrief verleihen. Mit ihr werden Mitglieder geehrt, die sich durch langjährige Mitgliedschaft im STFV-Vorstand oder im Verein ausgezeichnet haben. 
+<ol type="a">
+  <li>Bronze</li>
+  <li>Silber</li>
+  <li>Gold</li>
+  <li>Gold mit 1 Stern</li>
+  <li>Gold mit 2 Sternen</li>
+  <li>Gold mit 3 Sternen</li>
+  <li>Ehrenbrief verleihen. Mit ihr werden Mitglieder geehrt, die sich durch langjährige Mitgliedschaft im STFV-Vorstand oder im Verein ausgezeichnet haben.</li>
+</ol>
+
 
 2.1 Die Verleihung der Ehrennadel in Bronze setzt eine 20-jährige ununterbrochene Tätigkeit voraus. 
 
@@ -181,14 +190,20 @@ g) Ehrenbrief verleihen. Mit ihr werden Mitglieder geehrt, die sich durch langj�
 
 2.8 Anträge von Vereinen auf Ehrung ihrer Mitglieder müssen spätestens bis zum 30. Juni eines jeden Jahres schriftlich bei der STFVGeschäftsstelle eingereicht werden. Folgende lückenlose Angaben sind dazu erforderlich: 
 
-a) Name und Vorname des Betreffenden (Personalien) 
-b) Welche Tätigkeit hat der Betreffende bisher im Verein oder im STFV-Vorstand ausgeübt (von wann bis wann) 
-c) In welchem Verein hat der Betreffende bisher gespielt (lückenlose Aufstellung) 
+<ol type="a">
+  <li>Name und Vorname des Betreffenden (Personalien)</li>
+  <li>Welche Tätigkeit hat der Betreffende bisher im Verein oder im STFV-Vorstand ausgeübt (von wann bis wann)</li>
+  <li>In welchem Verein hat der Betreffende bisher gespielt (lückenlose Aufstellung)</li>
+</ol>
+
 
 2.9 Nach eingehender Prüfung des Antrages entscheidet der geschäftsführende Vorstand über die Verleihung der Auszeichnung. 
 
 3. Auf Antrag des STFV-Vorstandes können Personen, die sich besondere Verdienste um den Tischfußball erworben haben, durch Beschluss der Mitgliederversammlung zu: 
 
-a) Ehrenmitgliedern 
-b) Ehrenvorsitzenden ernannt werden.
+<ol type="a">
+  <li>Ehrenmitgliedern</li>
+  <li>Ehrenvorsitzenden ernannt werden.</li>
+</ol>
+
 
