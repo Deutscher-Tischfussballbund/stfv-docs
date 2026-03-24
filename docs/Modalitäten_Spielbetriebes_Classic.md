@@ -200,5 +200,5 @@ Der über mehrere Jahre verteilte Umstrukturierungsprozess im Ligabetrieb Classi
 - Der Einsatz von Spielern die laut Einsatzstatistik nicht eindeutig dieser Mannschaft zugeordnet werden kann, ist auf maximal 4 Spieler begrenzt.
     - Begriffserklärung: Der Begriff „untergeordnete Mannschaft" beziehungsweise „übergeordnete Mannschaft" ergibt sich aus der Klassenzugehörigkeit und der Klassifizierung (Beispiel: 3. Mannschaft ist der 2. Mannschaft und eine Bezirksligamannschaft ist der Verbandsligamannschaft untergeordnet).
 
-7. Die Spielberechtigung richtet sich immer nach dem ursprünglich im Spielplan festgelegten Termin.
-8. Bei Einsatz eines nicht spielberechtigten Spielers wird das Doppel als verloren gewertet (0:4 Punkte). Sind in einer Begegnung in beiden Mannschaften nicht spielberechtigte Spieler eingesetzt, so ist das Doppel mit 2:2 Punkten zu werten. Darüber hinaus erfolgt eine gebührenpflichtige Ahndung gem. § 11 Abs.10 der GO.
+- Die Spielberechtigung richtet sich immer nach dem ursprünglich im Spielplan festgelegten Termin.
+- Bei Einsatz eines nicht spielberechtigten Spielers wird das Doppel als verloren gewertet (0:4 Punkte). Sind in einer Begegnung in beiden Mannschaften nicht spielberechtigte Spieler eingesetzt, so ist das Doppel mit 2:2 Punkten zu werten. Darüber hinaus erfolgt eine gebührenpflichtige Ahndung gem. § 11 Abs.10 der GO.
