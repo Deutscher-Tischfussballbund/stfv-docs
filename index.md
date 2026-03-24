@@ -33,11 +33,12 @@
 - [Erstattungsantrag Kilomertergeld](./assets/pdf/erstattungsantrag_kilometrgeld.pdf)
 - [Mannschaftsaufstellung](./assets/pdf/mannschaftsaufstellung.pdf)
 - [Schiedsrichterentschädigung](./assets/pdf/schiedsrichterentschaedigung.pdf)
-- [Spielbericht Pro Racemodus](./assets/pdf/spielbericht_Racemodus_42.pdf)
-- [Spielbericht Pro 5 Doppel 2 Einzel](./assets/pdf/spielbericht_Pro_5D_2E.pdf)
-- [Spielbericht Classic](./assets/pdf/spielbericht_classic.pdf)
 - [Spielordnung DTFB](./assets/pdf/Spielordnung_Stand_29042023.pdf)
 - [Turniere Spieleranmeldung](./assets/pdf/turniere_spieleranmeldung.pdf)
+- [Spielbericht Pro Racemodus](./assets/pdf/spielbericht_Racemodus_42.pdf)
+- [Spielbericht Pro 5 Doppel 2 Einzel](./assets/pdf/spielbericht_Pro_5D_2E.pdf)
+- [Spielbericht Classic Cup](./assets/pdf/spielbericht_classic_cup.pdf)
+- [Spielbericht Classic](./assets/pdf/spielbericht_classic.pdf)
 
 ---
 
