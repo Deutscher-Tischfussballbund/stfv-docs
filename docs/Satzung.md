@@ -167,7 +167,7 @@ Die Mitgliedschaft endet durch Austritt, Ausschluss oder Auflösung des Verbande
 
 1. Geschäftsjahr ist das Kalenderjahr. 
 
-2. Der Vorstand des Verbandes hat jährlich über den zur Erfüllung der satzungsmäßigen Aufgaben erforderlichen Kostenaufwand einen Haushaltsplan mit den von den Mitgliedsvereinen zu zahlenden Bei- trägen für das folgende Rechnungsjahr aufzustellen und in der Mitgliederversammlung zur Beschlussfassung vorzulegen. Seite 7 (Stand 15.01.2023) 
+2. Der Vorstand des Verbandes hat jährlich über den zur Erfüllung der satzungsmäßigen Aufgaben erforderlichen Kostenaufwand einen Haushaltsplan mit den von den Mitgliedsvereinen zu zahlenden Bei- trägen für das folgende Rechnungsjahr aufzustellen und in der Mitgliederversammlung zur Beschlussfassung vorzulegen.
 
 3. Der Vorstand des Verbandes hat nach Ablauf eines Rechnungsjahres der Mitgliederversammlung eine Jahresabrechnung vorzulegen. Diese muss sämtliche Einnahmen und Ausgaben nachweisen. 
 
@@ -208,7 +208,7 @@ Organe des Verbandes sind
 
 5. Soweit die Satzung und die Ordnungen keine andere Regelung vorsehen, müssen Anträge schriftlich mit Begründung bis zum 01.12. eines jeden Jahres beim 1. Vorsitzenden eingereicht werden. 
 
-6. Antragsberechtigt sind die Mitglieder und der Vorstand Seite 8 (Stand 15.01.2023) 
+6. Antragsberechtigt sind die Mitglieder und der Vorstand
 
 7. Die Mitgliederversammlung ist, soweit nichts anderes bestimmt beschlussfähig, wenn mindestens 1/3 der stimmberechtigten Personen anwesend sind. In der Einladung zur Mitgliederversammlung kann für den Fall der Beschlussunfähigkeit bereits zu einer zweiten Mitgliederversammlung, die am gleichen Tage unmittelbar an die Feststellung der Beschlussunfähigkeit und am gleichen Ort wie die erste stattfindet, geladen werden. Diese zweite Mitgliederversammlung findet mit derselben Tagesordnung wie sie zur ersten Mitgliederversammlung vorgesehen war, statt und ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig. Auch darauf ist ausdrücklich in der Einladung hinzuweisen.
 
@@ -303,7 +303,7 @@ Organe des Verbandes sind
 
 # Geschäftsführender Vorstand 
 
-1.Zur Erfüllung der laufenden Geschäfte wird ein geschäftsführender Vorstand gebildet. Ihm gehören an: 
+1. Zur Erfüllung der laufenden Geschäfte wird ein geschäftsführender Vorstand gebildet. Ihm gehören an: 
 <ol type="a">
   <li>der Vorsitzende</li>
   <li>der stellvertretende Vorsitzende</li>
@@ -358,7 +358,7 @@ Das Protokoll der Mitgliederversammlung ist innerhalb einer Frist von vier Woche
 
 # Rechnungs- und Kassenprüfer 
 
-1.Die Mitgliederversammlung wählt zur Rechnungs- und Kassenprüfung zwei Prüfer, die nicht dem Vorstand des Verbandes angehören dürfen. 
+1. Die Mitgliederversammlung wählt zur Rechnungs- und Kassenprüfung zwei Prüfer, die nicht dem Vorstand des Verbandes angehören dürfen. 
 
 2. Eine einmalige Wiederwahl ist zulässig, jedoch mit der Maßgabe, dass bei jeder Wahl ein Prüfer ausscheidet. 
 
@@ -369,8 +369,7 @@ Das Protokoll der Mitgliederversammlung ist innerhalb einer Frist von vier Woche
 
 1. Beschlüsse werden mit einfacher Stimmenmehrheit der abgegebenen Stimmen gefasst. Stimmenthaltungen werden nicht mitgezählt. Stimmengleichheit bedeutet grundsätzlich Ablehnung. 
 
-2. Der 1. Vorsitzende und der 2. Vorsitzende werden in je einem besonderen Wahlgang mit absoluter, die anderen Vorstandsmitglieder gemeinsam mit einfacher Stimmenmehrheit gewählt.
-Seite 13 (Stand 15.01.2023) Wenn bei der Wahl des 1. Vorsitzenden oder des 2. Vorsitzenden die absolute Stimmenmehrheit nicht auf eine Person entfällt, findet eine Stichwahl unter den beiden Personen statt, die im 1. Wahlgang die meisten Stimmen erhalten haben. 
+2. Der 1. Vorsitzende und der 2. Vorsitzende werden in je einem besonderen Wahlgang mit absoluter, die anderen Vorstandsmitglieder gemeinsam mit einfacher Stimmenmehrheit gewählt. Wenn bei der Wahl des 1. Vorsitzenden oder des 2. Vorsitzenden die absolute Stimmenmehrheit nicht auf eine Person entfällt, findet eine Stichwahl unter den beiden Personen statt, die im 1. Wahlgang die meisten Stimmen erhalten haben. 
 Die Wahl des 1. Vorsitzenden findet unter der Leitung eines von der Versammlung gewählten Versammlungsleiters statt. Die Wahl der übrigen Vorstandsmitglieder leitet der 1. Vorsitzende. 
 
 3. Anträge auf Änderung der Satzung sind beim Verbandsvorstand schriftlich per Einschreiben, bis zum 01.12. eines jeden Jahres einzureichen. Sie sind bei der Einberufung der Mitgliederversammlung den Vereinen zugleich mit der Tagesordnung bekanntzugeben. Im Fall der Übermittlung per E-Mail liegt die Beweislast der Kenntnisnahme des Empfängers beim Absender. Die Mitgliederversammlung kann Änderungen der Satzung nur mit einer 3/4Stimmenmehrheit beschließen.
