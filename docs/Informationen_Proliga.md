@@ -45,7 +45,7 @@ Aktuelle Regeln:
 
 - Diese 7 Elemente werden von min 6, maximal 10 verschiedenen Spielern gespielt (siehe Mannschaftsaufstellung) in folgender Reihenfolge: D1, D2, D3, S1, D4, S2, D5
 
- Spielanleitung: 
+**Spielanleitung:**
 
 - 180 Sekunden zwischen den Elementen zur Vorbereitung der Tische und zum Trainieren. 
 
@@ -58,25 +58,25 @@ Aktuelle Regeln:
 - Haben Mannschaften den gleichen Heimtisch wird nur auf einem Tisch gespielt (Verbandsliga) 
 
 
- # Wechselregelung  
+# Wechselregelung
 
 Grundregeln: 
 
- 1. Ausgewechselte Spieler können nicht wieder eingewechselt werden 
+1. Ausgewechselte Spieler können nicht wieder eingewechselt werden
 
- 2. Es können nur Spieler eingewechselt werden, welche noch kein Segment gespielt haben oder laut Spielplan für kein anderes Segment aufgestellt sind. 
+2. Es können nur Spieler eingewechselt werden, welche noch kein Segment gespielt haben oder laut Spielplan für kein anderes Segment aufgestellt sind.
 
- 3. Ein Wechsel erfordert ein Timeout 
+3. Ein Wechsel erfordert ein Timeout
 
- 4. Der Wechsel muss während des Timeouts abgeschlossen sein. 
+4. Der Wechsel muss während des Timeouts abgeschlossen sein.
 
- 5. Jeder Ersatzspieler kann nur einmal eingewechselt werden 
+5. Jeder Ersatzspieler kann nur einmal eingewechselt werden
 
- 6. Im Doppel dürfen im Timeout beide Spieler ausgetauscht werden 
+6. Im Doppel dürfen im Timeout beide Spieler ausgetauscht werden
 
- 7. Wechselspieler müssen nicht auf dem Spielplan vermerkt werden, jedes aktuell gemeldete Mitglied des 10-Mann-Kaders kann als Wechselspieler fungieren 
+7. Wechselspieler müssen nicht auf dem Spielplan vermerkt werden, jedes aktuell gemeldete Mitglied des 10-Mann-Kaders kann als Wechselspieler fungieren
 
- 
+
 
 **A: Anzahl:**
 
@@ -88,7 +88,7 @@ Grundregeln:
 
 - Ein Wechsel kann zu Beginn eines neuen Segments erfolgen, jedoch nur, wenn der auszuwechselnde Spieler bereits in mindestens einem vorherigen Segment gespielt hat. 
 
- **C: Anzahl pro Segment**
+**C: Anzahl pro Segment**
 
 - Es darf pro Segment nur ein Wechsel vorgenommen werden 
 
@@ -157,13 +157,13 @@ Die vier bestplatzierten Mannschaften der Verbandsliga und Landesliga nach der V
 
 # Auf- und Abstiegsregelung 
 
-1.     Aufstieg 
+1. Aufstieg
 
 Der Sieger des Final Four in der Verbandsliga steigt in die Landesliga auf. 
 
 In jeder Liga steigt jeweils nur eine Mannschaft in die nächsthöhere Spielklasse auf. 
 
-2.     Abstieg 
+2. Abstieg
 
 Die letztplatzierte Mannschaft der Landesliga steigt in die darunterliegende Spielklasse ab. 
 
