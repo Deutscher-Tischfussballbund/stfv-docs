@@ -26,27 +26,27 @@ subtitle: "Offizielle Verbandsdokumente des Saarländischen Tischfußballverband
 
 ## Formulare des Verbandes
 
-| Dokument | PDF |
-|---|---|
-| [Antrag auf Spielerlaubnis](assets/pdf/static/Antrag_auf_Spielerlaubnis.pdf) | [PDF](assets/pdf/static/Antrag_auf_Spielerlaubnis.pdf) |
-| [Antrag Zuschuss Jugend](assets/pdf/static/Antrag_Zuschuss_Jugend.pdf) | [PDF](assets/pdf/static/Antrag_Zuschuss_Jugend.pdf) |
-| [Antragsformblatt JHV](assets/pdf/static/antragsformblatt_jhv.pdf) | [PDF](assets/pdf/static/antragsformblatt_jhv.pdf) |
-| [Antragsformblatt SpoRKom](assets/pdf/static/antragsformblatt_sporkom.pdf) | [PDF](assets/pdf/static/antragsformblatt_sporkom.pdf) |
-| [Austrittserklärung](assets/pdf/static/austrittserklaerung.pdf) | [PDF](assets/pdf/static/austrittserklaerung.pdf) |
-| [Einverständniserklärung Spielverlegung](assets/pdf/static/einverstaendniserklaerung_spieverlegung.pdf) | [PDF](assets/pdf/static/einverstaendniserklaerung_spieverlegung.pdf) |
-| [Erstattungsantrag Kilometergeld](assets/pdf/static/erstattungsantrag_kilometrgeld.pdf) | [PDF](assets/pdf/static/erstattungsantrag_kilometrgeld.pdf) |
-| [Mannschaftsaufstellung](assets/pdf/static/mannschaftsaufstellung.pdf) | [PDF](assets/pdf/static/mannschaftsaufstellung.pdf) |
-| [Schiedsrichterentschädigung](assets/pdf/static/schiedsrichterentschaedigung.pdf) | [PDF](assets/pdf/static/schiedsrichterentschaedigung.pdf) |
-| [Spielordnung DTFB](assets/pdf/static/Spielordnung_Stand_29042023.pdf) | [PDF](assets/pdf/static/Spielordnung_Stand_29042023.pdf) |
-| [Turniere Spieleranmeldung](assets/pdf/static/turniere_spieleranmeldung.pdf) | [PDF](assets/pdf/static/turniere_spieleranmeldung.pdf) |
-| [Spielbericht Pro Racemodus](assets/pdf/static/spielbericht_Racemodus_42.pdf) | [PDF](assets/pdf/static/spielbericht_Racemodus_42.pdf) |
-| [Spielbericht Pro 5 Doppel 2 Einzel](assets/pdf/static/spielbericht_Pro_5D_2E.pdf) | [PDF](assets/pdf/static/spielbericht_Pro_5D_2E.pdf) |
-| [Spielbericht Classic Cup](assets/pdf/static/spielbericht_classic_cup.pdf) | [PDF](assets/pdf/static/spielbericht_classic_cup.pdf) |
-| [Spielbericht Classic](assets/pdf/static/spielbericht_classic.pdf) | [PDF](assets/pdf/static/spielbericht_classic.pdf) |
+| Dokument |
+|---|
+| [Antrag auf Spielerlaubnis](assets/pdf/static/Antrag_auf_Spielerlaubnis.pdf) |
+| [Antrag Zuschuss Jugend](assets/pdf/static/Antrag_Zuschuss_Jugend.pdf) |
+| [Antragsformblatt JHV](assets/pdf/static/antragsformblatt_jhv.pdf) |
+| [Antragsformblatt SpoRKom](assets/pdf/static/antragsformblatt_sporkom.pdf) |
+| [Austrittserklärung](assets/pdf/static/austrittserklaerung.pdf) |
+| [Einverständniserklärung Spielverlegung](assets/pdf/static/einverstaendniserklaerung_spieverlegung.pdf) |
+| [Erstattungsantrag Kilometergeld](assets/pdf/static/erstattungsantrag_kilometrgeld.pdf) |
+| [Mannschaftsaufstellung](assets/pdf/static/mannschaftsaufstellung.pdf) |
+| [Schiedsrichterentschädigung](assets/pdf/static/schiedsrichterentschaedigung.pdf) |
+| [Spielordnung DTFB](assets/pdf/static/Spielordnung_Stand_29042023.pdf) |
+| [Turniere Spieleranmeldung](assets/pdf/static/turniere_spieleranmeldung.pdf) |
+| [Spielbericht Pro Racemodus](assets/pdf/static/spielbericht_Racemodus_42.pdf) |
+| [Spielbericht Pro 5 Doppel 2 Einzel](assets/pdf/static/spielbericht_Pro_5D_2E.pdf) |
+| [Spielbericht Classic Cup](assets/pdf/static/spielbericht_classic_cup.pdf) |
+| [Spielbericht Classic](assets/pdf/static/spielbericht_classic.pdf) |
 
 
 ## Protokolle des Verbandes
 
-| Dokument | PDF |
-|---|---|
-| [Protokoll Jahreshauptversammlung 2026](assets/pdf/static/Protokoll_Jahreshauptversammlung_2026.pdf) | [PDF](assets/pdf/static/Protokoll_Jahreshauptversammlung_2026.pdf) |
+| Dokument |
+|---|
+| [Protokoll Jahreshauptversammlung 2026](assets/pdf/static/Protokoll_Jahreshauptversammlung_2026.pdf) |
