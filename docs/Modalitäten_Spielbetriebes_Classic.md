@@ -13,13 +13,19 @@
     </p>
 </div>
 
+---
+
+* TOC
+{:toc}
+---
+
 **Modalitäten des Spielbetriebes STFV Classic für die Saison 2026**
 
-# **1\. Zielsetzung**
+# Zielsetzung
 
 Der über mehrere Jahre verteilte Umstrukturierungsprozess im Ligabetrieb Classic ist in 2026 abgeschlossen, d. h. eingleisige Verbandsliga sowie eine nach Möglichkeit einheitliche Ligastärke von 10 Mannschaften (Ausnahme Kreisliga Nord-West 9 Mannschaften).
 
-# **2\. Regelung des Auf- und Abstiegs**
+# Regelung des Auf- und Abstiegs
 
 **a. Landesliga:**
 
@@ -98,7 +104,7 @@ Der über mehrere Jahre verteilte Umstrukturierungsprozess im Ligabetrieb Classi
 
 - Modus und weitere Infos folgen am Ende der Vorrunde 2026.
 
-**Anhang zu den Modalitäten des Spielbetriebes STFV**
+# Anhang zu den Modalitäten des Spielbetriebes STFV
 
 **• Allgemeines**
 
