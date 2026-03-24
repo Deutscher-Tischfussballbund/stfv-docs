@@ -1,5 +1,6 @@
-# Verbandsdokumente
-
+---
+title: "STFV Dokumente"
+subtitle: "Offizielle Verbandsdokumente des Saarländischen Tischfußballverbandes e.V."
 ---
 
 ## Statuten des Verbandes
