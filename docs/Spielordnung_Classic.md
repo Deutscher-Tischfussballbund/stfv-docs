@@ -1,6 +1,6 @@
 ---
 title: "Spielordnung Classic (SPO Classic)"
-date: '{{ site.time | date: "%d.%m.%Y" }}'
+Stand: '15.10.2025'
 section_numbering: paragraph
 pdf: /assets/pdf/Spielordnung_Classic.pdf
 ---
