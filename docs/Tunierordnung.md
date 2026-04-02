@@ -49,7 +49,7 @@ Mindestvoraussetzungen bei Turnieren von bis zu 4 Tischen sind:
 für die Spieler Mindestvoraussetzungen bei Turnieren ab 5 Tischen sind: 
 - 1 PC - großer Monitor (min. 32 Zoll) oder Beamer mit Leinwand zur Anzeige des Turniergeschehens für die Spieler 
 - Beschallungsanlage mit Mikrofon für die Aufrufe 
-- Turniersoftware: Für die Ausrichtung ist entweder die „TiFu–Turniersoftware" oder die SportSoftware „Kickertool“ zu benutzen. Beide Programme können kostenlos unter [dtfb.de/kickern/software](https://dtfb.de/kickern/software) runtergeladen werden.
+- Turniersoftware: Für die Ausrichtung ist entweder die SportSoftware „Kickertool“ zu benutzen. Die Software kann kostenlos unter [dtfb.de/kickern/software](https://dtfb.de/kickern/software) runtergeladen werden.
 - Abweichungen zu den Turniervoraussetzungen müssen bei der Turnierkommission beantragt werden.
 
 
@@ -123,7 +123,7 @@ Die Spieltische müssen 1 Stunde vor Turnierbeginn spielbereit aufgestellt und a
 
 STFV C-Ranglistenturnier 1 Tisch 
 STFV B-Ranglistenturnier 4 Tische 
-STFV A-Ranglistenturnier 10 Tische 
+STFV A-Ranglistenturnier 8 Tische 
 
 Die Anzahl der Spieltische sollte so gewählt werden, dass der Spielbetrieb an einem Turniertag 12 Stunden nicht überschreitet. Die eingesetzten Turniertische sind ohne Münzeinwurf zu betreiben. 
 Es ist auf eine ausreichende Ausleuchtung der Turniertische zu achten. 
@@ -159,17 +159,17 @@ STFV-Ranglistenturniere werden nach den offiziellen Tischfußballregeln des STFV
 
 # Schiedsrichter
 
-Die Spieler können Schiedsrichter für einzelne Begegnungen zu Beginn oder im Laufe einer Begegnung anfordern. Die je nach Verfügbarkeit durch die Turnierleitung eingeteilten Schiedsrichter können nicht abgelehnt werden. Die Kosten für den Schiedsrichter betragen 1€ Organisationspauschale plus 1€ pro angefangenen Satz (Beispiel: für 3 Sätze erhält der Schiedsrichter 1€ + 3€ = 4€). Die Schiedsrichtergebühr wird jeweils von den beiden Teams am Ende der Begegnung beglichen. Diese ist als Fallpauschale anzusehen und ist auch zu zahlen, wenn die Begegnung zu Beginn des Schiedsrichtereinsatzes schon nahezu fertig gespielt war.
+Die Spieler können Schiedsrichter für einzelne Begegnungen zu Beginn oder im Laufe einer Begegnung anfordern. Die je nach Verfügbarkeit durch die Turnierleitung eingeteilten Schiedsrichter können nicht abgelehnt werden. Die Kosten für den Schiedsrichter betragen 3€ Organisationspauschale plus 1€ pro angefangenen Satz (Beispiel: für 3 Sätze erhält der Schiedsrichter 1€ + 3€ = 4€). Die Schiedsrichtergebühr wird jeweils von den beiden Teams am Ende der Begegnung beglichen. Diese ist als Fallpauschale anzusehen und ist auch zu zahlen, wenn die Begegnung zu Beginn des Schiedsrichtereinsatzes schon nahezu fertig gespielt war.
 
 
 # Ergebnisse
 
-Die vollständigen Ergebnisse der Turniere sind spätestens drei Tage nach Turnierende an die Turnierkommission zu melden. Für die Ausrichtung ist die „TIFU-Software“ zu benutzen, da sie fortlaufende Platzierungen berechnet und mit dem Datenimport auf der STFV-Webseite kompatibel ist.
+Die vollständigen Ergebnisse der Turniere sind spätestens drei Tage nach Turnierende an die Turnierkommission zu melden. Für die Ausrichtung ist die „Kickertool Software“ zu benutzen, da sie fortlaufende Platzierungen berechnet und mit dem Datenimport auf der STFV-Webseite kompatibel ist.
 
 
 # Ranglisten
 
-Die aktuellen Ranglisten sind auf der STFV-Webseite zu finden. Informationen zur Punktewertung sind unter dem Zusatzdokument „Punktewertung & Qualifikation“ auf der STFVWebseite aufgeführt.
+Die aktuellen Ranglisten sind auf der STFV-Webseite zu finden. Informationen zur Punktewertung sind unter dem Zusatzdokument „Punktewertung in den Dokumenten“ auf der STFV Webseite aufgeführt.
 
 
 # Veröffentlichung von Daten
