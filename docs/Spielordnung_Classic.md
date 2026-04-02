@@ -227,6 +227,8 @@ Ist in Ausnahmefällen für einen Spieler wegen Übergröße oder Modellwechsel 
 
 13. Die Repräsentanten der Vereine (Vorsitzende und Spielführer) sind zu jedem Zeitpunkt des Spiels verpflichtet, den Schiedsrichter bei seiner Arbeit zu unterstützen und nicht gegen diesen zu wirken. Ein Zuwiderhandeln wird mit Strafe belegt und vom Schiedsgericht in der Höhe entschieden.
 
+14. Wenn ein Schiedsrichter zu einem bereits begonnenen Spiel bestellt wird, liegt es im Ermessungsspielraum des Schiedsrichters, bei welchem Spielstand das laufende Spiel fortgesetzt wird.
+
 # Protest und Einspruch 
 
 1. Proteste sind auf dem Spielberichtsbogen unter „Besondere Vorkommnisse“ zu vermerken. Der Protest muss die Uhrzeit der Eintragung, den genauen Spielstand und das besondere Vorkommnis in Kurzform beinhalten. 
