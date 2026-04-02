@@ -54,14 +54,11 @@ Der Verband will seinen Mitgliedern sachgerechten Sport ermöglichen durch:
 1. Der Verband nimmt jeden Tischfußballverein zum Mitglied auf, der seinen Sitz im Wirkungsbereich des Verbandes hat, sofern dieser die Ziele und Aufgaben des Verbandes mitzutragen bereit ist. 
 
 2. Der Verband unterscheidet in der Mitgliedschaft:
-
-<ol type="a">
-  <li>Die ihm angeschlossenen Vereine</li>
-  <li>Aktive Mitglieder, die regelmäßig Sport treiben, d.h. am Spielbetrieb teilnehmen oder aktiv in der Vereinsführung tätig sind.</li>
-  <li>Passive Mitglieder, die bereit sind, an den Veranstaltungen des Verbandes teilzunehmen und die Aufgaben des Verbandes zu fördern.</li>
-  <li>Ehrenmitglieder und Ehrenvorsitzende, die sich in besonderer Weise um den Verband verdient gemacht haben. Sie werden von der Mitgliederversammlung auf Vorschlag des Gesamtvorstandes gemäß der geltenden Ehrenordnung ernannt.</li>
-  <li>Fördernde Mitglieder.</li>
-</ol>
+  - Die ihm angeschlossenen Vereine
+  - Aktive Mitglieder, die regelmäßig Sport treiben, d.h. am Spielbetrieb teilnehmen oder aktiv in der Vereinsführung tätig sind.
+  - Passive Mitglieder, die bereit sind, an den Veranstaltungen des Verbandes teilzunehmen und die Aufgaben des Verbandes zu fördern.
+  - Ehrenmitglieder und Ehrenvorsitzende, die sich in besonderer Weise um den Verband verdient gemacht haben. Sie werden von der Mitgliederversammlung auf Vorschlag des Gesamtvorstandes gemäß der geltenden Ehrenordnung ernannt.
+  - Fördernde Mitglieder.
 
 3. Der Saarländische Tischfußballverband ist Mitglied des Deutschen Tischfußballbundes e.V. Er gehört ferner unter Wahrung seiner rechtlichen, sportlichen und wirtschaftlichen Selbständigkeit als Fachverband dem Landessportverband für das Saarland und dem Saarländischen Betriebssportverband an.
 
