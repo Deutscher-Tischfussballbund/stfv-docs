@@ -50,3 +50,4 @@ subtitle: "Offizielle Verbandsdokumente des Saarländischen Tischfußballverband
 | Dokument |
 |---|
 | [Protokoll Jahreshauptversammlung 2026](assets/pdf/static/Protokoll_Jahreshauptversammlung_2026.pdf) |
+| [Protokoll Sporkom 15.10.2025](assets/pdf/static/protokoll_sporkom_20251015.pdf) |
