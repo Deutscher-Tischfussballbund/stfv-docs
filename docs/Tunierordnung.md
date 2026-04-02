@@ -107,13 +107,13 @@ Die Turniergebühren bei einem Ranglistenturnier C kann nach unten abweichen. ST
 
 Das Startgeld wird zu 100% in der jeweiligen Kategorie nach folgendem Schlüssel als Preisgeld ausgezahlt: 
 
-| Platz | Anzahl der Meldungen | 2 bis 4 | 5 bis 19 | 20 bis 49 | Ab 50 |
-|-------|-----------------------|---------|----------|-----------|-------|
-| 1     |                       | 100%    | 60%      | 50%       | 50%   |
-| 2     |                       |         | 40%      | 30%       | 28%   |
-| 3     |                       |         | 20%      | 20%       | 16%   |
-| 4     |                       |         |          |           | 6%    |
-| **Summe** |                   | 100%    | 100%     | 100%      | 100%  |
+| Platz | Anzahl der Meldungen  | 1 bis 49  | Ab 50 |
+|-------|-----------------------|-----------|-------|
+| 1     |                       | 50%       | 50%   |
+| 2     |                       | 30%       | 28%   |
+| 3     |                       | 20%       | 16%   |
+| 4     |                       |           | 6%    |
+| **Summe** |                   | 100%      | 100%  |
 
 Bei Nichtanwesenheit verfällt der Anspruch auf die Preise.
 
