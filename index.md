@@ -28,7 +28,7 @@ subtitle: "Offizielle Verbandsdokumente des Saarländischen Tischfußballverband
 
 | Dokument |
 |---|
-| [Antrag auf Spielerlaubnis](assets/pdf/static/Antrag_auf_Spielerlaubnis.pdf) |
+| [Antrag auf Spielerlaubnis](assets/pdf/static/antrag_auf_spielerlaubnis.pdf) |
 | [Antrag Zuschuss Jugend](assets/pdf/static/Antrag_Zuschuss_Jugend.pdf) |
 | [Antragsformblatt JHV](assets/pdf/static/antragsformblatt_jhv.pdf) |
 | [Antragsformblatt SpoRKom](assets/pdf/static/antragsformblatt_sporkom.pdf) |
