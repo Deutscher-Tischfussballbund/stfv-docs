@@ -18,11 +18,11 @@ Diese Turnierordnung legt die grundsätzlichen Anforderungen, Regelungen und Abl
 
 # Kategorien
 
-Der Ranglistenturniere Der STFV unterscheidet als Verantwortlicher der Saarländischen Tischfußballrangliste folgende Turnierkategorien, deren Ergebnisse in die Rangliste einfließen: - Saarlandmeisterschaften 
-
+Der Ranglistenturniere Der STFV unterscheidet als Verantwortlicher der Saarländischen Tischfußballrangliste folgende Turnierkategorien, deren Ergebnisse in die Rangliste einfließen: 
+- Saarlandmeisterschaften 
 - STFV-Ranglistenturniere der Kategorie A, B und C 
 - ITSF-Weltranglistenturniere die im Saarland ausgetragen werden 
-- DTFB-Challenger-Turniere die im Saarland ausgetragen werden 
+- DTFB-Challenger-Turniere die im Saarland und in Rheinland-Pfalz ausgetragen werden 
 - STFV-Mini Challenger
 
 
@@ -71,9 +71,10 @@ Die Turnierausschreibung der STFV Ranglistenturniere hat folgende Informationen 
 - Anzahl der Spieltische 
 - Startzeiten der einzelnen Disziplinen 
 - Anmeldeschluss der einzelnen Disziplinen 
-- Maximale Anzahl der Teilnehmer 
+- Maximale Anzahl der Teilnehmer (je nach Anzahl Tische und Disziplinen)
 - Preise (Preisgeld, Pokale, Medaillen oder Urkunden ) 
-- Turniergebühr 
+- Turniergebühr
+- Voranmeldung 
 - Modus (Vorrunde/KO-Runde) 
 - Infos zum Catering (Essen und Trinken vorhanden? Mitbringen von Speisen erlaubt?)
 
@@ -92,16 +93,22 @@ Die Wahl des Anstoßes und des zuerst gespielten Balles wird durch Los ermittelt
 Die Turniere können jederzeit stattfinden, auch unter der Woche und müssen lediglich vor Turnierbeginn angemeldet werden. (Siehe Punkt 5 der TO) Bedingungen für die Ausrichtung: 
 
 - Nutzung der Kicker-Tool oder TIFU-Software mit der Einstellung „fortlaufende Platzierung“ 
-- Spielmodus: Vorrunde („Schweizer System“, „Monster-DYP“ oder „Jeder gegen Jeden“) mit anschließendem Single-KO 
+- Spielmodus: Vorrunde („Schweizer System“, „Monster-DYP“ oder „Jeder gegen Jeden“) mit anschließendem Single-KO
 - Gespielt wird nach dem Regelwerk STFV
+
+## Voranmeldung und Versäumnisgebühr
+
+Eine verbindliche Voranmeldung zum Turnier hat spätestens 72 Stunden vor dem Turniertag zu erfolgen. Erfolgt keine fristgerechte Voranmeldung, steht es dem Ausrichter frei, eine Versäumnisgebühr in Höhe von 10 € zu erheben.
+Erfolgt keine Voranmeldung, besteht kein Anspruch auf Teilnahme. Eine Anmeldung am Turniertag ist nur möglich, sofern die maximale Teilnehmerzahl noch nicht erreicht ist
+
 
 ## Turniergebühr / Preise
 
 Die Turniergebühr bei Ranglistenturniere beträgt maximal 25,00 Euro. Sie setzt sich wie folgt zusammen: 
 
 - Startgeld:                      max. 20,00 Euro 
-- Tischgeld:                         fest 2,00 Euro 
-- Organisationspauschale: fest 3,00 Euro 
+- Organisationspauschale:               5,00 Euro 
+  
 
 Die Turniergebühren bei einem Ranglistenturnier C kann nach unten abweichen. STFV-Turnierordnung Stand 11.07.2023 4 Die 3 Erstplatzierten erhalten Pokale und/oder Urkunden und/oder Medaillen, die vom Ausrichter zu stellen sind. Stehen weitere Preise zum Beispiel von Sponsoren zur Verfügung, steht es dem Ausrichter frei, wie diese Preise hinzuaddiert werden. 
 
