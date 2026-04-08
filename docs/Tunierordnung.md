@@ -110,7 +110,7 @@ Die Turniergebühr bei Ranglistenturniere beträgt maximal 25,00 Euro. Sie setzt
 - Organisationspauschale:               5,00 Euro 
   
 
-Die Turniergebühren bei einem Ranglistenturnier C kann nach unten abweichen. STFV-Turnierordnung Stand 11.07.2023 4 Die 3 Erstplatzierten erhalten Pokale und/oder Urkunden und/oder Medaillen, die vom Ausrichter zu stellen sind. Stehen weitere Preise zum Beispiel von Sponsoren zur Verfügung, steht es dem Ausrichter frei, wie diese Preise hinzuaddiert werden. 
+Die Turniergebühren bei einem Ranglistenturnier C kann nach unten abweichen. STFV-Turnierordnung Stand 01.01.2026. Die 3 Erstplatzierten erhalten Pokale und/oder Urkunden und/oder Medaillen, die vom Ausrichter zu stellen sind. Stehen weitere Preise zum Beispiel von Sponsoren zur Verfügung, steht es dem Ausrichter frei, wie diese Preise hinzuaddiert werden. 
 
 Das Startgeld wird zu 100% in der jeweiligen Kategorie nach folgendem Schlüssel als Preisgeld ausgezahlt: 
 
