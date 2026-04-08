@@ -1,7 +1,7 @@
 ---
 title: "Turnierordnung"
 subtitle: "des STFV e.V."
-date: '{{ site.time | date: "%d.%m.%Y" }}'
+date: '01.01.2026'
 section_numbering: arabic
 pdf: /assets/pdf/Tunierordnung.pdf
 ---
