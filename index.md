@@ -51,3 +51,12 @@ subtitle: "Offizielle Verbandsdokumente des Saarländischen Tischfußballverband
 |---|
 | [Protokoll Jahreshauptversammlung 2026](assets/pdf/static/Protokoll_Jahreshauptversammlung_2026.pdf) |
 | [Protokoll Sporkom 15.10.2025](assets/pdf/static/protokoll_sporkom_20251015.pdf) |
+
+## Statuten des Verbandes
+
+| Dokument | Excel |
+|---|---|
+| [Spielereinsatzstatistik Classic](assets/statistiken/Spielereinsatzstatistik_Verbandsrunde.pdf) | [Excel](assets/statistiken/Spielereinsatzstatistik_Verbandsrunde.xlsm) |
+| [Spielereinsatzstatistik Pokal Classic](assets/statistiken/Spielereinsatzstatistik_Pokal.pdf) | [Excel](assets/statistiken/Spielereinsatzstatistik_Pokal.xlsm) |
+| [Spielereinsatzstatistik Leistungssport](assets/statistiken/Spielereinsatzstatistik_Leistungssportliga_pro.pdf) | [Excel](assets/statistiken/Spielereinsatzstatistik_Leistungssportliga_pro.xlsm) |
+| [Auslosung Kreisliga](assets/statistiken/Auslosung.pdf) ||
