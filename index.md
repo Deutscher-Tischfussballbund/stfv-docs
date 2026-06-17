@@ -61,5 +61,10 @@ subtitle: "Offizielle Verbandsdokumente des Saarländischen Tischfußballverband
 | [Spielereinsatzstatistik Pokal Classic](assets/statistiken/Spielereinsatzstatistik_Pokal.pdf) | [Excel](assets/statistiken/Spielereinsatzstatistik_Pokal.xlsm) |
 | [Spielereinsatzstatistik Leistungssport](assets/statistiken/Spielereinsatzstatistik_Leistungssportliga_pro.pdf) | [Excel](assets/statistiken/Spielereinsatzstatistik_Leistungssportliga_pro.xlsm) |
 | [Auslosung Kreisliga](assets/statistiken/Auslosung.pdf) ||
-| [Tabellen aktueller Spieltag](assets/statistiken/Spieltagstabellen_Verbandsrunde.pdf) ||
-| [Kreuztabellen](assets/statistiken/Kreuztabellen_Verbandsrunde.pdf) ||
+
+## Weitere Tabellen
+
+| Tabelle |
+|---|
+| [Tabellen aktueller Spieltag](assets/statistiken/Spieltagstabellen_Verbandsrunde.pdf) |
+| [Kreuztabellen](assets/statistiken/Kreuztabellen_Verbandsrunde.pdf) |
