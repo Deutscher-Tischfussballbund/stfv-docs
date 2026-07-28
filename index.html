@@ -17,8 +17,8 @@
         <link rel="icon" type="image/png" href="/templates/stfv/images/favicon.png">
         <link rel="apple-touch-icon" href="/templates/stfv/images/logo.png">
         <link rel="manifest" href="/manifest.webmanifest">
-        <link rel="stylesheet" href="/templates/shared/web.css?v=1785216490">
-        <link rel="stylesheet" href="/templates/stfv/web.css?v=1785216490">
+        <link rel="stylesheet" href="/templates/shared/web.css?v=1785217260">
+        <link rel="stylesheet" href="/templates/stfv/web.css?v=1785217260">
     
 </head>
 <body class=" template-stfv">
@@ -262,7 +262,7 @@
   <tbody>
     <tr>
       <td><a href="/assets/pdf/static/antrag_auf_spielerlaubnis.pdf">Antrag auf Spielerlaubnis</a></td>
-      <td> </td>
+      <td><a href="/assets/pdf/static/antrag_auf_spielerlaubnis.xlsx">Excel</a></td>
     </tr>
     <tr>
       <td><a href="/assets/pdf/static/Antrag_Zuschuss_Jugend.pdf">Antrag Zuschuss Jugend</a></td>
@@ -270,15 +270,15 @@
     </tr>
     <tr>
       <td><a href="/assets/pdf/static/antragsformblatt_jhv.pdf">Antragsformblatt JHV</a></td>
-      <td> </td>
+      <td><a href="/assets/pdf/static/antragsformblatt_jhv.docx">Word</a></td>
     </tr>
     <tr>
       <td><a href="/assets/pdf/static/antragsformblatt_sporkom.pdf">Antragsformblatt SpoRKom</a></td>
-      <td> </td>
+      <td><a href="/assets/pdf/static/antragsformblatt_sporkom.docx">Word</a></td>
     </tr>
     <tr>
       <td><a href="/assets/pdf/static/austrittserklaerung.pdf">Austrittserklärung</a></td>
-      <td> </td>
+      <td><a href="austrittserklaerung.xlsx">Excel</a></td>
     </tr>
     <tr>
       <td><a href="/assets/pdf/static/einverstaendniserklaerung_spieverlegung.pdf">Einverständniserklärung Spielverlegung</a></td>
@@ -290,7 +290,7 @@
     </tr>
     <tr>
       <td><a href="/assets/pdf/static/mannschaftsaufstellung.pdf">Mannschaftsaufstellung</a></td>
-      <td> </td>
+      <td><a href="/assets/pdf/static/mannschaftsaufstellung.docx">Word</a></td>
     </tr>
     <tr>
       <td><a href="/assets/pdf/static/schiedsrichterentschaedigung.pdf">Schiedsrichterentschädigung</a></td>
@@ -318,7 +318,11 @@
     </tr>
     <tr>
       <td><a href="/assets/pdf/static/spielbericht_classic.pdf">Spielbericht Classic</a></td>
-      <td> </td>
+      <td><a href="/assets/pdf/static/spielbericht_classic.xlsx">Excel</a></td>
+    </tr>
+    <tr>
+      <td><a href="/assets/pdf/static/spielbericht_dieter_grenner_pokal.pdf">Spielbericht Dieter Grenner Pokal</a></td>
+      <td><a href="/assets/pdf/static/spielbericht_dieter_grenner_pokal.xlsx">Excel</a></td>
     </tr>
   </tbody>
 </table>
@@ -481,7 +485,7 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {
-            const buildV = '1785216490';
+            const buildV = '1785217260';
             document.querySelectorAll('a[href]').forEach(a => {
                 const href = a.getAttribute('href');
                 if (!href || !href.match(/\.pdf(\?|$)/)) return;
