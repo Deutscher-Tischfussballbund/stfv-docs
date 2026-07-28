@@ -33,7 +33,7 @@ subtitle: "Offizielle Verbandsdokumente des Saarländischen Tischfußballverband
 | [Antrag Zuschuss Jugend](assets/pdf/static/Antrag_Zuschuss_Jugend.pdf) ||
 | [Antragsformblatt JHV](assets/pdf/static/antragsformblatt_jhv.pdf) | [Word](assets/pdf/static/antragsformblatt_jhv.docx) |
 | [Antragsformblatt SpoRKom](assets/pdf/static/antragsformblatt_sporkom.pdf) | [Word](assets/pdf/static/antragsformblatt_sporkom.docx) |
-| [Austrittserklärung](assets/pdf/static/austrittserklaerung.pdf) | [Excel](austrittserklaerung.xlsx) |
+| [Austrittserklärung](assets/pdf/static/austrittserklaerung.pdf) | [Excel](assets/pdf/static/austrittserklaerung.xlsx) |
 | [Einverständniserklärung Spielverlegung](assets/pdf/static/einverstaendniserklaerung_spieverlegung.pdf) ||
 | [Erstattungsantrag Kilometergeld](assets/pdf/static/erstattungsantrag_kilometrgeld.pdf) ||
 | [Mannschaftsaufstellung](assets/pdf/static/mannschaftsaufstellung.pdf) | [Word](assets/pdf/static/mannschaftsaufstellung.docx) |
