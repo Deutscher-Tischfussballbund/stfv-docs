@@ -183,7 +183,7 @@ Der über mehrere Jahre verteilte Umstrukturierungsprozess im Ligabetrieb Classi
     - bei einem späteren Termin eines verlegten Pflichtspieles
     - bei einem Wiederholungsspiel
 
-- Spieler können an Relegationsspielen, Entscheidungsspielen und Pokalspielen (ab Viertelfinale) nur teilnehmen, wenn sie in laufender Saison mindestens 5 Pflichtspiele (nicht Pokalspiele) für den Verein bestritten haben oder sie die komplette Rückrunde für den Verein spielberechtigt waren.
+- Spieler können an Relegationsspielen, Entscheidungsspielen und Pokalspielen (ab Viertelfinale) nur teilnehmen, wenn sie in laufender Saison mindestens 3 Pflichtspiele (nicht Pokalspiele) für den Verein bestritten haben oder sie die komplette Rückrunde für den Verein spielberechtigt waren.
 - Spieler die laut Einsatzstatistik überwiegend (mehr als 50 % ihrer Pflichtspiele) ohne Pokalspiele in dieser oder einer untergeordneten Mannschaft eingesetzt waren, sind für ein Entscheidungs- und Relegationsspiel spielberechtigt. Hierbei sind unbedingt die Regelungen aus § 5 Abs. 2 - 4 zu beachten.
 - Der Einsatz von Spielern die laut Einsatzstatistik nicht eindeutig dieser Mannschaft zugeordnet werden kann, ist auf maximal 4 Spieler begrenzt.
 - Begriffserklärung: Der Begriff „untergeordnete Mannschaft" beziehungsweise „übergeordnete Mannschaft" ergibt sich aus der Klassenzugehörigkeit und der Klassifizierung (Beispiel: 3. Mannschaft ist der 2. Mannschaft und eine Bezirksligamannschaft ist der Verbandsligamannschaft untergeordnet).
