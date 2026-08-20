@@ -35,7 +35,7 @@ Als Mitglied des DTFB e.V. und des saarländischen Betriebssportverbandes stellt
 
 # Externe Weitergabe von Daten
 
-Der Verband übermittelt seinen Kooperationspartnern auf Anforderung Listen bestimmter Personen- oder Vereinsgruppen, auf denen lediglich die Daten Name, Vorname und Adresse vermerkt sind.
+Der Verband übermittelt seinen Kooperationspartnern auf Anforderung Listen bestimmter Personen- oder Vereinsgruppen, auf denen lediglich die Daten Name, Vorname und Bild vermerkt sind.
 
 Mitglieder und Einzelpersonen können der externen Weitergabe ihrer Daten schriftlich widersprechen; im Falle eines Widerspruchs werden die vereins- bzw. personenbezogenen Daten auf der entsprechenden Liste geschwärzt.
 
@@ -44,13 +44,13 @@ Mitglieder und Einzelpersonen können der externen Weitergabe ihrer Daten schrif
 
 Mit der Mitgliedschaft im STFV willigt das Mitglied ein, dass:
 
-- Sein Vereinsname, die Vereinsnummer, seine Spiellokale und die vom Mitglied selbst zu bestimmende Kontaktadresse auf geeignete Weise veröffentlicht werden.
+- Sein Vereinsname, sein Foto die Vereinsnummer, seine Spiellokale und die vom Mitglied selbst zu bestimmende Kontaktadresse auf geeignete Weise veröffentlicht werden.
 
-- Mit der Übernahme einer Tätigkeit im STFV willigt der Verbandsangehörige, Schiedsrichter oder Übungsleiter ein, dass seine Funktion, sein Name und Vorname sowie seine Adresse auf geeignete Weise veröffentlicht werden.
+- Mit der Übernahme einer Tätigkeit im STFV willigt der Verbandsangehörige, Schiedsrichter oder Übungsleiter ein, dass seine Funktion, sein Name und Vorname sowie seine Kontaktadresse auf geeignete Weise veröffentlicht werden.
 
 Im Rahmen der vom Satzungszweck gedeckten Öffentlichkeitsarbeit werden die in Ziffer 1 genannten Daten für die Veröffentlichung im Internet auf der Homepage des STFV bekannt gemacht. Die Veröffentlichung weiterer vereins- oder personenbezogener Daten erfolgt ausschließlich mit schriftlichem Einverständnis der Mitglieder bzw. Einzelpersonen.
 
-Mit der Teilnahme am Spielbetrieb willigen Vereine und Spieler ein, dass ihre Daten wie beispielsweise Name, Vorname, Geschlecht, Altersklasse und Vereinszugehörigkeit sowie ihre Erfolge und Fotos bzw. Filmaufnahmen veröffentlicht werden.
+Mit der Teilnahme am Spielbetrieb willigen Vereine und Spieler ein, dass ihre Daten wie beispielsweise Name, Vorname, Spielerfoto, Geschlecht, Altersklasse und Vereinszugehörigkeit sowie ihre Erfolge und Fotos bzw. Filmaufnahmen veröffentlicht werden.
 
 
 # Dauer der Datenspeicherung
