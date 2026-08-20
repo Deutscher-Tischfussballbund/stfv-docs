@@ -44,7 +44,7 @@ Mitglieder und Einzelpersonen können der externen Weitergabe ihrer Daten schrif
 
 Mit der Mitgliedschaft im STFV willigt das Mitglied ein, dass:
 
-- Sein Vereinsname, sein Foto die Vereinsnummer, seine Spiellokale und die vom Mitglied selbst zu bestimmende Kontaktadresse auf geeignete Weise veröffentlicht werden.
+- Sein Vereinsname, sein Foto, die Vereinsnummer, seine Spiellokale und die vom Mitglied selbst zu bestimmende Kontaktadresse auf geeignete Weise veröffentlicht werden.
 
 - Mit der Übernahme einer Tätigkeit im STFV willigt der Verbandsangehörige, Schiedsrichter oder Übungsleiter ein, dass seine Funktion, sein Name und Vorname sowie seine Kontaktadresse auf geeignete Weise veröffentlicht werden.
 
