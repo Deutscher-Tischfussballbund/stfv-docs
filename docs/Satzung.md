@@ -21,7 +21,7 @@ Der Verband führt den Namen Saarländischer Tischfußballverband e. V. (STFV e.
 
 # Sitz
 
-Der Verband hat seinen Sitz in 66564 Ottweiler. Er ist im Vereinsregister beim Amtsgericht Ottweiler eingetragen. 
+Der Verband hat seinen Sitz in 66123 Saarbrücken. Er ist im Vereinsregister beim Amtsgericht Saarbrücken eingetragen. 
 
 
 # Zweck 
