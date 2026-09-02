@@ -92,7 +92,7 @@ Die Wahl des Anstoßes und des zuerst gespielten Balles wird durch Los ermittelt
 
 Die Turniere können jederzeit stattfinden, auch unter der Woche und müssen lediglich vor Turnierbeginn angemeldet werden. (Siehe Punkt 5 der TO) Bedingungen für die Ausrichtung: 
 
-- Nutzung der Kicker-Tool oder TIFU-Software mit der Einstellung „fortlaufende Platzierung“ 
+- Nutzung der Kicker-Tool mit der Einstellung „fortlaufende Platzierung“ 
 - Spielmodus: Vorrunde („Schweizer System“, „Monster-DYP“ oder „Jeder gegen Jeden“) mit anschließendem Single-KO
 - Gespielt wird nach dem Regelwerk STFV
 
@@ -151,7 +151,7 @@ Alle Turniere für die Pro Rangliste oder für die DTFB-Rangliste müssen nach d
 
 Die Turniere können jederzeit stattfinden, auch unter der Woche und müssen lediglich vor Turnierbeginn angemeldet werden. (Siehe Punkt 5 der TO) Bedingungen für die Ausrichtung: 
 
-- Nutzung der TIFU-Software mit der Einstellung „fortlaufende Platzierung“ 
+- Nutzung der Kickertool App mit der Einstellung „fortlaufende Platzierung“ 
 - Spielmodus: Vorrunde („Schweizer System“, „Monster-DYP“ oder „Jeder gegen Jeden“) mit anschließendem Single-KO. Gespielt wird nach ITSF-Regelwerk.
 
 ## Teilnahmeberechtigung
@@ -166,7 +166,7 @@ STFV-Ranglistenturniere werden nach den offiziellen Tischfußballregeln des STFV
 
 # Schiedsrichter
 
-Die Spieler können Schiedsrichter für einzelne Begegnungen zu Beginn oder im Laufe einer Begegnung anfordern. Die je nach Verfügbarkeit durch die Turnierleitung eingeteilten Schiedsrichter können nicht abgelehnt werden. Die Kosten für den Schiedsrichter betragen 3€ Organisationspauschale plus 1€ pro angefangenen Satz (Beispiel: für 3 Sätze erhält der Schiedsrichter 1€ + 3€ = 4€). Die Schiedsrichtergebühr wird jeweils von den beiden Teams am Ende der Begegnung beglichen. Diese ist als Fallpauschale anzusehen und ist auch zu zahlen, wenn die Begegnung zu Beginn des Schiedsrichtereinsatzes schon nahezu fertig gespielt war.
+Die Spieler können Schiedsrichter für einzelne Begegnungen zu Beginn oder im Laufe einer Begegnung anfordern. Die je nach Verfügbarkeit durch die Turnierleitung eingeteilten Schiedsrichter können nicht abgelehnt werden. Die Kosten für den Schiedsrichter betragen 3€ Organisationspauschale plus 1€ pro angefangenen Satz (Beispiel: für 3 Sätze erhält der Schiedsrichter 3€ + 3€ = 6€). Die Schiedsrichtergebühr wird jeweils von den beiden Teams am Ende der Begegnung beglichen. Diese ist als Fallpauschale anzusehen und ist auch zu zahlen, wenn die Begegnung zu Beginn des Schiedsrichtereinsatzes schon nahezu fertig gespielt war.
 
 
 # Ergebnisse
