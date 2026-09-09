@@ -23,6 +23,7 @@ subtitle: "Offizielle Verbandsdokumente des Saarländischen Tischfußballverband
 | [Turnierordnung](docs/Tunierordnung.html) | [PDF](assets/pdf/Tunierordnung.pdf) |
 | [Informationen zum Spielmodus und -ablauf Proliga 2026](docs/Informationen_Proliga.html) | [PDF](assets/pdf/Informationen_Proliga.pdf) |
 | [Modalitäten des Spielbetriebes STFV Classic für die Saison 2026](docs/Modalitäten_Spielbetriebes_Classic.html) | [PDF](assets/pdf/Modalitäten_Spielbetriebes_Classic.pdf) |
+| [Modalitäten des Dieter Grenner Pokal für die Saison 2026](docs/Modalitäten_DGP_2026.html) | [PDF](assets/pdf/Modalitäten_DGP_2026.pdf) |
 
 
 ## Formulare des Verbandes
