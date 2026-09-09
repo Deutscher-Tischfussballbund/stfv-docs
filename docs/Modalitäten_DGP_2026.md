@@ -39,6 +39,3 @@ Die Einteilung erfolgt in 4er Gruppen.
 Bei weiteren Fragen könnt ihr euch gerne an mich oder ein anderes Mitglied der Spielbetriebskommission wenden. Ich wünsche bereits jetzt faire Spiele und einen erfolgreichen Verlauf für den diesjährigen Dieter Grenner-Pokal-Wettbewerb.
 
 Als Anlage anbei der Spielbericht „Classic-Cup", welchen wir nun auch für den Dieter Grenner-Pokal verwenden wollen.
-
-**Steven Schmidt**
-Leiter Spielbetrieb
