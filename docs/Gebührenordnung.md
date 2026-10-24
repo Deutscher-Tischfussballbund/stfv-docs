@@ -1,7 +1,7 @@
 ---
 title: "Gebührenordnung"
 subtitle: "des STFV e.V."
-date: '{{ site.time | date: "%d.%m.%Y" }}'
+date: '19.08.2026'
 section_numbering: arabic
 pdf: /assets/pdf/Gebührenordnung.pdf
 ---
@@ -59,34 +59,37 @@ Den ehrenamtlichen Mitarbeitern des Verbandes sind entstehende Kosten nach den j
 
 1. Die Aufnahmegebühr (Kaution) ist bei Aufnahme in den Verband innerhalb von 4 Wochen nach schriftlicher Beitrittserklärung fällig.
 2. Der Jahresbeitrag für die 1. und jede weitere Mannschaft eines Vereins ist bis 31. März jeden Jahres fällig.
-3. Die Zahlungsweise bei Aushändigung von Spielerpässen erfolgt nach § 6 SPO Abs. „Anmerkung a“.
-4. Ordnungsstrafen sind innerhalb von 14 Tagen nach Zustellung des Bescheides auf das Geschäftskonto (§ 6 GBO) zu überweisen.
+3. Ordnungsstrafen sind innerhalb von 14 Tagen nach Zustellung des Bescheides auf das Geschäftskonto (§ 6 GBO, Kreissparkasse St. Wendel, IBAN DE18 5925 1020 0000 0041 43) zu überweisen.
 
-   - Bei Zahlungsverzug erfolgt eine kostenpflichtige Mahnung mit einer weiteren Frist von 10 Tagen.
-   - Nach erneuter Fristüberschreitung wird eine letzte Zahlungsaufforderung mit einer 10-Tagesfrist und der Androhung einer Spielsperre ausgesprochen.
+   <ol type="a">
+     <li>Ist nach der o.g. Frist kein Zahlungseingang festzustellen, so erfolgt eine kostenpflichtige Mahnung mit einer weiteren Frist von 10 Tagen.</li>
+     <li>Ist auch diese Frist verstrichen, so erhält der jeweilige Verein eine letzte Zahlungsaufforderung mit einer 10-Tagesfrist und der Androhung einer Spielsperre des Vereins einschließlich aller seiner gemeldeten Mannschaften bis zur endgültigen Erledigung einschließlich der Zahlung der Aufschläge.</li>
+   </ol>
 
 
 # Gebühren und Beiträge
 
-## Gültig für Classic- und Pro-Ligen
+## Gültig für Classic- und Pro-Ligen mit Ausnahme der individuellen Jahresgebühr
 
-1. **Aufnahmegebühr:** € 60,--
-2. **Kaution (auf Sparkonto):** € 100,--
-3. **Jahresbeitrag:**
-   - I. Mannschaft: € 150,--
+1. **Aufnahmegebühr:** € 60,-- (§ 6 Satzung)
+2. **Kaution (auf Sparkonto angelegt):** € 100,-- (§ 6 Satzung)
+3. **Jahresbeitrag:** (§ 8 Satzung)
+   - 1\. Mannschaft: € 150,--
    - Je weitere Mannschaft: € 100,--
    - Je Pro-Mannschaft: € 50,--
    - Inaktiver Verein: € 75,--
-4. **Abmeldegebühr:** € 25,--
-5. **Spielerlaubnisgebühren:**
-   - Spielgenehmigung: € 6,--
-   - Ersatzspielerpass: € 6,--
+4. **Abmeldegebühr (laufende Runde):** € 25,-- (§ 19 SPO)
+5. **Spielerlaubnisgebühren:** (§ 6 SPO)
+   - Erteilung einer Spielgenehmigung: € 6,--
    - Jährliche Verlängerung: € 3,--
-6. **Protestgebühr:** € 52,--
-7. **Einspruchsgebühr:** € 52,--
-8. **Mahngebühr:** € 5,--
-9. **Bearbeitungsgebühr:** € 5,--
-10. **Genehmigung von Spielverlegungen:** € 5,--
+6. **Protestgebühr:** € 52,-- (§ 16 SPO)
+7. **Einspruchsgebühr:** € 52,-- (§ 16 SPO)
+8. **Mahngebühr (inkl. Porto):** € 5,-- (§ 6 (5) SPO)
+9. **Bearbeitungsgebühr (Beitragsrückstand):** € 5,--
+10. **Zustellgebühr:** nach Aufwand
+11. **Genehmigung einer Spielverlegung sowie Tauschen einer Spielpaarung:** € 5,-- (§ 3 SPO)
+
+Gebühren und Beiträge sind innerhalb der gesetzten Fristen zu zahlen. Überschreitungen der Zahlungsfristen werden kostenpflichtig gemahnt.
 
 
 # Ordnungsstrafen
@@ -95,7 +98,7 @@ Den ehrenamtlichen Mitarbeitern des Verbandes sind entstehende Kosten nach den j
 
 1. Abgabe der Mannschaftsmeldung zwischen 21:00 und 21:15 Uhr für alle Ligen € 6,-- (§ 10 SPO)
 
-2. Nichtantreten einer Mannschaft bzw. Abgabe der Mannschaftsmeldung nach 21:30 Uhr (§10 SPO):
+2. Nichtantreten einer Mannschaft bzw. Abgabe der Mannschaftsmeldung nach 21:30 Uhr (§ 10 SPO):
 
    <ol type="a">
      <li>Landesliga € 80,--</li>
@@ -103,51 +106,52 @@ Den ehrenamtlichen Mitarbeitern des Verbandes sind entstehende Kosten nach den j
      <li>Bezirks- und Kreisligen € 25,--</li>
    </ol>
 
-Im Wiederholungsfalle erfolgt neben der Ordnungsstrafe ein Punktabzug von 2 Pluspunkten in der Tabelle nach Abschluss der Verbandsrunde (nur Landes- und Verbandsliga). 
+   Im Wiederholungsfalle erfolgt neben der Ordnungsstrafe ein Punktabzug von 2 Pluspunkten in der Tabelle nach Abschluss der Verbandsrunde (nur Landes- und Verbandsliga).
 
-3. Nichtangabe des Spielergebnisses am Spieltag € 6,-- (§ 14 SPO) 
+3. Nichtangabe des Spielergebnisses am Spieltag € 6,-- (§ 14 SPO)
 
-4. Telefongebühr mit Versäumnisgebühr (zu Punkt 3) € 1,-- (§ 14 SPO) 
+4. Telefongebühr mit Versäumnisgebühr (zu Punkt 3) € 1,-- (§ 14 SPO)
 
-5. Nicht- bzw. verspätete Einsendung des Spielberichtes. 
+5. Nicht- bzw. verspätete Einsendung des Spielberichtes.
 
-6. Punktspiele an die Klassenleiter, Pokalspiele an den Klassenleiter € 6,-- (§ 14 SPO) 
+6. Punktspiele an die Klassenleiter, Pokalspiele an den Klassenleiter € 6,-- (§ 14 SPO)
 
-7. Nichteinsenden innerhalb der Nachfrist € 12,-- (§ 14 SPO) 
+7. Nichteinsenden innerhalb der Nachfrist € 12,-- (§ 14 SPO)
 
-8. Einsenden von nicht vollständig ausgefüllten Spielberichten € 6,-- (§ 14 SPO) 
+8. Einsenden von nicht vollständig ausgefüllten Spielberichten € 6,-- (§ 14 SPO)
 
-9. Fehlende Unterschriften auf dem Spielerpass € 6,-- (§ 6 SPO) 
+9. Nichteintragen des Austrittsdatums bei Vereinswechsel auf der Austrittserklärung € 6,-- (§ 4 SPO)
 
-10. Nichteintragen des Austrittsdatums bei Vereinswechsel auf dem Spielerpass € 6,-- (§ 4 SPO) 
+10. Einsatz von Spielern ohne Spielerlaubnis € 26,-- (§ 5 SPO)
 
-11. Einsatz von Spielern ohne Spielerlaubnis € 26,-- (§ 5 SPO) 
+11. Falschmeldung des Spielergebnisses bzw. Manipulieren des Spielberichtes oder der Mannschaftsaufstellung € 52,-- (§ 9 SPO)
 
-12. Falschmeldung des Spielergebnisses bzw. Manipulieren des Spielberichtes oder der Mannschaftsaufstellung € 52,-- (§ 9 SPO) 
+12. Nicht- bzw. verspätetes Einsenden der Austrittserklärung an die STFV-Geschäftsstelle € 12,-- (§ 4 SPO)
 
-13. Nicht- bzw. verspätetes Einsenden eines Spielerpasses sowie der Austrittserklärung an die STFV-Geschäftsstelle € 12,-- (§ 4 SPO) 
+13. Unentschuldigtes Fernbleiben von Zeugen bei Schiedsgerichts- und Vorstandssitzungen € 52,-- (§ 16 SPO)
 
-14. Unentschuldigtes Fernbleiben von Zeugen bei Schiedsgerichts- und Vorstandssitzungen € 52,-- (§ 16 SPO) 
-
-15. Nichtvorlage von Spielerpässen pro Pass/max € 6,--/24,-- (§ 9 SPO)
-
-Bemerkung : Ordnungsstrafen können im Wiederholungsfall um 100% erhöht werden. Die Ordnungsstrafen zu den Punkten 1 - 9 werden jeweils von den Klassenleitern bearbeitet. Im Falle der Verhängung eines Ordnungsgeldes durch das Schiedsgericht oder den Verbandsvorstand darf dieses den Betrag von € 150,00 im Einzelfall nicht überschreiten. Ordnungsstrafen sind innerhalb der gesetzten Fristen zu zahlen. Überschreitungen dieser Fristen werden kostenpflichtig gemahnt.
+Bemerkung: Ordnungsstrafen können im Wiederholungsfall um 100% erhöht werden. Die Ordnungsstrafen zu den Punkten 1 - 9 werden jeweils von den Klassenleitern bearbeitet. Im Falle der Verhängung eines Ordnungsgeldes durch das Schiedsgericht oder den Verbandsvorstand darf dieses den Betrag von € 150,00 im Einzelfall nicht überschreiten. Ordnungsstrafen sind innerhalb der gesetzten Fristen zu zahlen. Überschreitungen dieser Fristen werden kostenpflichtig gemahnt.
 
 
 # Aufwandsentschädigungen
 
-1. Spesen für den vom Verband eingesetzten Schiedsrichter je Einsatz € 60,-- 
+1. Spesen für den vom Verband eingesetzten Schiedsrichter je Einsatz € 60,--
 
-2. KM-Pauschale i.H.v. € 0,35 je KM für · Vorstandsmitgliedern bei offiziellen Terminen · Schiedsgerichtsbeisitzer bei offiziellen Terminen · Kommissionsmitgliedern bei offiziellen Terminen Eine Angleichung erfolgt jeweils nach dem Beschluss des Gesetzgebers. 
+2. KM-Pauschale i.H.v. € 0,35 je KM für
+
+   - Vorstandsmitglieder bei offiziellen Terminen
+   - Schiedsgerichtsbeisitzer bei offiziellen Terminen
+   - Kommissionsmitglieder bei offiziellen Terminen
+
+   Eine Angleichung erfolgt jeweils nach dem Beschluss des Gesetzgebers.
 
 3. Sitzungsgeld für Vorstands-, Schiedsgerichts- und Kommissionsmitglieder pro Sitzung € 10,--
 
 
-# Tätigkeitsbereich: STFV-Geschäftsstelle – Klassenleiter
+# Tätigkeitsbereich: STFV-Geschäftsstelle – Spielbetriebskommission – Klassenleiter
 
-1. Gegen eine von der STFV-Geschäftsstelle beziehungsweise den der Spielbetriebskommission und/oder den Klassenleitern ausgesprochene Ordnungsstrafe bzw. Maßnahme können die betroffenen Vereine bzw. Einzelmitglieder binnen 14 Tagen nach Zustellung des Bescheides per Einschreiben Einspruch beim STFV-Vorstand (Geschäftsstelle) einlegen. Dieser ist zu begründen. 
+1. Gegen eine von der STFV-Geschäftsstelle beziehungsweise den der Spielbetriebskommission und/oder den Klassenleitern ausgesprochene Ordnungsstrafe bzw. Maßnahme können die betroffenen Vereine bzw. Einzelmitglieder binnen 14 Tagen nach Zustellung des Bescheides per Einschreiben Einspruch beim STFV-Vorstand (Geschäftsstelle) einlegen. Dieser ist zu begründen.
 
-2. Der Einspruch ist nur gültig, wenn der Betroffene innerhalb der vorgegebenen Frist die Einspruchsgebühr in Höhe der verhängten Ordnungsstrafe an die STFV-Geschäftskasse Kreissparkasse St. Wendel IBAN DE185925 1020 0000 0041 43 entrichtet hat. Der Einzahlungsbeleg (Kopie) ist dem Einspruch beizufügen. 
+2. Der Einspruch ist nur gültig, wenn der Betroffene innerhalb der vorgegebenen Frist die Einspruchsgebühr in Höhe der verhängten Ordnungsstrafe an die STFV-Geschäftskasse Kreissparkasse St. Wendel IBAN DE18 5925 1020 0000 0041 43 entrichtet hat. Der Einzahlungsbeleg (Kopie) ist dem Einspruch beizufügen.
 
 3. Im Falle eines Einspruchs wird das ausgesprochene Urteil bis zur Einspruchsverhandlung durch den STFV-Gesamtvorstand ausgesetzt. Der Vorstand bestätigt das ausgesprochene Urteil oder fällt ein neues Urteil. Diese Entscheidung ist dem jeweiligen Betroffenen binnen 14 Tagen per Einschreiben und/oder E-Mail mit Lesebestätigung zuzustellen.
-
