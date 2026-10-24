@@ -2,7 +2,7 @@
 title: "Gebührenordnung"
 subtitle: "des STFV e.V."
 date: '19.08.2026'
-section_numbering: arabic
+section_numbering: paragraph
 pdf: /assets/pdf/Gebührenordnung.pdf
 ---
 
@@ -69,7 +69,7 @@ Den ehrenamtlichen Mitarbeitern des Verbandes sind entstehende Kosten nach den j
 
 # Gebühren und Beiträge
 
-## Gültig für Classic- und Pro-Ligen mit Ausnahme der individuellen Jahresgebühr
+*Gültig für Classic- und Pro-Ligen mit Ausnahme der individuellen Jahresgebühr*
 
 1. **Aufnahmegebühr:** € 60,-- (§ 6 Satzung)
 2. **Kaution (auf Sparkonto angelegt):** € 100,-- (§ 6 Satzung)
@@ -94,7 +94,7 @@ Gebühren und Beiträge sind innerhalb der gesetzten Fristen zu zahlen. Übersch
 
 # Ordnungsstrafen
 
-## Gültig für Classic- und Pro-Ligen
+*Gültig für Classic- und Pro-Ligen*
 
 1. Abgabe der Mannschaftsmeldung zwischen 21:00 und 21:15 Uhr für alle Ligen € 6,-- (§ 10 SPO)
 
