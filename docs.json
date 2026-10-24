@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T18:14:56+00:00",
+  "generated": "2026-10-24T18:30:24+00:00",
   "site": "STFV Dokumente",
   "documents": [
     {
@@ -34,7 +34,7 @@
       "pdf": "/assets/pdf/Gebührenordnung.pdf",
       "source": "",
       "template": "stfv",
-      "section_numbering": "arabic",
+      "section_numbering": "paragraph",
       "lang": "de",
       "home": false
     },
